@@ -1,0 +1,1505 @@
+concept,name,indicator_code,indicator_unit,concept_type
+chepctgdp_sha2011_million_ncu,Current Health Expenditure (CHE) as % Gross Domestic Product (GDP),CHE%GDP_SHA2011,Ones,measure
+sha11_hf_million_ncu,Current health expenditure by financing schemes,sha11.HF,Millions,measure
+sha11_hf_nec_million_ncu,Unspecified financing schemes (n.e.c.),sha11.HF.nec,Millions,measure
+sha11_hf_4_million_ncu,Rest of the world financing schemes (non-resident),sha11.HF.4,Millions,measure
+sha11_hf_3_million_ncu,Household out-of-pocket payment,sha11.HF.3,Millions,measure
+sha11_hf_2_3_million_ncu,Enterprise financing schemes,sha11.HF.2.3,Millions,measure
+sha11_hf_2_2_million_ncu,NPISH financing schemes (including development agencies),sha11.HF.2.2,Millions,measure
+sha11_hf_2_1_million_ncu,Voluntary health insurance schemes,sha11.HF.2.1,Millions,measure
+sha11_hf_2_million_ncu,Voluntary health care payment schemes,sha11.HF.2,Millions,measure
+sha11_hf_1_3_million_ncu,Compulsory Medical Saving Accounts (CMSA),sha11.HF.1.3,Millions,measure
+sha11_hf_1_2_2_million_ncu,Compulsory private insurance schemes,sha11.HF.1.2.2,Millions,measure
+sha11_hf_1_2_1_million_ncu,Social health insurance schemes,sha11.HF.1.2.1,Millions,measure
+sha11_hf_1_2_million_ncu,Compulsory contributory health insurance schemes,sha11.HF.1.2,Millions,measure
+sha11_hf_1_1_million_ncu,Government schemes,sha11.HF.1.1,Millions,measure
+sha11_hf_1_million_ncu,Government schemes and compulsory contributory health care financing schemes,sha11.HF.1,Millions,measure
+sha11_fs_million_ncu,Current health expenditure by revenues of health care financing schemes,sha11.FS,Millions,measure
+sha11_hk_million_ncu,Capital health expenditure,sha11.HK,Millions,measure
+sha11_fs_1_million_ncu,Transfers from government domestic revenue (allocated to health purposes),sha11.FS.1,Millions,measure
+sha11_fs_1_1_million_ncu,Internal transfers and grants,sha11.FS.1.1,Millions,measure
+sha11_fs_1_2_million_ncu,Transfers by government on behalf of specific groups,sha11.FS.1.2,Millions,measure
+sha11_fs_1_3_million_ncu,Subsidies,sha11.FS.1.3,Millions,measure
+sha11_fs_1_4_million_ncu,Other transfers from government domestic revenue,sha11.FS.1.4,Millions,measure
+sha11_fs_2_million_ncu,Transfers distributed by government from foreign origin,sha11.FS.2,Millions,measure
+sha11_fs_3_million_ncu,Social insurance contributions,sha11.FS.3,Millions,measure
+sha11_fs_4_million_ncu,"Compulsory prepayment (Other, and unspecified, than FS.3)",sha11.FS.4,Millions,measure
+sha11_fs_5_million_ncu,Voluntary prepayment,sha11.FS.5,Millions,measure
+sha11_fs_6_million_ncu,Other domestic revenues n.e.c.,sha11.FS.6,Millions,measure
+sha11_fs_6_1_million_ncu,Other revenues from households n.e.c.,sha11.FS.6.1,Millions,measure
+sha11_fs_6_2_million_ncu,Other revenues from corporations n.e.c.,sha11.FS.6.2,Millions,measure
+sha11_fs_6_3_million_ncu,Other revenues from NPISH n.e.c.,sha11.FS.6.3,Millions,measure
+sha11_fs_6_nec_million_ncu,Unspecified other domestic revenues (n.e.c.),sha11.FS.6.nec,Millions,measure
+sha11_fs_7_million_ncu,Direct foreign transfers,sha11.FS.7,Millions,measure
+sha11_fs_nec_million_ncu,Unspecified revenues of health care financing schemes (n.e.c.),sha11.FS.nec,Millions,measure
+sha11_hc_million_ncu,Current health expenditure by health care functions (preliminary data),sha11.HC,Millions,measure
+sha11_hc_9_million_ncu,Other health care services not elsewhere classified (n.e.c.),sha11.HC.9,Millions,measure
+sha11_hc_7_million_ncu,"Governance, and health system and financing administration",sha11.HC.7,Millions,measure
+sha11_hc_6_million_ncu,Preventive care,sha11.HC.6,Millions,measure
+sha11_hc_5_million_ncu,Medical goods (specified by function),sha11.HC.5,Millions,measure
+sha11_hc_4_million_ncu,Ancillary services (specified by function),sha11.HC.4,Millions,measure
+sha11_hc_3_nec_million_ncu,Unspecified long-term care (n.e.c.),sha11.HC.3.nec,Millions,measure
+sha11_hc_3_4_million_ncu,Home-based long-term care (health),sha11.HC.3.4,Millions,measure
+sha11_hc_3_3_million_ncu,Outpatient long-term care (health),sha11.HC.3.3,Millions,measure
+sha11_hc_3_2_million_ncu,Day long-term care (health),sha11.HC.3.2,Millions,measure
+sha11_hc_3_1_million_ncu,Inpatient long-term care (health),sha11.HC.3.1,Millions,measure
+sha11_hc_3_million_ncu,Long-term care (health),sha11.HC.3,Millions,measure
+sha11_hc_2_million_ncu,Rehabilitative care,sha11.HC.2,Millions,measure
+sha11_hc_1_nec_million_ncu,Unspecified curative care (n.e.c.),sha11.HC.1.nec,Millions,measure
+sha11_hc_1_4_million_ncu,Home-based curative care,sha11.HC.1.4,Millions,measure
+sha11_hc_1_3_nec_million_ncu,Unspecified outpatient curative care (n.e.c.),sha11.HC.1.3.nec,Millions,measure
+sha11_hc_1_3_3_million_ncu,Specialised outpatient curative care,sha11.HC.1.3.3,Millions,measure
+sha11_hc_1_3_2_million_ncu,Dental outpatient curative care,sha11.HC.1.3.2,Millions,measure
+sha11_hc_1_3_1_million_ncu,General outpatient curative care,sha11.HC.1.3.1,Millions,measure
+sha11_hc_1_3_million_ncu,Outpatient curative care,sha11.HC.1.3,Millions,measure
+sha11_hc_1_2_million_ncu,Day curative care,sha11.HC.1.2,Millions,measure
+sha11_hc_1_1_million_ncu,Inpatient curative care,sha11.HC.1.1,Millions,measure
+sha11_hc_1_million_ncu,Curative care,sha11.HC.1,Millions,measure
+gghe_dpctche_sha2011_million_ncu,Domestic General Government Health Expenditure (GGHE-D) as % Current Health Expenditure (CHE),GGHE-D%CHE_SHA2011,Ones,measure
+pvt_dpctche_sha2011_million_ncu,Domestic Private Health Expenditure (PVT-D) as % Current Health Expenditure (CHE),PVT-D%CHE_SHA2011,Ones,measure
+extpctche_sha2011_million_ncu,External Health Expenditure (EXT) as % of Current Health Expenditure (CHE),EXT%CHE_SHA2011,Ones,measure
+gghe_dpctgdp_sha2011_million_ncu,Domestic General Government Health Expenditure (GGHE-D) as % Gross Domestic Product (GDP),GGHE-D%GDP_SHA2011,Ones,measure
+oopspctche_sha2011_million_ncu,Out-of-pocket (OOPS) as % of Current Health Expenditure (CHE),OOPS%CHE_SHA2011,Ones,measure
+shi_gpctshi_sha2011_million_ncu,Government Budget Transfers to Social Health Insurance (SHI-G) as % of Social Health Insurance (SHI),SHI-G%SHI_SHA2011,Ones,measure
+che_pc_us_sha2011_million_ncu,Current Health Expenditure (CHE) per Capita in US$,CHE_pc_US$_SHA2011,Ones,measure
+che_pc_ppp_sha2011_million_ncu,Current Health Expenditure (CHE) per Capita in PPP,CHE_pc_PPP_SHA2011,Ones,measure
+gghe_d_pc_us_sha2011_million_ncu,Domestic General Government Health Expenditure (GGHE-D) per Capita in US$,GGHE-D_pc_US$_SHA2011,Ones,measure
+gghe_d_pc_ppp_sha2011_million_ncu,Domestic General Government Health Expenditure (GGHE-D) per Capita in PPP Int$,GGHE-D_pc_PPP_SHA2011,Ones,measure
+pvt_d_pc_us_sha2011_million_ncu,Domestic Private Health Expenditure (PVT-D) per Capita in US$,PVT-D_pc_US$_SHA2011,Ones,measure
+pvt_d_pc_ppp_sha2011_million_ncu,Domestic Private Health Expenditure (PVT-D) per Capita in PPP Int$,PVT-D_pc_PPP_SHA2011,Ones,measure
+ext_pc_us_sha2011_million_ncu,External Health Expenditure (EXT) per Capita in US$,EXT_pc_US$_SHA2011,Ones,measure
+ext_pc_ppp_sha2011_million_ncu,External Health Expenditure (EXT) per Capita in PPP Int$,EXT_pc_PPP_SHA2011,Ones,measure
+dompctche_sha2011_million_ncu,Domestic Health Expenditure (DOM) as % of Current Health Expenditure (CHE),DOM%CHE_SHA2011,Ones,measure
+gghe_dpctgge_sha2011_million_ncu,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),GGHE-D%GGE_SHA2011,Ones,measure
+cfapctche_sha2011_million_ncu,Compulsory Financing Arrangements (CFA) as % of Current Health Expenditure (CHE),CFA%CHE_SHA2011,Ones,measure
+gfapctche_sha2011_million_ncu,Government Financing Arrangements (GFA) as % of Currrent Health Expenditure (CHE),GFA%CHE_SHA2011,Ones,measure
+chipctche_sha2011_million_ncu,Compulsory Health Insurance (CHI) as % of Current Health Expenditure (CHE),CHI%CHE_SHA2011,Ones,measure
+shipctche_sha2011_million_ncu,Social Health Insurance (SHI) as % of Current Health Expenditure (CHE),SHI%CHE_SHA2011,Ones,measure
+vfapctche_sha2011_million_ncu,Voluntary Financing Arrangements (VFA) as % of Current Health Expenditure (CHE),VFA%CHE_SHA2011,Ones,measure
+vhipctche_sha2011_million_ncu,Voluntary Health Insurance (VHI) as % of Current Health Expenditure (CHE),VHI%CHE_SHA2011,Ones,measure
+otherpctche_sha2011_million_ncu,Other Private Health Expenditure (OTHER) as % Current Health Expenditure (CHE),OTHER%CHE_SHA2011,Ones,measure
+oop_pc_us_sha2011_million_ncu,Out-of-Pocket Expenditure (OOPS) per Capita in US$,OOP_pc_US$_SHA2011,Ones,measure
+oop_pc_ppp_sha2011_million_ncu,Out-of-Pocket Expenditure (OOPS) per Capita in PPP Int$,OOP_pc_PPP_SHA2011,Ones,measure
+hkpctgdp_sha2011_million_ncu,Health Capital Expenditure (HK) % Gross Domestic Product (GDP),HK%GDP_SHA2011,Ones,measure
+shi_sepctshi_sha2011_million_ncu,Self-Employed Contributions to Social Health Insurance (SHI-SE) as % of Social Health Insurance (SHI),SHI-SE%SHI_SHA2011,Ones,measure
+rowpctche_sha2011_million_ncu,Rest of the World (RoW) as % of Current Health Expenditure (CHE),ROW%CHE_SHA2011,Ones,measure
+phc_indicators_million_ncu,PRIMARY HEALTH CARE (preliminary data),PHC_INDICATORS,Ones,measure
+phc_pc_us_million_ncu,Primary Health Care (PHC) Expenditure per Capita in US$,PHC_pc_US$,Ones,measure
+phcpctche_million_ncu,Primary Health Care (PHC) Expenditure as % Current Health Expenditure (CHE),PHC%CHE,Ones,measure
+gghe_d_phcpctgghe_d_million_ncu,Domestic General Government Expenditure on PHC as % GGHE-D,GGHE-D_phc%GGHE-D,Ones,measure
+gghe_d_phcpctphc_million_ncu,Domestic General Government Expenditure on PHC as % PHC,GGHE-D_phc%PHC,Ones,measure
+sha11_hc_gghe_d_million_ncu,Domestic general government health expenditure by health care functions (preliminary data),sha11.HC_gghe-d,Millions,measure
+sha11_hc_1_gghe_d_million_ncu,Domestic General Government Expenditure on Curative care,sha11.HC.1_gghe-d,Millions,measure
+sha11_hc_1_3_gghe_d_million_ncu,Domestic General Government Expenditure on Outpatient curative care,sha11.HC.1.3_gghe-d,Millions,measure
+sha11_hc_1_1_gghe_d_million_ncu,Domestic General Government Expenditure on Inpatient curative care,sha11.HC.1.1_gghe-d,Millions,measure
+sha11_hc_1_2_gghe_d_million_ncu,Domestic General Government Expenditure on Day curative care,sha11.HC.1.2_gghe-d,Millions,measure
+sha11_hc_1_4_gghe_d_million_ncu,Domestic General Government on Home-based curative care,sha11.HC.1.4_gghe-d,Millions,measure
+sha11_hc_1_nec_gghe_d_million_ncu,Domestic General Government Expenditure on Other curative care,sha11.HC.1.nec_gghe-d,Millions,measure
+sha11_hc_1_3_1_gghe_d_million_ncu,Domestic General Government Expenditure on General outpatient curative care,sha11.HC.1.3.1_gghe-d,Millions,measure
+sha11_hc_1_3_2_gghe_d_million_ncu,Domestic General Government Expenditure on Dental outpatient curative care,sha11.HC.1.3.2_gghe-d,Millions,measure
+sha11_hc_1_3_3_gghe_d_million_ncu,Domestic General Government Expenditure on Specialised outpatient curative care,sha11.HC.1.3.3_gghe-d,Millions,measure
+sha11_hc_1_3_nec_gghe_d_million_ncu,Domestic General Government Expenditure on Outpatient curative care n.e.c.,sha11.HC.1.3.nec_gghe-d,Millions,measure
+sha11_hc_2_gghe_d_million_ncu,Domestic General Government Expenditure on Rehabilitative care,sha11.HC.2_gghe-d,Millions,measure
+sha11_hc_3_gghe_d_million_ncu,Domestic General Government Expenditure on Long-term care (health),sha11.HC.3_gghe-d,Millions,measure
+sha11_hc_3_1_gghe_d_million_ncu,Domestic General Government Expenditure on Inpatient long-term care (health),sha11.HC.3.1_gghe-d,Millions,measure
+sha11_hc_3_2_gghe_d_million_ncu,Domestic General Government Expenditure on Day long-term care (health),sha11.HC.3.2_gghe-d,Millions,measure
+sha11_hc_3_3_gghe_d_million_ncu,Domestic General Government Expenditure on Outpatient long-term care (health),sha11.HC.3.3_gghe-d,Millions,measure
+sha11_hc_3_4_gghe_d_million_ncu,Domestic General Government Expenditure on Home-based long-term care (health),sha11.HC.3.4_gghe-d,Millions,measure
+sha11_hc_3_nec_gghe_d_million_ncu,Domestic General Government Expenditure on Other Long-Term Care,sha11.HC.3.nec_gghe-d,Millions,measure
+sha11_hc_4_gghe_d_million_ncu,Domestic General Government Expenditure on Ancillary services (non-specified by function),sha11.HC.4_gghe-d,Millions,measure
+sha11_hc_5_gghe_d_million_ncu,Domestic General Government Expenditure on Medical goods (non-specified by function),sha11.HC.5_gghe-d,Millions,measure
+sha11_hc_6_gghe_d_million_ncu,Domestic General Government Expenditure on Preventive care,sha11.HC.6_gghe-d,Millions,measure
+sha11_hc_7_gghe_d_million_ncu,"Domestic General Government Expenditure on Governance, health system & financing administration",sha11.HC.7_gghe-d,Millions,measure
+sha11_hc_9_gghe_d_million_ncu,Domestic General Government Expenditure on Other health care services (n.e.c.),sha11.HC.9_gghe-d,Millions,measure
+heading_hc_million_ncu,HEALTH CARE FUNCTIONS (preliminary data),Heading_HC,Ones,measure
+heading_dis_million_ncu,DISEASES AND CONDITIONS,Heading_DIS,Ones,measure
+sha11_dis_gghe_d_million_ncu,Domestic general government health expenditure by disease and condition ,sha11.DIS_gghe-d,Ones,measure
+sha11_dis_ext_million_ncu,External sources of funding by disease and condition,sha11.DIS_ext,Ones,measure
+sha11_dis_1_gghe_d_million_ncu,Domestic General Government Expenditure on infectious and parasitic diseases,sha11.DIS.1_gghe-d,Millions,measure
+sha11_dis_2_gghe_d_million_ncu,Domestic General Government Expenditure on reproductive health,sha11.DIS.2_gghe-d,Millions,measure
+sha11_dis_3_gghe_d_million_ncu,Domestic General Government Expenditure on nutritional deficiencies,sha11.DIS.3_gghe-d,Millions,measure
+sha11_dis_4_gghe_d_million_ncu,Domestic General Government Expenditure on noncommunicable diseases,sha11.DIS.4_gghe-d,Millions,measure
+sha11_dis_5_gghe_d_million_ncu,Domestic General Government Expenditure on injuries,sha11.DIS.5_gghe-d,Millions,measure
+sha11_hc_6_2_gghe_d_million_ncu,Domestic General Government Expenditure on immunization programmes,sha11.HC.6.2_gghe-d,Millions,measure
+sha11_dis_1_ext_million_ncu,External sources of funding on infectious and parasitic diseases,sha11.DIS.1_ext,Millions,measure
+sha11_dis_2_ext_million_ncu,External sources of funding on reproductive health,sha11.DIS.2_ext,Millions,measure
+sha11_dis_3_ext_million_ncu,External sources of funding on nutritional deficiencies,sha11.DIS.3_ext,Millions,measure
+sha11_dis_4_ext_million_ncu,External sources of funding on noncommunicable diseases,sha11.DIS.4_ext,Millions,measure
+sha11_dis_5_ext_million_ncu,External sources of funding on injuries,sha11.DIS.5_ext,Millions,measure
+sha11_hc_6_2_ext_million_ncu,External sources of funding on immunization programmes ,sha11.HC.6.2_ext,Millions,measure
+sha11_dis_1_1_gghe_d_million_ncu,Domestic General Government Expenditure on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_gghe-d,Millions,measure
+sha11_dis_1_2_gghe_d_million_ncu,Domestic General Government Expenditure on tuberculosis,sha11.DIS.1.2_gghe-d,Millions,measure
+sha11_dis_1_3_gghe_d_million_ncu,Domestic General Government Expenditure on malaria,sha11.DIS.1.3_gghe-d,Millions,measure
+sha11_dis_2_3_gghe_d_million_ncu,Domestic General Government Expenditure on contraceptive management (family planning),sha11.DIS.2.3_gghe-d,Millions,measure
+sha11_dis_1_1_ext_million_ncu,External sources of funding on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_ext,Millions,measure
+sha11_dis_1_2_ext_million_ncu,External sources of funding on tuberculosis,sha11.DIS.1.2_ext,Millions,measure
+sha11_dis_1_3_ext_million_ncu,External sources of funding on malaria,sha11.DIS.1.3_ext,Millions,measure
+sha11_dis_2_3_ext_million_ncu,External sources of funding on contraceptive management (family planning),sha11.DIS.2.3_ext,Millions,measure
+heading_age_million_ncu,AGE,Heading_AGE,Ones,measure
+sha11_age_1_gghe_d_million_ncu,Domestic General Government Health Expenditure in the < 5 year-old population,sha11.AGE.1_gghe-d,Millions,measure
+sha11_age_1_ext_million_ncu,External sources of funding in the < 5 year-old population,sha11.AGE.1_ext,Millions,measure
+sha11_hf_million_current_us,Current health expenditure by financing schemes,sha11.HF,Millions,measure
+sha11_hf_nec_million_current_us,Unspecified financing schemes (n.e.c.),sha11.HF.nec,Millions,measure
+sha11_hf_4_million_current_us,Rest of the world financing schemes (non-resident),sha11.HF.4,Millions,measure
+sha11_hf_3_million_current_us,Household out-of-pocket payment,sha11.HF.3,Millions,measure
+sha11_hf_2_3_million_current_us,Enterprise financing schemes,sha11.HF.2.3,Millions,measure
+sha11_hf_2_2_million_current_us,NPISH financing schemes (including development agencies),sha11.HF.2.2,Millions,measure
+sha11_hf_2_1_million_current_us,Voluntary health insurance schemes,sha11.HF.2.1,Millions,measure
+sha11_hf_2_million_current_us,Voluntary health care payment schemes,sha11.HF.2,Millions,measure
+sha11_hf_1_3_million_current_us,Compulsory Medical Saving Accounts (CMSA),sha11.HF.1.3,Millions,measure
+sha11_hf_1_2_2_million_current_us,Compulsory private insurance schemes,sha11.HF.1.2.2,Millions,measure
+sha11_hf_1_2_1_million_current_us,Social health insurance schemes,sha11.HF.1.2.1,Millions,measure
+sha11_hf_1_2_million_current_us,Compulsory contributory health insurance schemes,sha11.HF.1.2,Millions,measure
+sha11_hf_1_1_million_current_us,Government schemes,sha11.HF.1.1,Millions,measure
+sha11_hf_1_million_current_us,Government schemes and compulsory contributory health care financing schemes,sha11.HF.1,Millions,measure
+sha11_fs_million_current_us,Current health expenditure by revenues of health care financing schemes,sha11.FS,Millions,measure
+sha11_hk_million_current_us,Capital health expenditure,sha11.HK,Millions,measure
+sha11_fs_1_million_current_us,Transfers from government domestic revenue (allocated to health purposes),sha11.FS.1,Millions,measure
+sha11_fs_1_1_million_current_us,Internal transfers and grants,sha11.FS.1.1,Millions,measure
+sha11_fs_1_2_million_current_us,Transfers by government on behalf of specific groups,sha11.FS.1.2,Millions,measure
+sha11_fs_1_3_million_current_us,Subsidies,sha11.FS.1.3,Millions,measure
+sha11_fs_1_4_million_current_us,Other transfers from government domestic revenue,sha11.FS.1.4,Millions,measure
+sha11_fs_2_million_current_us,Transfers distributed by government from foreign origin,sha11.FS.2,Millions,measure
+sha11_fs_3_million_current_us,Social insurance contributions,sha11.FS.3,Millions,measure
+sha11_fs_4_million_current_us,"Compulsory prepayment (Other, and unspecified, than FS.3)",sha11.FS.4,Millions,measure
+sha11_fs_5_million_current_us,Voluntary prepayment,sha11.FS.5,Millions,measure
+sha11_fs_6_million_current_us,Other domestic revenues n.e.c.,sha11.FS.6,Millions,measure
+sha11_fs_6_1_million_current_us,Other revenues from households n.e.c.,sha11.FS.6.1,Millions,measure
+sha11_fs_6_2_million_current_us,Other revenues from corporations n.e.c.,sha11.FS.6.2,Millions,measure
+sha11_fs_6_3_million_current_us,Other revenues from NPISH n.e.c.,sha11.FS.6.3,Millions,measure
+sha11_fs_6_nec_million_current_us,Unspecified other domestic revenues (n.e.c.),sha11.FS.6.nec,Millions,measure
+sha11_fs_7_million_current_us,Direct foreign transfers,sha11.FS.7,Millions,measure
+sha11_fs_nec_million_current_us,Unspecified revenues of health care financing schemes (n.e.c.),sha11.FS.nec,Millions,measure
+sha11_hc_million_current_us,Current health expenditure by health care functions (preliminary data),sha11.HC,Millions,measure
+sha11_hc_9_million_current_us,Other health care services not elsewhere classified (n.e.c.),sha11.HC.9,Millions,measure
+sha11_hc_7_million_current_us,"Governance, and health system and financing administration",sha11.HC.7,Millions,measure
+sha11_hc_6_million_current_us,Preventive care,sha11.HC.6,Millions,measure
+sha11_hc_5_million_current_us,Medical goods (specified by function),sha11.HC.5,Millions,measure
+sha11_hc_4_million_current_us,Ancillary services (specified by function),sha11.HC.4,Millions,measure
+sha11_hc_3_nec_million_current_us,Unspecified long-term care (n.e.c.),sha11.HC.3.nec,Millions,measure
+sha11_hc_3_4_million_current_us,Home-based long-term care (health),sha11.HC.3.4,Millions,measure
+sha11_hc_3_3_million_current_us,Outpatient long-term care (health),sha11.HC.3.3,Millions,measure
+sha11_hc_3_2_million_current_us,Day long-term care (health),sha11.HC.3.2,Millions,measure
+sha11_hc_3_1_million_current_us,Inpatient long-term care (health),sha11.HC.3.1,Millions,measure
+sha11_hc_3_million_current_us,Long-term care (health),sha11.HC.3,Millions,measure
+sha11_hc_2_million_current_us,Rehabilitative care,sha11.HC.2,Millions,measure
+sha11_hc_1_nec_million_current_us,Unspecified curative care (n.e.c.),sha11.HC.1.nec,Millions,measure
+sha11_hc_1_4_million_current_us,Home-based curative care,sha11.HC.1.4,Millions,measure
+sha11_hc_1_3_nec_million_current_us,Unspecified outpatient curative care (n.e.c.),sha11.HC.1.3.nec,Millions,measure
+sha11_hc_1_3_3_million_current_us,Specialised outpatient curative care,sha11.HC.1.3.3,Millions,measure
+sha11_hc_1_3_2_million_current_us,Dental outpatient curative care,sha11.HC.1.3.2,Millions,measure
+sha11_hc_1_3_1_million_current_us,General outpatient curative care,sha11.HC.1.3.1,Millions,measure
+sha11_hc_1_3_million_current_us,Outpatient curative care,sha11.HC.1.3,Millions,measure
+sha11_hc_1_2_million_current_us,Day curative care,sha11.HC.1.2,Millions,measure
+sha11_hc_1_1_million_current_us,Inpatient curative care,sha11.HC.1.1,Millions,measure
+sha11_hc_1_million_current_us,Curative care,sha11.HC.1,Millions,measure
+sha11_hc_gghe_d_million_current_us,Domestic general government health expenditure by health care functions (preliminary data),sha11.HC_gghe-d,Millions,measure
+sha11_hc_1_gghe_d_million_current_us,Domestic General Government Expenditure on Curative care,sha11.HC.1_gghe-d,Millions,measure
+sha11_hc_1_3_gghe_d_million_current_us,Domestic General Government Expenditure on Outpatient curative care,sha11.HC.1.3_gghe-d,Millions,measure
+sha11_hc_1_1_gghe_d_million_current_us,Domestic General Government Expenditure on Inpatient curative care,sha11.HC.1.1_gghe-d,Millions,measure
+sha11_hc_1_2_gghe_d_million_current_us,Domestic General Government Expenditure on Day curative care,sha11.HC.1.2_gghe-d,Millions,measure
+sha11_hc_1_4_gghe_d_million_current_us,Domestic General Government on Home-based curative care,sha11.HC.1.4_gghe-d,Millions,measure
+sha11_hc_1_nec_gghe_d_million_current_us,Domestic General Government Expenditure on Other curative care,sha11.HC.1.nec_gghe-d,Millions,measure
+sha11_hc_1_3_1_gghe_d_million_current_us,Domestic General Government Expenditure on General outpatient curative care,sha11.HC.1.3.1_gghe-d,Millions,measure
+sha11_hc_1_3_2_gghe_d_million_current_us,Domestic General Government Expenditure on Dental outpatient curative care,sha11.HC.1.3.2_gghe-d,Millions,measure
+sha11_hc_1_3_3_gghe_d_million_current_us,Domestic General Government Expenditure on Specialised outpatient curative care,sha11.HC.1.3.3_gghe-d,Millions,measure
+sha11_hc_1_3_nec_gghe_d_million_current_us,Domestic General Government Expenditure on Outpatient curative care n.e.c.,sha11.HC.1.3.nec_gghe-d,Millions,measure
+sha11_hc_2_gghe_d_million_current_us,Domestic General Government Expenditure on Rehabilitative care,sha11.HC.2_gghe-d,Millions,measure
+sha11_hc_3_gghe_d_million_current_us,Domestic General Government Expenditure on Long-term care (health),sha11.HC.3_gghe-d,Millions,measure
+sha11_hc_3_1_gghe_d_million_current_us,Domestic General Government Expenditure on Inpatient long-term care (health),sha11.HC.3.1_gghe-d,Millions,measure
+sha11_hc_3_2_gghe_d_million_current_us,Domestic General Government Expenditure on Day long-term care (health),sha11.HC.3.2_gghe-d,Millions,measure
+sha11_hc_3_3_gghe_d_million_current_us,Domestic General Government Expenditure on Outpatient long-term care (health),sha11.HC.3.3_gghe-d,Millions,measure
+sha11_hc_3_4_gghe_d_million_current_us,Domestic General Government Expenditure on Home-based long-term care (health),sha11.HC.3.4_gghe-d,Millions,measure
+sha11_hc_3_nec_gghe_d_million_current_us,Domestic General Government Expenditure on Other Long-Term Care,sha11.HC.3.nec_gghe-d,Millions,measure
+sha11_hc_4_gghe_d_million_current_us,Domestic General Government Expenditure on Ancillary services (non-specified by function),sha11.HC.4_gghe-d,Millions,measure
+sha11_hc_5_gghe_d_million_current_us,Domestic General Government Expenditure on Medical goods (non-specified by function),sha11.HC.5_gghe-d,Millions,measure
+sha11_hc_6_gghe_d_million_current_us,Domestic General Government Expenditure on Preventive care,sha11.HC.6_gghe-d,Millions,measure
+sha11_hc_7_gghe_d_million_current_us,"Domestic General Government Expenditure on Governance, health system & financing administration",sha11.HC.7_gghe-d,Millions,measure
+sha11_hc_9_gghe_d_million_current_us,Domestic General Government Expenditure on Other health care services (n.e.c.),sha11.HC.9_gghe-d,Millions,measure
+heading_hc_million_current_us,HEALTH CARE FUNCTIONS (preliminary data),Heading_HC,Ones,measure
+heading_dis_million_current_us,DISEASES AND CONDITIONS,Heading_DIS,Ones,measure
+sha11_dis_gghe_d_million_current_us,Domestic general government health expenditure by disease and condition ,sha11.DIS_gghe-d,Ones,measure
+sha11_dis_ext_million_current_us,External sources of funding by disease and condition,sha11.DIS_ext,Ones,measure
+sha11_dis_1_gghe_d_million_current_us,Domestic General Government Expenditure on infectious and parasitic diseases,sha11.DIS.1_gghe-d,Millions,measure
+sha11_dis_2_gghe_d_million_current_us,Domestic General Government Expenditure on reproductive health,sha11.DIS.2_gghe-d,Millions,measure
+sha11_dis_3_gghe_d_million_current_us,Domestic General Government Expenditure on nutritional deficiencies,sha11.DIS.3_gghe-d,Millions,measure
+sha11_dis_4_gghe_d_million_current_us,Domestic General Government Expenditure on noncommunicable diseases,sha11.DIS.4_gghe-d,Millions,measure
+sha11_dis_5_gghe_d_million_current_us,Domestic General Government Expenditure on injuries,sha11.DIS.5_gghe-d,Millions,measure
+sha11_hc_6_2_gghe_d_million_current_us,Domestic General Government Expenditure on immunization programmes,sha11.HC.6.2_gghe-d,Millions,measure
+sha11_dis_1_ext_million_current_us,External sources of funding on infectious and parasitic diseases,sha11.DIS.1_ext,Millions,measure
+sha11_dis_2_ext_million_current_us,External sources of funding on reproductive health,sha11.DIS.2_ext,Millions,measure
+sha11_dis_3_ext_million_current_us,External sources of funding on nutritional deficiencies,sha11.DIS.3_ext,Millions,measure
+sha11_dis_4_ext_million_current_us,External sources of funding on noncommunicable diseases,sha11.DIS.4_ext,Millions,measure
+sha11_dis_5_ext_million_current_us,External sources of funding on injuries,sha11.DIS.5_ext,Millions,measure
+sha11_hc_6_2_ext_million_current_us,External sources of funding on immunization programmes ,sha11.HC.6.2_ext,Millions,measure
+sha11_dis_1_1_gghe_d_million_current_us,Domestic General Government Expenditure on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_gghe-d,Millions,measure
+sha11_dis_1_2_gghe_d_million_current_us,Domestic General Government Expenditure on tuberculosis,sha11.DIS.1.2_gghe-d,Millions,measure
+sha11_dis_1_3_gghe_d_million_current_us,Domestic General Government Expenditure on malaria,sha11.DIS.1.3_gghe-d,Millions,measure
+sha11_dis_2_3_gghe_d_million_current_us,Domestic General Government Expenditure on contraceptive management (family planning),sha11.DIS.2.3_gghe-d,Millions,measure
+sha11_dis_1_1_ext_million_current_us,External sources of funding on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_ext,Millions,measure
+sha11_dis_1_2_ext_million_current_us,External sources of funding on tuberculosis,sha11.DIS.1.2_ext,Millions,measure
+sha11_dis_1_3_ext_million_current_us,External sources of funding on malaria,sha11.DIS.1.3_ext,Millions,measure
+sha11_dis_2_3_ext_million_current_us,External sources of funding on contraceptive management (family planning),sha11.DIS.2.3_ext,Millions,measure
+heading_age_million_current_us,AGE,Heading_AGE,Ones,measure
+sha11_age_1_gghe_d_million_current_us,Domestic General Government Health Expenditure in the < 5 year-old population,sha11.AGE.1_gghe-d,Millions,measure
+sha11_age_1_ext_million_current_us,External sources of funding in the < 5 year-old population,sha11.AGE.1_ext,Millions,measure
+sha11_hf_million_current_ppp,Current health expenditure by financing schemes,sha11.HF,Millions,measure
+sha11_hf_nec_million_current_ppp,Unspecified financing schemes (n.e.c.),sha11.HF.nec,Millions,measure
+sha11_hf_4_million_current_ppp,Rest of the world financing schemes (non-resident),sha11.HF.4,Millions,measure
+sha11_hf_3_million_current_ppp,Household out-of-pocket payment,sha11.HF.3,Millions,measure
+sha11_hf_2_3_million_current_ppp,Enterprise financing schemes,sha11.HF.2.3,Millions,measure
+sha11_hf_2_2_million_current_ppp,NPISH financing schemes (including development agencies),sha11.HF.2.2,Millions,measure
+sha11_hf_2_1_million_current_ppp,Voluntary health insurance schemes,sha11.HF.2.1,Millions,measure
+sha11_hf_2_million_current_ppp,Voluntary health care payment schemes,sha11.HF.2,Millions,measure
+sha11_hf_1_3_million_current_ppp,Compulsory Medical Saving Accounts (CMSA),sha11.HF.1.3,Millions,measure
+sha11_hf_1_2_2_million_current_ppp,Compulsory private insurance schemes,sha11.HF.1.2.2,Millions,measure
+sha11_hf_1_2_1_million_current_ppp,Social health insurance schemes,sha11.HF.1.2.1,Millions,measure
+sha11_hf_1_2_million_current_ppp,Compulsory contributory health insurance schemes,sha11.HF.1.2,Millions,measure
+sha11_hf_1_1_million_current_ppp,Government schemes,sha11.HF.1.1,Millions,measure
+sha11_hf_1_million_current_ppp,Government schemes and compulsory contributory health care financing schemes,sha11.HF.1,Millions,measure
+sha11_fs_million_current_ppp,Current health expenditure by revenues of health care financing schemes,sha11.FS,Millions,measure
+sha11_hk_million_current_ppp,Capital health expenditure,sha11.HK,Millions,measure
+sha11_fs_1_million_current_ppp,Transfers from government domestic revenue (allocated to health purposes),sha11.FS.1,Millions,measure
+sha11_fs_1_1_million_current_ppp,Internal transfers and grants,sha11.FS.1.1,Millions,measure
+sha11_fs_1_2_million_current_ppp,Transfers by government on behalf of specific groups,sha11.FS.1.2,Millions,measure
+sha11_fs_1_3_million_current_ppp,Subsidies,sha11.FS.1.3,Millions,measure
+sha11_fs_1_4_million_current_ppp,Other transfers from government domestic revenue,sha11.FS.1.4,Millions,measure
+sha11_fs_2_million_current_ppp,Transfers distributed by government from foreign origin,sha11.FS.2,Millions,measure
+sha11_fs_3_million_current_ppp,Social insurance contributions,sha11.FS.3,Millions,measure
+sha11_fs_4_million_current_ppp,"Compulsory prepayment (Other, and unspecified, than FS.3)",sha11.FS.4,Millions,measure
+sha11_fs_5_million_current_ppp,Voluntary prepayment,sha11.FS.5,Millions,measure
+sha11_fs_6_million_current_ppp,Other domestic revenues n.e.c.,sha11.FS.6,Millions,measure
+sha11_fs_6_1_million_current_ppp,Other revenues from households n.e.c.,sha11.FS.6.1,Millions,measure
+sha11_fs_6_2_million_current_ppp,Other revenues from corporations n.e.c.,sha11.FS.6.2,Millions,measure
+sha11_fs_6_3_million_current_ppp,Other revenues from NPISH n.e.c.,sha11.FS.6.3,Millions,measure
+sha11_fs_6_nec_million_current_ppp,Unspecified other domestic revenues (n.e.c.),sha11.FS.6.nec,Millions,measure
+sha11_fs_7_million_current_ppp,Direct foreign transfers,sha11.FS.7,Millions,measure
+sha11_fs_nec_million_current_ppp,Unspecified revenues of health care financing schemes (n.e.c.),sha11.FS.nec,Millions,measure
+sha11_hc_million_current_ppp,Current health expenditure by health care functions (preliminary data),sha11.HC,Millions,measure
+sha11_hc_9_million_current_ppp,Other health care services not elsewhere classified (n.e.c.),sha11.HC.9,Millions,measure
+sha11_hc_7_million_current_ppp,"Governance, and health system and financing administration",sha11.HC.7,Millions,measure
+sha11_hc_6_million_current_ppp,Preventive care,sha11.HC.6,Millions,measure
+sha11_hc_5_million_current_ppp,Medical goods (specified by function),sha11.HC.5,Millions,measure
+sha11_hc_4_million_current_ppp,Ancillary services (specified by function),sha11.HC.4,Millions,measure
+sha11_hc_3_nec_million_current_ppp,Unspecified long-term care (n.e.c.),sha11.HC.3.nec,Millions,measure
+sha11_hc_3_4_million_current_ppp,Home-based long-term care (health),sha11.HC.3.4,Millions,measure
+sha11_hc_3_3_million_current_ppp,Outpatient long-term care (health),sha11.HC.3.3,Millions,measure
+sha11_hc_3_2_million_current_ppp,Day long-term care (health),sha11.HC.3.2,Millions,measure
+sha11_hc_3_1_million_current_ppp,Inpatient long-term care (health),sha11.HC.3.1,Millions,measure
+sha11_hc_3_million_current_ppp,Long-term care (health),sha11.HC.3,Millions,measure
+sha11_hc_2_million_current_ppp,Rehabilitative care,sha11.HC.2,Millions,measure
+sha11_hc_1_nec_million_current_ppp,Unspecified curative care (n.e.c.),sha11.HC.1.nec,Millions,measure
+sha11_hc_1_4_million_current_ppp,Home-based curative care,sha11.HC.1.4,Millions,measure
+sha11_hc_1_3_nec_million_current_ppp,Unspecified outpatient curative care (n.e.c.),sha11.HC.1.3.nec,Millions,measure
+sha11_hc_1_3_3_million_current_ppp,Specialised outpatient curative care,sha11.HC.1.3.3,Millions,measure
+sha11_hc_1_3_2_million_current_ppp,Dental outpatient curative care,sha11.HC.1.3.2,Millions,measure
+sha11_hc_1_3_1_million_current_ppp,General outpatient curative care,sha11.HC.1.3.1,Millions,measure
+sha11_hc_1_3_million_current_ppp,Outpatient curative care,sha11.HC.1.3,Millions,measure
+sha11_hc_1_2_million_current_ppp,Day curative care,sha11.HC.1.2,Millions,measure
+sha11_hc_1_1_million_current_ppp,Inpatient curative care,sha11.HC.1.1,Millions,measure
+sha11_hc_1_million_current_ppp,Curative care,sha11.HC.1,Millions,measure
+sha11_hc_gghe_d_million_current_ppp,Domestic general government health expenditure by health care functions (preliminary data),sha11.HC_gghe-d,Millions,measure
+sha11_hc_1_gghe_d_million_current_ppp,Domestic General Government Expenditure on Curative care,sha11.HC.1_gghe-d,Millions,measure
+sha11_hc_1_3_gghe_d_million_current_ppp,Domestic General Government Expenditure on Outpatient curative care,sha11.HC.1.3_gghe-d,Millions,measure
+sha11_hc_1_1_gghe_d_million_current_ppp,Domestic General Government Expenditure on Inpatient curative care,sha11.HC.1.1_gghe-d,Millions,measure
+sha11_hc_1_2_gghe_d_million_current_ppp,Domestic General Government Expenditure on Day curative care,sha11.HC.1.2_gghe-d,Millions,measure
+sha11_hc_1_4_gghe_d_million_current_ppp,Domestic General Government on Home-based curative care,sha11.HC.1.4_gghe-d,Millions,measure
+sha11_hc_1_nec_gghe_d_million_current_ppp,Domestic General Government Expenditure on Other curative care,sha11.HC.1.nec_gghe-d,Millions,measure
+sha11_hc_1_3_1_gghe_d_million_current_ppp,Domestic General Government Expenditure on General outpatient curative care,sha11.HC.1.3.1_gghe-d,Millions,measure
+sha11_hc_1_3_2_gghe_d_million_current_ppp,Domestic General Government Expenditure on Dental outpatient curative care,sha11.HC.1.3.2_gghe-d,Millions,measure
+sha11_hc_1_3_3_gghe_d_million_current_ppp,Domestic General Government Expenditure on Specialised outpatient curative care,sha11.HC.1.3.3_gghe-d,Millions,measure
+sha11_hc_1_3_nec_gghe_d_million_current_ppp,Domestic General Government Expenditure on Outpatient curative care n.e.c.,sha11.HC.1.3.nec_gghe-d,Millions,measure
+sha11_hc_2_gghe_d_million_current_ppp,Domestic General Government Expenditure on Rehabilitative care,sha11.HC.2_gghe-d,Millions,measure
+sha11_hc_3_gghe_d_million_current_ppp,Domestic General Government Expenditure on Long-term care (health),sha11.HC.3_gghe-d,Millions,measure
+sha11_hc_3_1_gghe_d_million_current_ppp,Domestic General Government Expenditure on Inpatient long-term care (health),sha11.HC.3.1_gghe-d,Millions,measure
+sha11_hc_3_2_gghe_d_million_current_ppp,Domestic General Government Expenditure on Day long-term care (health),sha11.HC.3.2_gghe-d,Millions,measure
+sha11_hc_3_3_gghe_d_million_current_ppp,Domestic General Government Expenditure on Outpatient long-term care (health),sha11.HC.3.3_gghe-d,Millions,measure
+sha11_hc_3_4_gghe_d_million_current_ppp,Domestic General Government Expenditure on Home-based long-term care (health),sha11.HC.3.4_gghe-d,Millions,measure
+sha11_hc_3_nec_gghe_d_million_current_ppp,Domestic General Government Expenditure on Other Long-Term Care,sha11.HC.3.nec_gghe-d,Millions,measure
+sha11_hc_4_gghe_d_million_current_ppp,Domestic General Government Expenditure on Ancillary services (non-specified by function),sha11.HC.4_gghe-d,Millions,measure
+sha11_hc_5_gghe_d_million_current_ppp,Domestic General Government Expenditure on Medical goods (non-specified by function),sha11.HC.5_gghe-d,Millions,measure
+sha11_hc_6_gghe_d_million_current_ppp,Domestic General Government Expenditure on Preventive care,sha11.HC.6_gghe-d,Millions,measure
+sha11_hc_7_gghe_d_million_current_ppp,"Domestic General Government Expenditure on Governance, health system & financing administration",sha11.HC.7_gghe-d,Millions,measure
+sha11_hc_9_gghe_d_million_current_ppp,Domestic General Government Expenditure on Other health care services (n.e.c.),sha11.HC.9_gghe-d,Millions,measure
+heading_hc_million_current_ppp,HEALTH CARE FUNCTIONS (preliminary data),Heading_HC,Ones,measure
+heading_dis_million_current_ppp,DISEASES AND CONDITIONS,Heading_DIS,Ones,measure
+sha11_dis_gghe_d_million_current_ppp,Domestic general government health expenditure by disease and condition ,sha11.DIS_gghe-d,Ones,measure
+sha11_dis_ext_million_current_ppp,External sources of funding by disease and condition,sha11.DIS_ext,Ones,measure
+sha11_dis_1_gghe_d_million_current_ppp,Domestic General Government Expenditure on infectious and parasitic diseases,sha11.DIS.1_gghe-d,Millions,measure
+sha11_dis_2_gghe_d_million_current_ppp,Domestic General Government Expenditure on reproductive health,sha11.DIS.2_gghe-d,Millions,measure
+sha11_dis_3_gghe_d_million_current_ppp,Domestic General Government Expenditure on nutritional deficiencies,sha11.DIS.3_gghe-d,Millions,measure
+sha11_dis_4_gghe_d_million_current_ppp,Domestic General Government Expenditure on noncommunicable diseases,sha11.DIS.4_gghe-d,Millions,measure
+sha11_dis_5_gghe_d_million_current_ppp,Domestic General Government Expenditure on injuries,sha11.DIS.5_gghe-d,Millions,measure
+sha11_hc_6_2_gghe_d_million_current_ppp,Domestic General Government Expenditure on immunization programmes,sha11.HC.6.2_gghe-d,Millions,measure
+sha11_dis_1_ext_million_current_ppp,External sources of funding on infectious and parasitic diseases,sha11.DIS.1_ext,Millions,measure
+sha11_dis_2_ext_million_current_ppp,External sources of funding on reproductive health,sha11.DIS.2_ext,Millions,measure
+sha11_dis_3_ext_million_current_ppp,External sources of funding on nutritional deficiencies,sha11.DIS.3_ext,Millions,measure
+sha11_dis_4_ext_million_current_ppp,External sources of funding on noncommunicable diseases,sha11.DIS.4_ext,Millions,measure
+sha11_dis_5_ext_million_current_ppp,External sources of funding on injuries,sha11.DIS.5_ext,Millions,measure
+sha11_hc_6_2_ext_million_current_ppp,External sources of funding on immunization programmes ,sha11.HC.6.2_ext,Millions,measure
+sha11_dis_1_1_gghe_d_million_current_ppp,Domestic General Government Expenditure on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_gghe-d,Millions,measure
+sha11_dis_1_2_gghe_d_million_current_ppp,Domestic General Government Expenditure on tuberculosis,sha11.DIS.1.2_gghe-d,Millions,measure
+sha11_dis_1_3_gghe_d_million_current_ppp,Domestic General Government Expenditure on malaria,sha11.DIS.1.3_gghe-d,Millions,measure
+sha11_dis_2_3_gghe_d_million_current_ppp,Domestic General Government Expenditure on contraceptive management (family planning),sha11.DIS.2.3_gghe-d,Millions,measure
+sha11_dis_1_1_ext_million_current_ppp,External sources of funding on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_ext,Millions,measure
+sha11_dis_1_2_ext_million_current_ppp,External sources of funding on tuberculosis,sha11.DIS.1.2_ext,Millions,measure
+sha11_dis_1_3_ext_million_current_ppp,External sources of funding on malaria,sha11.DIS.1.3_ext,Millions,measure
+sha11_dis_2_3_ext_million_current_ppp,External sources of funding on contraceptive management (family planning),sha11.DIS.2.3_ext,Millions,measure
+heading_age_million_current_ppp,AGE,Heading_AGE,Ones,measure
+sha11_age_1_gghe_d_million_current_ppp,Domestic General Government Health Expenditure in the < 5 year-old population,sha11.AGE.1_gghe-d,Millions,measure
+sha11_age_1_ext_million_current_ppp,External sources of funding in the < 5 year-old population,sha11.AGE.1_ext,Millions,measure
+sha11_hf_current_ncu_per_capita,Current health expenditure by financing schemes,sha11.HF,Millions,measure
+sha11_hf_nec_current_ncu_per_capita,Unspecified financing schemes (n.e.c.),sha11.HF.nec,Millions,measure
+sha11_hf_4_current_ncu_per_capita,Rest of the world financing schemes (non-resident),sha11.HF.4,Millions,measure
+sha11_hf_3_current_ncu_per_capita,Household out-of-pocket payment,sha11.HF.3,Millions,measure
+sha11_hf_2_3_current_ncu_per_capita,Enterprise financing schemes,sha11.HF.2.3,Millions,measure
+sha11_hf_2_2_current_ncu_per_capita,NPISH financing schemes (including development agencies),sha11.HF.2.2,Millions,measure
+sha11_hf_2_1_current_ncu_per_capita,Voluntary health insurance schemes,sha11.HF.2.1,Millions,measure
+sha11_hf_2_current_ncu_per_capita,Voluntary health care payment schemes,sha11.HF.2,Millions,measure
+sha11_hf_1_3_current_ncu_per_capita,Compulsory Medical Saving Accounts (CMSA),sha11.HF.1.3,Millions,measure
+sha11_hf_1_2_2_current_ncu_per_capita,Compulsory private insurance schemes,sha11.HF.1.2.2,Millions,measure
+sha11_hf_1_2_1_current_ncu_per_capita,Social health insurance schemes,sha11.HF.1.2.1,Millions,measure
+sha11_hf_1_2_current_ncu_per_capita,Compulsory contributory health insurance schemes,sha11.HF.1.2,Millions,measure
+sha11_hf_1_1_current_ncu_per_capita,Government schemes,sha11.HF.1.1,Millions,measure
+sha11_hf_1_current_ncu_per_capita,Government schemes and compulsory contributory health care financing schemes,sha11.HF.1,Millions,measure
+sha11_fs_current_ncu_per_capita,Current health expenditure by revenues of health care financing schemes,sha11.FS,Millions,measure
+sha11_hk_current_ncu_per_capita,Capital health expenditure,sha11.HK,Millions,measure
+sha11_fs_1_current_ncu_per_capita,Transfers from government domestic revenue (allocated to health purposes),sha11.FS.1,Millions,measure
+sha11_fs_1_1_current_ncu_per_capita,Internal transfers and grants,sha11.FS.1.1,Millions,measure
+sha11_fs_1_2_current_ncu_per_capita,Transfers by government on behalf of specific groups,sha11.FS.1.2,Millions,measure
+sha11_fs_1_3_current_ncu_per_capita,Subsidies,sha11.FS.1.3,Millions,measure
+sha11_fs_1_4_current_ncu_per_capita,Other transfers from government domestic revenue,sha11.FS.1.4,Millions,measure
+sha11_fs_2_current_ncu_per_capita,Transfers distributed by government from foreign origin,sha11.FS.2,Millions,measure
+sha11_fs_3_current_ncu_per_capita,Social insurance contributions,sha11.FS.3,Millions,measure
+sha11_fs_4_current_ncu_per_capita,"Compulsory prepayment (Other, and unspecified, than FS.3)",sha11.FS.4,Millions,measure
+sha11_fs_5_current_ncu_per_capita,Voluntary prepayment,sha11.FS.5,Millions,measure
+sha11_fs_6_current_ncu_per_capita,Other domestic revenues n.e.c.,sha11.FS.6,Millions,measure
+sha11_fs_6_1_current_ncu_per_capita,Other revenues from households n.e.c.,sha11.FS.6.1,Millions,measure
+sha11_fs_6_2_current_ncu_per_capita,Other revenues from corporations n.e.c.,sha11.FS.6.2,Millions,measure
+sha11_fs_6_3_current_ncu_per_capita,Other revenues from NPISH n.e.c.,sha11.FS.6.3,Millions,measure
+sha11_fs_6_nec_current_ncu_per_capita,Unspecified other domestic revenues (n.e.c.),sha11.FS.6.nec,Millions,measure
+sha11_fs_7_current_ncu_per_capita,Direct foreign transfers,sha11.FS.7,Millions,measure
+sha11_fs_nec_current_ncu_per_capita,Unspecified revenues of health care financing schemes (n.e.c.),sha11.FS.nec,Millions,measure
+sha11_hc_current_ncu_per_capita,Current health expenditure by health care functions (preliminary data),sha11.HC,Millions,measure
+sha11_hc_9_current_ncu_per_capita,Other health care services not elsewhere classified (n.e.c.),sha11.HC.9,Millions,measure
+sha11_hc_7_current_ncu_per_capita,"Governance, and health system and financing administration",sha11.HC.7,Millions,measure
+sha11_hc_6_current_ncu_per_capita,Preventive care,sha11.HC.6,Millions,measure
+sha11_hc_5_current_ncu_per_capita,Medical goods (specified by function),sha11.HC.5,Millions,measure
+sha11_hc_4_current_ncu_per_capita,Ancillary services (specified by function),sha11.HC.4,Millions,measure
+sha11_hc_3_nec_current_ncu_per_capita,Unspecified long-term care (n.e.c.),sha11.HC.3.nec,Millions,measure
+sha11_hc_3_4_current_ncu_per_capita,Home-based long-term care (health),sha11.HC.3.4,Millions,measure
+sha11_hc_3_3_current_ncu_per_capita,Outpatient long-term care (health),sha11.HC.3.3,Millions,measure
+sha11_hc_3_2_current_ncu_per_capita,Day long-term care (health),sha11.HC.3.2,Millions,measure
+sha11_hc_3_1_current_ncu_per_capita,Inpatient long-term care (health),sha11.HC.3.1,Millions,measure
+sha11_hc_3_current_ncu_per_capita,Long-term care (health),sha11.HC.3,Millions,measure
+sha11_hc_2_current_ncu_per_capita,Rehabilitative care,sha11.HC.2,Millions,measure
+sha11_hc_1_nec_current_ncu_per_capita,Unspecified curative care (n.e.c.),sha11.HC.1.nec,Millions,measure
+sha11_hc_1_4_current_ncu_per_capita,Home-based curative care,sha11.HC.1.4,Millions,measure
+sha11_hc_1_3_nec_current_ncu_per_capita,Unspecified outpatient curative care (n.e.c.),sha11.HC.1.3.nec,Millions,measure
+sha11_hc_1_3_3_current_ncu_per_capita,Specialised outpatient curative care,sha11.HC.1.3.3,Millions,measure
+sha11_hc_1_3_2_current_ncu_per_capita,Dental outpatient curative care,sha11.HC.1.3.2,Millions,measure
+sha11_hc_1_3_1_current_ncu_per_capita,General outpatient curative care,sha11.HC.1.3.1,Millions,measure
+sha11_hc_1_3_current_ncu_per_capita,Outpatient curative care,sha11.HC.1.3,Millions,measure
+sha11_hc_1_2_current_ncu_per_capita,Day curative care,sha11.HC.1.2,Millions,measure
+sha11_hc_1_1_current_ncu_per_capita,Inpatient curative care,sha11.HC.1.1,Millions,measure
+sha11_hc_1_current_ncu_per_capita,Curative care,sha11.HC.1,Millions,measure
+sha11_hc_gghe_d_current_ncu_per_capita,Domestic general government health expenditure by health care functions (preliminary data),sha11.HC_gghe-d,Millions,measure
+sha11_hc_1_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on Curative care,sha11.HC.1_gghe-d,Millions,measure
+sha11_hc_1_3_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on Outpatient curative care,sha11.HC.1.3_gghe-d,Millions,measure
+sha11_hc_1_1_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on Inpatient curative care,sha11.HC.1.1_gghe-d,Millions,measure
+sha11_hc_1_2_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on Day curative care,sha11.HC.1.2_gghe-d,Millions,measure
+sha11_hc_1_4_gghe_d_current_ncu_per_capita,Domestic General Government on Home-based curative care,sha11.HC.1.4_gghe-d,Millions,measure
+sha11_hc_1_nec_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on Other curative care,sha11.HC.1.nec_gghe-d,Millions,measure
+sha11_hc_1_3_1_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on General outpatient curative care,sha11.HC.1.3.1_gghe-d,Millions,measure
+sha11_hc_1_3_2_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on Dental outpatient curative care,sha11.HC.1.3.2_gghe-d,Millions,measure
+sha11_hc_1_3_3_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on Specialised outpatient curative care,sha11.HC.1.3.3_gghe-d,Millions,measure
+sha11_hc_1_3_nec_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on Outpatient curative care n.e.c.,sha11.HC.1.3.nec_gghe-d,Millions,measure
+sha11_hc_2_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on Rehabilitative care,sha11.HC.2_gghe-d,Millions,measure
+sha11_hc_3_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on Long-term care (health),sha11.HC.3_gghe-d,Millions,measure
+sha11_hc_3_1_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on Inpatient long-term care (health),sha11.HC.3.1_gghe-d,Millions,measure
+sha11_hc_3_2_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on Day long-term care (health),sha11.HC.3.2_gghe-d,Millions,measure
+sha11_hc_3_3_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on Outpatient long-term care (health),sha11.HC.3.3_gghe-d,Millions,measure
+sha11_hc_3_4_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on Home-based long-term care (health),sha11.HC.3.4_gghe-d,Millions,measure
+sha11_hc_3_nec_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on Other Long-Term Care,sha11.HC.3.nec_gghe-d,Millions,measure
+sha11_hc_4_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on Ancillary services (non-specified by function),sha11.HC.4_gghe-d,Millions,measure
+sha11_hc_5_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on Medical goods (non-specified by function),sha11.HC.5_gghe-d,Millions,measure
+sha11_hc_6_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on Preventive care,sha11.HC.6_gghe-d,Millions,measure
+sha11_hc_7_gghe_d_current_ncu_per_capita,"Domestic General Government Expenditure on Governance, health system & financing administration",sha11.HC.7_gghe-d,Millions,measure
+sha11_hc_9_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on Other health care services (n.e.c.),sha11.HC.9_gghe-d,Millions,measure
+heading_hc_current_ncu_per_capita,HEALTH CARE FUNCTIONS (preliminary data),Heading_HC,Ones,measure
+heading_dis_current_ncu_per_capita,DISEASES AND CONDITIONS,Heading_DIS,Ones,measure
+sha11_dis_gghe_d_current_ncu_per_capita,Domestic general government health expenditure by disease and condition ,sha11.DIS_gghe-d,Ones,measure
+sha11_dis_ext_current_ncu_per_capita,External sources of funding by disease and condition,sha11.DIS_ext,Ones,measure
+sha11_dis_1_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on infectious and parasitic diseases,sha11.DIS.1_gghe-d,Millions,measure
+sha11_dis_2_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on reproductive health,sha11.DIS.2_gghe-d,Millions,measure
+sha11_dis_3_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on nutritional deficiencies,sha11.DIS.3_gghe-d,Millions,measure
+sha11_dis_4_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on noncommunicable diseases,sha11.DIS.4_gghe-d,Millions,measure
+sha11_dis_5_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on injuries,sha11.DIS.5_gghe-d,Millions,measure
+sha11_hc_6_2_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on immunization programmes,sha11.HC.6.2_gghe-d,Millions,measure
+sha11_dis_1_ext_current_ncu_per_capita,External sources of funding on infectious and parasitic diseases,sha11.DIS.1_ext,Millions,measure
+sha11_dis_2_ext_current_ncu_per_capita,External sources of funding on reproductive health,sha11.DIS.2_ext,Millions,measure
+sha11_dis_3_ext_current_ncu_per_capita,External sources of funding on nutritional deficiencies,sha11.DIS.3_ext,Millions,measure
+sha11_dis_4_ext_current_ncu_per_capita,External sources of funding on noncommunicable diseases,sha11.DIS.4_ext,Millions,measure
+sha11_dis_5_ext_current_ncu_per_capita,External sources of funding on injuries,sha11.DIS.5_ext,Millions,measure
+sha11_hc_6_2_ext_current_ncu_per_capita,External sources of funding on immunization programmes ,sha11.HC.6.2_ext,Millions,measure
+sha11_dis_1_1_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_gghe-d,Millions,measure
+sha11_dis_1_2_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on tuberculosis,sha11.DIS.1.2_gghe-d,Millions,measure
+sha11_dis_1_3_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on malaria,sha11.DIS.1.3_gghe-d,Millions,measure
+sha11_dis_2_3_gghe_d_current_ncu_per_capita,Domestic General Government Expenditure on contraceptive management (family planning),sha11.DIS.2.3_gghe-d,Millions,measure
+sha11_dis_1_1_ext_current_ncu_per_capita,External sources of funding on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_ext,Millions,measure
+sha11_dis_1_2_ext_current_ncu_per_capita,External sources of funding on tuberculosis,sha11.DIS.1.2_ext,Millions,measure
+sha11_dis_1_3_ext_current_ncu_per_capita,External sources of funding on malaria,sha11.DIS.1.3_ext,Millions,measure
+sha11_dis_2_3_ext_current_ncu_per_capita,External sources of funding on contraceptive management (family planning),sha11.DIS.2.3_ext,Millions,measure
+heading_age_current_ncu_per_capita,AGE,Heading_AGE,Ones,measure
+sha11_age_1_gghe_d_current_ncu_per_capita,Domestic General Government Health Expenditure in the < 5 year-old population,sha11.AGE.1_gghe-d,Millions,measure
+sha11_age_1_ext_current_ncu_per_capita,External sources of funding in the < 5 year-old population,sha11.AGE.1_ext,Millions,measure
+sha11_hf_current_us_per_capita,Current health expenditure by financing schemes,sha11.HF,Millions,measure
+sha11_hf_nec_current_us_per_capita,Unspecified financing schemes (n.e.c.),sha11.HF.nec,Millions,measure
+sha11_hf_4_current_us_per_capita,Rest of the world financing schemes (non-resident),sha11.HF.4,Millions,measure
+sha11_hf_3_current_us_per_capita,Household out-of-pocket payment,sha11.HF.3,Millions,measure
+sha11_hf_2_3_current_us_per_capita,Enterprise financing schemes,sha11.HF.2.3,Millions,measure
+sha11_hf_2_2_current_us_per_capita,NPISH financing schemes (including development agencies),sha11.HF.2.2,Millions,measure
+sha11_hf_2_1_current_us_per_capita,Voluntary health insurance schemes,sha11.HF.2.1,Millions,measure
+sha11_hf_2_current_us_per_capita,Voluntary health care payment schemes,sha11.HF.2,Millions,measure
+sha11_hf_1_3_current_us_per_capita,Compulsory Medical Saving Accounts (CMSA),sha11.HF.1.3,Millions,measure
+sha11_hf_1_2_2_current_us_per_capita,Compulsory private insurance schemes,sha11.HF.1.2.2,Millions,measure
+sha11_hf_1_2_1_current_us_per_capita,Social health insurance schemes,sha11.HF.1.2.1,Millions,measure
+sha11_hf_1_2_current_us_per_capita,Compulsory contributory health insurance schemes,sha11.HF.1.2,Millions,measure
+sha11_hf_1_1_current_us_per_capita,Government schemes,sha11.HF.1.1,Millions,measure
+sha11_hf_1_current_us_per_capita,Government schemes and compulsory contributory health care financing schemes,sha11.HF.1,Millions,measure
+sha11_fs_current_us_per_capita,Current health expenditure by revenues of health care financing schemes,sha11.FS,Millions,measure
+sha11_hk_current_us_per_capita,Capital health expenditure,sha11.HK,Millions,measure
+sha11_fs_1_current_us_per_capita,Transfers from government domestic revenue (allocated to health purposes),sha11.FS.1,Millions,measure
+sha11_fs_1_1_current_us_per_capita,Internal transfers and grants,sha11.FS.1.1,Millions,measure
+sha11_fs_1_2_current_us_per_capita,Transfers by government on behalf of specific groups,sha11.FS.1.2,Millions,measure
+sha11_fs_1_3_current_us_per_capita,Subsidies,sha11.FS.1.3,Millions,measure
+sha11_fs_1_4_current_us_per_capita,Other transfers from government domestic revenue,sha11.FS.1.4,Millions,measure
+sha11_fs_2_current_us_per_capita,Transfers distributed by government from foreign origin,sha11.FS.2,Millions,measure
+sha11_fs_3_current_us_per_capita,Social insurance contributions,sha11.FS.3,Millions,measure
+sha11_fs_4_current_us_per_capita,"Compulsory prepayment (Other, and unspecified, than FS.3)",sha11.FS.4,Millions,measure
+sha11_fs_5_current_us_per_capita,Voluntary prepayment,sha11.FS.5,Millions,measure
+sha11_fs_6_current_us_per_capita,Other domestic revenues n.e.c.,sha11.FS.6,Millions,measure
+sha11_fs_6_1_current_us_per_capita,Other revenues from households n.e.c.,sha11.FS.6.1,Millions,measure
+sha11_fs_6_2_current_us_per_capita,Other revenues from corporations n.e.c.,sha11.FS.6.2,Millions,measure
+sha11_fs_6_3_current_us_per_capita,Other revenues from NPISH n.e.c.,sha11.FS.6.3,Millions,measure
+sha11_fs_6_nec_current_us_per_capita,Unspecified other domestic revenues (n.e.c.),sha11.FS.6.nec,Millions,measure
+sha11_fs_7_current_us_per_capita,Direct foreign transfers,sha11.FS.7,Millions,measure
+sha11_fs_nec_current_us_per_capita,Unspecified revenues of health care financing schemes (n.e.c.),sha11.FS.nec,Millions,measure
+sha11_hc_current_us_per_capita,Current health expenditure by health care functions (preliminary data),sha11.HC,Millions,measure
+sha11_hc_9_current_us_per_capita,Other health care services not elsewhere classified (n.e.c.),sha11.HC.9,Millions,measure
+sha11_hc_7_current_us_per_capita,"Governance, and health system and financing administration",sha11.HC.7,Millions,measure
+sha11_hc_6_current_us_per_capita,Preventive care,sha11.HC.6,Millions,measure
+sha11_hc_5_current_us_per_capita,Medical goods (specified by function),sha11.HC.5,Millions,measure
+sha11_hc_4_current_us_per_capita,Ancillary services (specified by function),sha11.HC.4,Millions,measure
+sha11_hc_3_nec_current_us_per_capita,Unspecified long-term care (n.e.c.),sha11.HC.3.nec,Millions,measure
+sha11_hc_3_4_current_us_per_capita,Home-based long-term care (health),sha11.HC.3.4,Millions,measure
+sha11_hc_3_3_current_us_per_capita,Outpatient long-term care (health),sha11.HC.3.3,Millions,measure
+sha11_hc_3_2_current_us_per_capita,Day long-term care (health),sha11.HC.3.2,Millions,measure
+sha11_hc_3_1_current_us_per_capita,Inpatient long-term care (health),sha11.HC.3.1,Millions,measure
+sha11_hc_3_current_us_per_capita,Long-term care (health),sha11.HC.3,Millions,measure
+sha11_hc_2_current_us_per_capita,Rehabilitative care,sha11.HC.2,Millions,measure
+sha11_hc_1_nec_current_us_per_capita,Unspecified curative care (n.e.c.),sha11.HC.1.nec,Millions,measure
+sha11_hc_1_4_current_us_per_capita,Home-based curative care,sha11.HC.1.4,Millions,measure
+sha11_hc_1_3_nec_current_us_per_capita,Unspecified outpatient curative care (n.e.c.),sha11.HC.1.3.nec,Millions,measure
+sha11_hc_1_3_3_current_us_per_capita,Specialised outpatient curative care,sha11.HC.1.3.3,Millions,measure
+sha11_hc_1_3_2_current_us_per_capita,Dental outpatient curative care,sha11.HC.1.3.2,Millions,measure
+sha11_hc_1_3_1_current_us_per_capita,General outpatient curative care,sha11.HC.1.3.1,Millions,measure
+sha11_hc_1_3_current_us_per_capita,Outpatient curative care,sha11.HC.1.3,Millions,measure
+sha11_hc_1_2_current_us_per_capita,Day curative care,sha11.HC.1.2,Millions,measure
+sha11_hc_1_1_current_us_per_capita,Inpatient curative care,sha11.HC.1.1,Millions,measure
+sha11_hc_1_current_us_per_capita,Curative care,sha11.HC.1,Millions,measure
+sha11_hc_gghe_d_current_us_per_capita,Domestic general government health expenditure by health care functions (preliminary data),sha11.HC_gghe-d,Millions,measure
+sha11_hc_1_gghe_d_current_us_per_capita,Domestic General Government Expenditure on Curative care,sha11.HC.1_gghe-d,Millions,measure
+sha11_hc_1_3_gghe_d_current_us_per_capita,Domestic General Government Expenditure on Outpatient curative care,sha11.HC.1.3_gghe-d,Millions,measure
+sha11_hc_1_1_gghe_d_current_us_per_capita,Domestic General Government Expenditure on Inpatient curative care,sha11.HC.1.1_gghe-d,Millions,measure
+sha11_hc_1_2_gghe_d_current_us_per_capita,Domestic General Government Expenditure on Day curative care,sha11.HC.1.2_gghe-d,Millions,measure
+sha11_hc_1_4_gghe_d_current_us_per_capita,Domestic General Government on Home-based curative care,sha11.HC.1.4_gghe-d,Millions,measure
+sha11_hc_1_nec_gghe_d_current_us_per_capita,Domestic General Government Expenditure on Other curative care,sha11.HC.1.nec_gghe-d,Millions,measure
+sha11_hc_1_3_1_gghe_d_current_us_per_capita,Domestic General Government Expenditure on General outpatient curative care,sha11.HC.1.3.1_gghe-d,Millions,measure
+sha11_hc_1_3_2_gghe_d_current_us_per_capita,Domestic General Government Expenditure on Dental outpatient curative care,sha11.HC.1.3.2_gghe-d,Millions,measure
+sha11_hc_1_3_3_gghe_d_current_us_per_capita,Domestic General Government Expenditure on Specialised outpatient curative care,sha11.HC.1.3.3_gghe-d,Millions,measure
+sha11_hc_1_3_nec_gghe_d_current_us_per_capita,Domestic General Government Expenditure on Outpatient curative care n.e.c.,sha11.HC.1.3.nec_gghe-d,Millions,measure
+sha11_hc_2_gghe_d_current_us_per_capita,Domestic General Government Expenditure on Rehabilitative care,sha11.HC.2_gghe-d,Millions,measure
+sha11_hc_3_gghe_d_current_us_per_capita,Domestic General Government Expenditure on Long-term care (health),sha11.HC.3_gghe-d,Millions,measure
+sha11_hc_3_1_gghe_d_current_us_per_capita,Domestic General Government Expenditure on Inpatient long-term care (health),sha11.HC.3.1_gghe-d,Millions,measure
+sha11_hc_3_2_gghe_d_current_us_per_capita,Domestic General Government Expenditure on Day long-term care (health),sha11.HC.3.2_gghe-d,Millions,measure
+sha11_hc_3_3_gghe_d_current_us_per_capita,Domestic General Government Expenditure on Outpatient long-term care (health),sha11.HC.3.3_gghe-d,Millions,measure
+sha11_hc_3_4_gghe_d_current_us_per_capita,Domestic General Government Expenditure on Home-based long-term care (health),sha11.HC.3.4_gghe-d,Millions,measure
+sha11_hc_3_nec_gghe_d_current_us_per_capita,Domestic General Government Expenditure on Other Long-Term Care,sha11.HC.3.nec_gghe-d,Millions,measure
+sha11_hc_4_gghe_d_current_us_per_capita,Domestic General Government Expenditure on Ancillary services (non-specified by function),sha11.HC.4_gghe-d,Millions,measure
+sha11_hc_5_gghe_d_current_us_per_capita,Domestic General Government Expenditure on Medical goods (non-specified by function),sha11.HC.5_gghe-d,Millions,measure
+sha11_hc_6_gghe_d_current_us_per_capita,Domestic General Government Expenditure on Preventive care,sha11.HC.6_gghe-d,Millions,measure
+sha11_hc_7_gghe_d_current_us_per_capita,"Domestic General Government Expenditure on Governance, health system & financing administration",sha11.HC.7_gghe-d,Millions,measure
+sha11_hc_9_gghe_d_current_us_per_capita,Domestic General Government Expenditure on Other health care services (n.e.c.),sha11.HC.9_gghe-d,Millions,measure
+heading_hc_current_us_per_capita,HEALTH CARE FUNCTIONS (preliminary data),Heading_HC,Ones,measure
+heading_dis_current_us_per_capita,DISEASES AND CONDITIONS,Heading_DIS,Ones,measure
+sha11_dis_gghe_d_current_us_per_capita,Domestic general government health expenditure by disease and condition ,sha11.DIS_gghe-d,Ones,measure
+sha11_dis_ext_current_us_per_capita,External sources of funding by disease and condition,sha11.DIS_ext,Ones,measure
+sha11_dis_1_gghe_d_current_us_per_capita,Domestic General Government Expenditure on infectious and parasitic diseases,sha11.DIS.1_gghe-d,Millions,measure
+sha11_dis_2_gghe_d_current_us_per_capita,Domestic General Government Expenditure on reproductive health,sha11.DIS.2_gghe-d,Millions,measure
+sha11_dis_3_gghe_d_current_us_per_capita,Domestic General Government Expenditure on nutritional deficiencies,sha11.DIS.3_gghe-d,Millions,measure
+sha11_dis_4_gghe_d_current_us_per_capita,Domestic General Government Expenditure on noncommunicable diseases,sha11.DIS.4_gghe-d,Millions,measure
+sha11_dis_5_gghe_d_current_us_per_capita,Domestic General Government Expenditure on injuries,sha11.DIS.5_gghe-d,Millions,measure
+sha11_hc_6_2_gghe_d_current_us_per_capita,Domestic General Government Expenditure on immunization programmes,sha11.HC.6.2_gghe-d,Millions,measure
+sha11_dis_1_ext_current_us_per_capita,External sources of funding on infectious and parasitic diseases,sha11.DIS.1_ext,Millions,measure
+sha11_dis_2_ext_current_us_per_capita,External sources of funding on reproductive health,sha11.DIS.2_ext,Millions,measure
+sha11_dis_3_ext_current_us_per_capita,External sources of funding on nutritional deficiencies,sha11.DIS.3_ext,Millions,measure
+sha11_dis_4_ext_current_us_per_capita,External sources of funding on noncommunicable diseases,sha11.DIS.4_ext,Millions,measure
+sha11_dis_5_ext_current_us_per_capita,External sources of funding on injuries,sha11.DIS.5_ext,Millions,measure
+sha11_hc_6_2_ext_current_us_per_capita,External sources of funding on immunization programmes ,sha11.HC.6.2_ext,Millions,measure
+sha11_dis_1_1_gghe_d_current_us_per_capita,Domestic General Government Expenditure on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_gghe-d,Millions,measure
+sha11_dis_1_2_gghe_d_current_us_per_capita,Domestic General Government Expenditure on tuberculosis,sha11.DIS.1.2_gghe-d,Millions,measure
+sha11_dis_1_3_gghe_d_current_us_per_capita,Domestic General Government Expenditure on malaria,sha11.DIS.1.3_gghe-d,Millions,measure
+sha11_dis_2_3_gghe_d_current_us_per_capita,Domestic General Government Expenditure on contraceptive management (family planning),sha11.DIS.2.3_gghe-d,Millions,measure
+sha11_dis_1_1_ext_current_us_per_capita,External sources of funding on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_ext,Millions,measure
+sha11_dis_1_2_ext_current_us_per_capita,External sources of funding on tuberculosis,sha11.DIS.1.2_ext,Millions,measure
+sha11_dis_1_3_ext_current_us_per_capita,External sources of funding on malaria,sha11.DIS.1.3_ext,Millions,measure
+sha11_dis_2_3_ext_current_us_per_capita,External sources of funding on contraceptive management (family planning),sha11.DIS.2.3_ext,Millions,measure
+heading_age_current_us_per_capita,AGE,Heading_AGE,Ones,measure
+sha11_age_1_gghe_d_current_us_per_capita,Domestic General Government Health Expenditure in the < 5 year-old population,sha11.AGE.1_gghe-d,Millions,measure
+sha11_age_1_ext_current_us_per_capita,External sources of funding in the < 5 year-old population,sha11.AGE.1_ext,Millions,measure
+sha11_hf_current_ppp_per_capita,Current health expenditure by financing schemes,sha11.HF,Millions,measure
+sha11_hf_nec_current_ppp_per_capita,Unspecified financing schemes (n.e.c.),sha11.HF.nec,Millions,measure
+sha11_hf_4_current_ppp_per_capita,Rest of the world financing schemes (non-resident),sha11.HF.4,Millions,measure
+sha11_hf_3_current_ppp_per_capita,Household out-of-pocket payment,sha11.HF.3,Millions,measure
+sha11_hf_2_3_current_ppp_per_capita,Enterprise financing schemes,sha11.HF.2.3,Millions,measure
+sha11_hf_2_2_current_ppp_per_capita,NPISH financing schemes (including development agencies),sha11.HF.2.2,Millions,measure
+sha11_hf_2_1_current_ppp_per_capita,Voluntary health insurance schemes,sha11.HF.2.1,Millions,measure
+sha11_hf_2_current_ppp_per_capita,Voluntary health care payment schemes,sha11.HF.2,Millions,measure
+sha11_hf_1_3_current_ppp_per_capita,Compulsory Medical Saving Accounts (CMSA),sha11.HF.1.3,Millions,measure
+sha11_hf_1_2_2_current_ppp_per_capita,Compulsory private insurance schemes,sha11.HF.1.2.2,Millions,measure
+sha11_hf_1_2_1_current_ppp_per_capita,Social health insurance schemes,sha11.HF.1.2.1,Millions,measure
+sha11_hf_1_2_current_ppp_per_capita,Compulsory contributory health insurance schemes,sha11.HF.1.2,Millions,measure
+sha11_hf_1_1_current_ppp_per_capita,Government schemes,sha11.HF.1.1,Millions,measure
+sha11_hf_1_current_ppp_per_capita,Government schemes and compulsory contributory health care financing schemes,sha11.HF.1,Millions,measure
+sha11_fs_current_ppp_per_capita,Current health expenditure by revenues of health care financing schemes,sha11.FS,Millions,measure
+sha11_hk_current_ppp_per_capita,Capital health expenditure,sha11.HK,Millions,measure
+sha11_fs_1_current_ppp_per_capita,Transfers from government domestic revenue (allocated to health purposes),sha11.FS.1,Millions,measure
+sha11_fs_1_1_current_ppp_per_capita,Internal transfers and grants,sha11.FS.1.1,Millions,measure
+sha11_fs_1_2_current_ppp_per_capita,Transfers by government on behalf of specific groups,sha11.FS.1.2,Millions,measure
+sha11_fs_1_3_current_ppp_per_capita,Subsidies,sha11.FS.1.3,Millions,measure
+sha11_fs_1_4_current_ppp_per_capita,Other transfers from government domestic revenue,sha11.FS.1.4,Millions,measure
+sha11_fs_2_current_ppp_per_capita,Transfers distributed by government from foreign origin,sha11.FS.2,Millions,measure
+sha11_fs_3_current_ppp_per_capita,Social insurance contributions,sha11.FS.3,Millions,measure
+sha11_fs_4_current_ppp_per_capita,"Compulsory prepayment (Other, and unspecified, than FS.3)",sha11.FS.4,Millions,measure
+sha11_fs_5_current_ppp_per_capita,Voluntary prepayment,sha11.FS.5,Millions,measure
+sha11_fs_6_current_ppp_per_capita,Other domestic revenues n.e.c.,sha11.FS.6,Millions,measure
+sha11_fs_6_1_current_ppp_per_capita,Other revenues from households n.e.c.,sha11.FS.6.1,Millions,measure
+sha11_fs_6_2_current_ppp_per_capita,Other revenues from corporations n.e.c.,sha11.FS.6.2,Millions,measure
+sha11_fs_6_3_current_ppp_per_capita,Other revenues from NPISH n.e.c.,sha11.FS.6.3,Millions,measure
+sha11_fs_6_nec_current_ppp_per_capita,Unspecified other domestic revenues (n.e.c.),sha11.FS.6.nec,Millions,measure
+sha11_fs_7_current_ppp_per_capita,Direct foreign transfers,sha11.FS.7,Millions,measure
+sha11_fs_nec_current_ppp_per_capita,Unspecified revenues of health care financing schemes (n.e.c.),sha11.FS.nec,Millions,measure
+sha11_hc_current_ppp_per_capita,Current health expenditure by health care functions (preliminary data),sha11.HC,Millions,measure
+sha11_hc_9_current_ppp_per_capita,Other health care services not elsewhere classified (n.e.c.),sha11.HC.9,Millions,measure
+sha11_hc_7_current_ppp_per_capita,"Governance, and health system and financing administration",sha11.HC.7,Millions,measure
+sha11_hc_6_current_ppp_per_capita,Preventive care,sha11.HC.6,Millions,measure
+sha11_hc_5_current_ppp_per_capita,Medical goods (specified by function),sha11.HC.5,Millions,measure
+sha11_hc_4_current_ppp_per_capita,Ancillary services (specified by function),sha11.HC.4,Millions,measure
+sha11_hc_3_nec_current_ppp_per_capita,Unspecified long-term care (n.e.c.),sha11.HC.3.nec,Millions,measure
+sha11_hc_3_4_current_ppp_per_capita,Home-based long-term care (health),sha11.HC.3.4,Millions,measure
+sha11_hc_3_3_current_ppp_per_capita,Outpatient long-term care (health),sha11.HC.3.3,Millions,measure
+sha11_hc_3_2_current_ppp_per_capita,Day long-term care (health),sha11.HC.3.2,Millions,measure
+sha11_hc_3_1_current_ppp_per_capita,Inpatient long-term care (health),sha11.HC.3.1,Millions,measure
+sha11_hc_3_current_ppp_per_capita,Long-term care (health),sha11.HC.3,Millions,measure
+sha11_hc_2_current_ppp_per_capita,Rehabilitative care,sha11.HC.2,Millions,measure
+sha11_hc_1_nec_current_ppp_per_capita,Unspecified curative care (n.e.c.),sha11.HC.1.nec,Millions,measure
+sha11_hc_1_4_current_ppp_per_capita,Home-based curative care,sha11.HC.1.4,Millions,measure
+sha11_hc_1_3_nec_current_ppp_per_capita,Unspecified outpatient curative care (n.e.c.),sha11.HC.1.3.nec,Millions,measure
+sha11_hc_1_3_3_current_ppp_per_capita,Specialised outpatient curative care,sha11.HC.1.3.3,Millions,measure
+sha11_hc_1_3_2_current_ppp_per_capita,Dental outpatient curative care,sha11.HC.1.3.2,Millions,measure
+sha11_hc_1_3_1_current_ppp_per_capita,General outpatient curative care,sha11.HC.1.3.1,Millions,measure
+sha11_hc_1_3_current_ppp_per_capita,Outpatient curative care,sha11.HC.1.3,Millions,measure
+sha11_hc_1_2_current_ppp_per_capita,Day curative care,sha11.HC.1.2,Millions,measure
+sha11_hc_1_1_current_ppp_per_capita,Inpatient curative care,sha11.HC.1.1,Millions,measure
+sha11_hc_1_current_ppp_per_capita,Curative care,sha11.HC.1,Millions,measure
+sha11_hc_gghe_d_current_ppp_per_capita,Domestic general government health expenditure by health care functions (preliminary data),sha11.HC_gghe-d,Millions,measure
+sha11_hc_1_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on Curative care,sha11.HC.1_gghe-d,Millions,measure
+sha11_hc_1_3_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on Outpatient curative care,sha11.HC.1.3_gghe-d,Millions,measure
+sha11_hc_1_1_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on Inpatient curative care,sha11.HC.1.1_gghe-d,Millions,measure
+sha11_hc_1_2_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on Day curative care,sha11.HC.1.2_gghe-d,Millions,measure
+sha11_hc_1_4_gghe_d_current_ppp_per_capita,Domestic General Government on Home-based curative care,sha11.HC.1.4_gghe-d,Millions,measure
+sha11_hc_1_nec_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on Other curative care,sha11.HC.1.nec_gghe-d,Millions,measure
+sha11_hc_1_3_1_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on General outpatient curative care,sha11.HC.1.3.1_gghe-d,Millions,measure
+sha11_hc_1_3_2_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on Dental outpatient curative care,sha11.HC.1.3.2_gghe-d,Millions,measure
+sha11_hc_1_3_3_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on Specialised outpatient curative care,sha11.HC.1.3.3_gghe-d,Millions,measure
+sha11_hc_1_3_nec_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on Outpatient curative care n.e.c.,sha11.HC.1.3.nec_gghe-d,Millions,measure
+sha11_hc_2_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on Rehabilitative care,sha11.HC.2_gghe-d,Millions,measure
+sha11_hc_3_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on Long-term care (health),sha11.HC.3_gghe-d,Millions,measure
+sha11_hc_3_1_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on Inpatient long-term care (health),sha11.HC.3.1_gghe-d,Millions,measure
+sha11_hc_3_2_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on Day long-term care (health),sha11.HC.3.2_gghe-d,Millions,measure
+sha11_hc_3_3_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on Outpatient long-term care (health),sha11.HC.3.3_gghe-d,Millions,measure
+sha11_hc_3_4_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on Home-based long-term care (health),sha11.HC.3.4_gghe-d,Millions,measure
+sha11_hc_3_nec_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on Other Long-Term Care,sha11.HC.3.nec_gghe-d,Millions,measure
+sha11_hc_4_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on Ancillary services (non-specified by function),sha11.HC.4_gghe-d,Millions,measure
+sha11_hc_5_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on Medical goods (non-specified by function),sha11.HC.5_gghe-d,Millions,measure
+sha11_hc_6_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on Preventive care,sha11.HC.6_gghe-d,Millions,measure
+sha11_hc_7_gghe_d_current_ppp_per_capita,"Domestic General Government Expenditure on Governance, health system & financing administration",sha11.HC.7_gghe-d,Millions,measure
+sha11_hc_9_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on Other health care services (n.e.c.),sha11.HC.9_gghe-d,Millions,measure
+heading_hc_current_ppp_per_capita,HEALTH CARE FUNCTIONS (preliminary data),Heading_HC,Ones,measure
+heading_dis_current_ppp_per_capita,DISEASES AND CONDITIONS,Heading_DIS,Ones,measure
+sha11_dis_gghe_d_current_ppp_per_capita,Domestic general government health expenditure by disease and condition ,sha11.DIS_gghe-d,Ones,measure
+sha11_dis_ext_current_ppp_per_capita,External sources of funding by disease and condition,sha11.DIS_ext,Ones,measure
+sha11_dis_1_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on infectious and parasitic diseases,sha11.DIS.1_gghe-d,Millions,measure
+sha11_dis_2_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on reproductive health,sha11.DIS.2_gghe-d,Millions,measure
+sha11_dis_3_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on nutritional deficiencies,sha11.DIS.3_gghe-d,Millions,measure
+sha11_dis_4_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on noncommunicable diseases,sha11.DIS.4_gghe-d,Millions,measure
+sha11_dis_5_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on injuries,sha11.DIS.5_gghe-d,Millions,measure
+sha11_hc_6_2_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on immunization programmes,sha11.HC.6.2_gghe-d,Millions,measure
+sha11_dis_1_ext_current_ppp_per_capita,External sources of funding on infectious and parasitic diseases,sha11.DIS.1_ext,Millions,measure
+sha11_dis_2_ext_current_ppp_per_capita,External sources of funding on reproductive health,sha11.DIS.2_ext,Millions,measure
+sha11_dis_3_ext_current_ppp_per_capita,External sources of funding on nutritional deficiencies,sha11.DIS.3_ext,Millions,measure
+sha11_dis_4_ext_current_ppp_per_capita,External sources of funding on noncommunicable diseases,sha11.DIS.4_ext,Millions,measure
+sha11_dis_5_ext_current_ppp_per_capita,External sources of funding on injuries,sha11.DIS.5_ext,Millions,measure
+sha11_hc_6_2_ext_current_ppp_per_capita,External sources of funding on immunization programmes ,sha11.HC.6.2_ext,Millions,measure
+sha11_dis_1_1_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_gghe-d,Millions,measure
+sha11_dis_1_2_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on tuberculosis,sha11.DIS.1.2_gghe-d,Millions,measure
+sha11_dis_1_3_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on malaria,sha11.DIS.1.3_gghe-d,Millions,measure
+sha11_dis_2_3_gghe_d_current_ppp_per_capita,Domestic General Government Expenditure on contraceptive management (family planning),sha11.DIS.2.3_gghe-d,Millions,measure
+sha11_dis_1_1_ext_current_ppp_per_capita,External sources of funding on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_ext,Millions,measure
+sha11_dis_1_2_ext_current_ppp_per_capita,External sources of funding on tuberculosis,sha11.DIS.1.2_ext,Millions,measure
+sha11_dis_1_3_ext_current_ppp_per_capita,External sources of funding on malaria,sha11.DIS.1.3_ext,Millions,measure
+sha11_dis_2_3_ext_current_ppp_per_capita,External sources of funding on contraceptive management (family planning),sha11.DIS.2.3_ext,Millions,measure
+heading_age_current_ppp_per_capita,AGE,Heading_AGE,Ones,measure
+sha11_age_1_gghe_d_current_ppp_per_capita,Domestic General Government Health Expenditure in the < 5 year-old population,sha11.AGE.1_gghe-d,Millions,measure
+sha11_age_1_ext_current_ppp_per_capita,External sources of funding in the < 5 year-old population,sha11.AGE.1_ext,Millions,measure
+sha11_hf_millon_constant_2010_ncu,Current health expenditure by financing schemes,sha11.HF,Millions,measure
+sha11_hf_nec_millon_constant_2010_ncu,Unspecified financing schemes (n.e.c.),sha11.HF.nec,Millions,measure
+sha11_hf_4_millon_constant_2010_ncu,Rest of the world financing schemes (non-resident),sha11.HF.4,Millions,measure
+sha11_hf_3_millon_constant_2010_ncu,Household out-of-pocket payment,sha11.HF.3,Millions,measure
+sha11_hf_2_3_millon_constant_2010_ncu,Enterprise financing schemes,sha11.HF.2.3,Millions,measure
+sha11_hf_2_2_millon_constant_2010_ncu,NPISH financing schemes (including development agencies),sha11.HF.2.2,Millions,measure
+sha11_hf_2_1_millon_constant_2010_ncu,Voluntary health insurance schemes,sha11.HF.2.1,Millions,measure
+sha11_hf_2_millon_constant_2010_ncu,Voluntary health care payment schemes,sha11.HF.2,Millions,measure
+sha11_hf_1_3_millon_constant_2010_ncu,Compulsory Medical Saving Accounts (CMSA),sha11.HF.1.3,Millions,measure
+sha11_hf_1_2_2_millon_constant_2010_ncu,Compulsory private insurance schemes,sha11.HF.1.2.2,Millions,measure
+sha11_hf_1_2_1_millon_constant_2010_ncu,Social health insurance schemes,sha11.HF.1.2.1,Millions,measure
+sha11_hf_1_2_millon_constant_2010_ncu,Compulsory contributory health insurance schemes,sha11.HF.1.2,Millions,measure
+sha11_hf_1_1_millon_constant_2010_ncu,Government schemes,sha11.HF.1.1,Millions,measure
+sha11_hf_1_millon_constant_2010_ncu,Government schemes and compulsory contributory health care financing schemes,sha11.HF.1,Millions,measure
+sha11_fs_millon_constant_2010_ncu,Current health expenditure by revenues of health care financing schemes,sha11.FS,Millions,measure
+sha11_hk_millon_constant_2010_ncu,Capital health expenditure,sha11.HK,Millions,measure
+sha11_fs_1_millon_constant_2010_ncu,Transfers from government domestic revenue (allocated to health purposes),sha11.FS.1,Millions,measure
+sha11_fs_1_1_millon_constant_2010_ncu,Internal transfers and grants,sha11.FS.1.1,Millions,measure
+sha11_fs_1_2_millon_constant_2010_ncu,Transfers by government on behalf of specific groups,sha11.FS.1.2,Millions,measure
+sha11_fs_1_3_millon_constant_2010_ncu,Subsidies,sha11.FS.1.3,Millions,measure
+sha11_fs_1_4_millon_constant_2010_ncu,Other transfers from government domestic revenue,sha11.FS.1.4,Millions,measure
+sha11_fs_2_millon_constant_2010_ncu,Transfers distributed by government from foreign origin,sha11.FS.2,Millions,measure
+sha11_fs_3_millon_constant_2010_ncu,Social insurance contributions,sha11.FS.3,Millions,measure
+sha11_fs_4_millon_constant_2010_ncu,"Compulsory prepayment (Other, and unspecified, than FS.3)",sha11.FS.4,Millions,measure
+sha11_fs_5_millon_constant_2010_ncu,Voluntary prepayment,sha11.FS.5,Millions,measure
+sha11_fs_6_millon_constant_2010_ncu,Other domestic revenues n.e.c.,sha11.FS.6,Millions,measure
+sha11_fs_6_1_millon_constant_2010_ncu,Other revenues from households n.e.c.,sha11.FS.6.1,Millions,measure
+sha11_fs_6_2_millon_constant_2010_ncu,Other revenues from corporations n.e.c.,sha11.FS.6.2,Millions,measure
+sha11_fs_6_3_millon_constant_2010_ncu,Other revenues from NPISH n.e.c.,sha11.FS.6.3,Millions,measure
+sha11_fs_6_nec_millon_constant_2010_ncu,Unspecified other domestic revenues (n.e.c.),sha11.FS.6.nec,Millions,measure
+sha11_fs_7_millon_constant_2010_ncu,Direct foreign transfers,sha11.FS.7,Millions,measure
+sha11_fs_nec_millon_constant_2010_ncu,Unspecified revenues of health care financing schemes (n.e.c.),sha11.FS.nec,Millions,measure
+sha11_hc_millon_constant_2010_ncu,Current health expenditure by health care functions (preliminary data),sha11.HC,Millions,measure
+sha11_hc_9_millon_constant_2010_ncu,Other health care services not elsewhere classified (n.e.c.),sha11.HC.9,Millions,measure
+sha11_hc_7_millon_constant_2010_ncu,"Governance, and health system and financing administration",sha11.HC.7,Millions,measure
+sha11_hc_6_millon_constant_2010_ncu,Preventive care,sha11.HC.6,Millions,measure
+sha11_hc_5_millon_constant_2010_ncu,Medical goods (specified by function),sha11.HC.5,Millions,measure
+sha11_hc_4_millon_constant_2010_ncu,Ancillary services (specified by function),sha11.HC.4,Millions,measure
+sha11_hc_3_nec_millon_constant_2010_ncu,Unspecified long-term care (n.e.c.),sha11.HC.3.nec,Millions,measure
+sha11_hc_3_4_millon_constant_2010_ncu,Home-based long-term care (health),sha11.HC.3.4,Millions,measure
+sha11_hc_3_3_millon_constant_2010_ncu,Outpatient long-term care (health),sha11.HC.3.3,Millions,measure
+sha11_hc_3_2_millon_constant_2010_ncu,Day long-term care (health),sha11.HC.3.2,Millions,measure
+sha11_hc_3_1_millon_constant_2010_ncu,Inpatient long-term care (health),sha11.HC.3.1,Millions,measure
+sha11_hc_3_millon_constant_2010_ncu,Long-term care (health),sha11.HC.3,Millions,measure
+sha11_hc_2_millon_constant_2010_ncu,Rehabilitative care,sha11.HC.2,Millions,measure
+sha11_hc_1_nec_millon_constant_2010_ncu,Unspecified curative care (n.e.c.),sha11.HC.1.nec,Millions,measure
+sha11_hc_1_4_millon_constant_2010_ncu,Home-based curative care,sha11.HC.1.4,Millions,measure
+sha11_hc_1_3_nec_millon_constant_2010_ncu,Unspecified outpatient curative care (n.e.c.),sha11.HC.1.3.nec,Millions,measure
+sha11_hc_1_3_3_millon_constant_2010_ncu,Specialised outpatient curative care,sha11.HC.1.3.3,Millions,measure
+sha11_hc_1_3_2_millon_constant_2010_ncu,Dental outpatient curative care,sha11.HC.1.3.2,Millions,measure
+sha11_hc_1_3_1_millon_constant_2010_ncu,General outpatient curative care,sha11.HC.1.3.1,Millions,measure
+sha11_hc_1_3_millon_constant_2010_ncu,Outpatient curative care,sha11.HC.1.3,Millions,measure
+sha11_hc_1_2_millon_constant_2010_ncu,Day curative care,sha11.HC.1.2,Millions,measure
+sha11_hc_1_1_millon_constant_2010_ncu,Inpatient curative care,sha11.HC.1.1,Millions,measure
+sha11_hc_1_millon_constant_2010_ncu,Curative care,sha11.HC.1,Millions,measure
+sha11_hc_gghe_d_millon_constant_2010_ncu,Domestic general government health expenditure by health care functions (preliminary data),sha11.HC_gghe-d,Millions,measure
+sha11_hc_1_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on Curative care,sha11.HC.1_gghe-d,Millions,measure
+sha11_hc_1_3_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on Outpatient curative care,sha11.HC.1.3_gghe-d,Millions,measure
+sha11_hc_1_1_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on Inpatient curative care,sha11.HC.1.1_gghe-d,Millions,measure
+sha11_hc_1_2_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on Day curative care,sha11.HC.1.2_gghe-d,Millions,measure
+sha11_hc_1_4_gghe_d_millon_constant_2010_ncu,Domestic General Government on Home-based curative care,sha11.HC.1.4_gghe-d,Millions,measure
+sha11_hc_1_nec_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on Other curative care,sha11.HC.1.nec_gghe-d,Millions,measure
+sha11_hc_1_3_1_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on General outpatient curative care,sha11.HC.1.3.1_gghe-d,Millions,measure
+sha11_hc_1_3_2_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on Dental outpatient curative care,sha11.HC.1.3.2_gghe-d,Millions,measure
+sha11_hc_1_3_3_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on Specialised outpatient curative care,sha11.HC.1.3.3_gghe-d,Millions,measure
+sha11_hc_1_3_nec_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on Outpatient curative care n.e.c.,sha11.HC.1.3.nec_gghe-d,Millions,measure
+sha11_hc_2_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on Rehabilitative care,sha11.HC.2_gghe-d,Millions,measure
+sha11_hc_3_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on Long-term care (health),sha11.HC.3_gghe-d,Millions,measure
+sha11_hc_3_1_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on Inpatient long-term care (health),sha11.HC.3.1_gghe-d,Millions,measure
+sha11_hc_3_2_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on Day long-term care (health),sha11.HC.3.2_gghe-d,Millions,measure
+sha11_hc_3_3_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on Outpatient long-term care (health),sha11.HC.3.3_gghe-d,Millions,measure
+sha11_hc_3_4_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on Home-based long-term care (health),sha11.HC.3.4_gghe-d,Millions,measure
+sha11_hc_3_nec_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on Other Long-Term Care,sha11.HC.3.nec_gghe-d,Millions,measure
+sha11_hc_4_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on Ancillary services (non-specified by function),sha11.HC.4_gghe-d,Millions,measure
+sha11_hc_5_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on Medical goods (non-specified by function),sha11.HC.5_gghe-d,Millions,measure
+sha11_hc_6_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on Preventive care,sha11.HC.6_gghe-d,Millions,measure
+sha11_hc_7_gghe_d_millon_constant_2010_ncu,"Domestic General Government Expenditure on Governance, health system & financing administration",sha11.HC.7_gghe-d,Millions,measure
+sha11_hc_9_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on Other health care services (n.e.c.),sha11.HC.9_gghe-d,Millions,measure
+heading_hc_millon_constant_2010_ncu,HEALTH CARE FUNCTIONS (preliminary data),Heading_HC,Ones,measure
+heading_dis_millon_constant_2010_ncu,DISEASES AND CONDITIONS,Heading_DIS,Ones,measure
+sha11_dis_gghe_d_millon_constant_2010_ncu,Domestic general government health expenditure by disease and condition ,sha11.DIS_gghe-d,Ones,measure
+sha11_dis_ext_millon_constant_2010_ncu,External sources of funding by disease and condition,sha11.DIS_ext,Ones,measure
+sha11_dis_1_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on infectious and parasitic diseases,sha11.DIS.1_gghe-d,Millions,measure
+sha11_dis_2_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on reproductive health,sha11.DIS.2_gghe-d,Millions,measure
+sha11_dis_3_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on nutritional deficiencies,sha11.DIS.3_gghe-d,Millions,measure
+sha11_dis_4_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on noncommunicable diseases,sha11.DIS.4_gghe-d,Millions,measure
+sha11_dis_5_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on injuries,sha11.DIS.5_gghe-d,Millions,measure
+sha11_hc_6_2_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on immunization programmes,sha11.HC.6.2_gghe-d,Millions,measure
+sha11_dis_1_ext_millon_constant_2010_ncu,External sources of funding on infectious and parasitic diseases,sha11.DIS.1_ext,Millions,measure
+sha11_dis_2_ext_millon_constant_2010_ncu,External sources of funding on reproductive health,sha11.DIS.2_ext,Millions,measure
+sha11_dis_3_ext_millon_constant_2010_ncu,External sources of funding on nutritional deficiencies,sha11.DIS.3_ext,Millions,measure
+sha11_dis_4_ext_millon_constant_2010_ncu,External sources of funding on noncommunicable diseases,sha11.DIS.4_ext,Millions,measure
+sha11_dis_5_ext_millon_constant_2010_ncu,External sources of funding on injuries,sha11.DIS.5_ext,Millions,measure
+sha11_hc_6_2_ext_millon_constant_2010_ncu,External sources of funding on immunization programmes ,sha11.HC.6.2_ext,Millions,measure
+sha11_dis_1_1_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_gghe-d,Millions,measure
+sha11_dis_1_2_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on tuberculosis,sha11.DIS.1.2_gghe-d,Millions,measure
+sha11_dis_1_3_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on malaria,sha11.DIS.1.3_gghe-d,Millions,measure
+sha11_dis_2_3_gghe_d_millon_constant_2010_ncu,Domestic General Government Expenditure on contraceptive management (family planning),sha11.DIS.2.3_gghe-d,Millions,measure
+sha11_dis_1_1_ext_millon_constant_2010_ncu,External sources of funding on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_ext,Millions,measure
+sha11_dis_1_2_ext_millon_constant_2010_ncu,External sources of funding on tuberculosis,sha11.DIS.1.2_ext,Millions,measure
+sha11_dis_1_3_ext_millon_constant_2010_ncu,External sources of funding on malaria,sha11.DIS.1.3_ext,Millions,measure
+sha11_dis_2_3_ext_millon_constant_2010_ncu,External sources of funding on contraceptive management (family planning),sha11.DIS.2.3_ext,Millions,measure
+heading_age_millon_constant_2010_ncu,AGE,Heading_AGE,Ones,measure
+sha11_age_1_gghe_d_millon_constant_2010_ncu,Domestic General Government Health Expenditure in the < 5 year-old population,sha11.AGE.1_gghe-d,Millions,measure
+sha11_age_1_ext_millon_constant_2010_ncu,External sources of funding in the < 5 year-old population,sha11.AGE.1_ext,Millions,measure
+sha11_hf_million_constant_2010_us,Current health expenditure by financing schemes,sha11.HF,Millions,measure
+sha11_hf_nec_million_constant_2010_us,Unspecified financing schemes (n.e.c.),sha11.HF.nec,Millions,measure
+sha11_hf_4_million_constant_2010_us,Rest of the world financing schemes (non-resident),sha11.HF.4,Millions,measure
+sha11_hf_3_million_constant_2010_us,Household out-of-pocket payment,sha11.HF.3,Millions,measure
+sha11_hf_2_3_million_constant_2010_us,Enterprise financing schemes,sha11.HF.2.3,Millions,measure
+sha11_hf_2_2_million_constant_2010_us,NPISH financing schemes (including development agencies),sha11.HF.2.2,Millions,measure
+sha11_hf_2_1_million_constant_2010_us,Voluntary health insurance schemes,sha11.HF.2.1,Millions,measure
+sha11_hf_2_million_constant_2010_us,Voluntary health care payment schemes,sha11.HF.2,Millions,measure
+sha11_hf_1_3_million_constant_2010_us,Compulsory Medical Saving Accounts (CMSA),sha11.HF.1.3,Millions,measure
+sha11_hf_1_2_2_million_constant_2010_us,Compulsory private insurance schemes,sha11.HF.1.2.2,Millions,measure
+sha11_hf_1_2_1_million_constant_2010_us,Social health insurance schemes,sha11.HF.1.2.1,Millions,measure
+sha11_hf_1_2_million_constant_2010_us,Compulsory contributory health insurance schemes,sha11.HF.1.2,Millions,measure
+sha11_hf_1_1_million_constant_2010_us,Government schemes,sha11.HF.1.1,Millions,measure
+sha11_hf_1_million_constant_2010_us,Government schemes and compulsory contributory health care financing schemes,sha11.HF.1,Millions,measure
+sha11_fs_million_constant_2010_us,Current health expenditure by revenues of health care financing schemes,sha11.FS,Millions,measure
+sha11_hk_million_constant_2010_us,Capital health expenditure,sha11.HK,Millions,measure
+sha11_fs_1_million_constant_2010_us,Transfers from government domestic revenue (allocated to health purposes),sha11.FS.1,Millions,measure
+sha11_fs_1_1_million_constant_2010_us,Internal transfers and grants,sha11.FS.1.1,Millions,measure
+sha11_fs_1_2_million_constant_2010_us,Transfers by government on behalf of specific groups,sha11.FS.1.2,Millions,measure
+sha11_fs_1_3_million_constant_2010_us,Subsidies,sha11.FS.1.3,Millions,measure
+sha11_fs_1_4_million_constant_2010_us,Other transfers from government domestic revenue,sha11.FS.1.4,Millions,measure
+sha11_fs_2_million_constant_2010_us,Transfers distributed by government from foreign origin,sha11.FS.2,Millions,measure
+sha11_fs_3_million_constant_2010_us,Social insurance contributions,sha11.FS.3,Millions,measure
+sha11_fs_4_million_constant_2010_us,"Compulsory prepayment (Other, and unspecified, than FS.3)",sha11.FS.4,Millions,measure
+sha11_fs_5_million_constant_2010_us,Voluntary prepayment,sha11.FS.5,Millions,measure
+sha11_fs_6_million_constant_2010_us,Other domestic revenues n.e.c.,sha11.FS.6,Millions,measure
+sha11_fs_6_1_million_constant_2010_us,Other revenues from households n.e.c.,sha11.FS.6.1,Millions,measure
+sha11_fs_6_2_million_constant_2010_us,Other revenues from corporations n.e.c.,sha11.FS.6.2,Millions,measure
+sha11_fs_6_3_million_constant_2010_us,Other revenues from NPISH n.e.c.,sha11.FS.6.3,Millions,measure
+sha11_fs_6_nec_million_constant_2010_us,Unspecified other domestic revenues (n.e.c.),sha11.FS.6.nec,Millions,measure
+sha11_fs_7_million_constant_2010_us,Direct foreign transfers,sha11.FS.7,Millions,measure
+sha11_fs_nec_million_constant_2010_us,Unspecified revenues of health care financing schemes (n.e.c.),sha11.FS.nec,Millions,measure
+sha11_hc_million_constant_2010_us,Current health expenditure by health care functions (preliminary data),sha11.HC,Millions,measure
+sha11_hc_9_million_constant_2010_us,Other health care services not elsewhere classified (n.e.c.),sha11.HC.9,Millions,measure
+sha11_hc_7_million_constant_2010_us,"Governance, and health system and financing administration",sha11.HC.7,Millions,measure
+sha11_hc_6_million_constant_2010_us,Preventive care,sha11.HC.6,Millions,measure
+sha11_hc_5_million_constant_2010_us,Medical goods (specified by function),sha11.HC.5,Millions,measure
+sha11_hc_4_million_constant_2010_us,Ancillary services (specified by function),sha11.HC.4,Millions,measure
+sha11_hc_3_nec_million_constant_2010_us,Unspecified long-term care (n.e.c.),sha11.HC.3.nec,Millions,measure
+sha11_hc_3_4_million_constant_2010_us,Home-based long-term care (health),sha11.HC.3.4,Millions,measure
+sha11_hc_3_3_million_constant_2010_us,Outpatient long-term care (health),sha11.HC.3.3,Millions,measure
+sha11_hc_3_2_million_constant_2010_us,Day long-term care (health),sha11.HC.3.2,Millions,measure
+sha11_hc_3_1_million_constant_2010_us,Inpatient long-term care (health),sha11.HC.3.1,Millions,measure
+sha11_hc_3_million_constant_2010_us,Long-term care (health),sha11.HC.3,Millions,measure
+sha11_hc_2_million_constant_2010_us,Rehabilitative care,sha11.HC.2,Millions,measure
+sha11_hc_1_nec_million_constant_2010_us,Unspecified curative care (n.e.c.),sha11.HC.1.nec,Millions,measure
+sha11_hc_1_4_million_constant_2010_us,Home-based curative care,sha11.HC.1.4,Millions,measure
+sha11_hc_1_3_nec_million_constant_2010_us,Unspecified outpatient curative care (n.e.c.),sha11.HC.1.3.nec,Millions,measure
+sha11_hc_1_3_3_million_constant_2010_us,Specialised outpatient curative care,sha11.HC.1.3.3,Millions,measure
+sha11_hc_1_3_2_million_constant_2010_us,Dental outpatient curative care,sha11.HC.1.3.2,Millions,measure
+sha11_hc_1_3_1_million_constant_2010_us,General outpatient curative care,sha11.HC.1.3.1,Millions,measure
+sha11_hc_1_3_million_constant_2010_us,Outpatient curative care,sha11.HC.1.3,Millions,measure
+sha11_hc_1_2_million_constant_2010_us,Day curative care,sha11.HC.1.2,Millions,measure
+sha11_hc_1_1_million_constant_2010_us,Inpatient curative care,sha11.HC.1.1,Millions,measure
+sha11_hc_1_million_constant_2010_us,Curative care,sha11.HC.1,Millions,measure
+sha11_hc_gghe_d_million_constant_2010_us,Domestic general government health expenditure by health care functions (preliminary data),sha11.HC_gghe-d,Millions,measure
+sha11_hc_1_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on Curative care,sha11.HC.1_gghe-d,Millions,measure
+sha11_hc_1_3_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on Outpatient curative care,sha11.HC.1.3_gghe-d,Millions,measure
+sha11_hc_1_1_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on Inpatient curative care,sha11.HC.1.1_gghe-d,Millions,measure
+sha11_hc_1_2_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on Day curative care,sha11.HC.1.2_gghe-d,Millions,measure
+sha11_hc_1_4_gghe_d_million_constant_2010_us,Domestic General Government on Home-based curative care,sha11.HC.1.4_gghe-d,Millions,measure
+sha11_hc_1_nec_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on Other curative care,sha11.HC.1.nec_gghe-d,Millions,measure
+sha11_hc_1_3_1_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on General outpatient curative care,sha11.HC.1.3.1_gghe-d,Millions,measure
+sha11_hc_1_3_2_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on Dental outpatient curative care,sha11.HC.1.3.2_gghe-d,Millions,measure
+sha11_hc_1_3_3_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on Specialised outpatient curative care,sha11.HC.1.3.3_gghe-d,Millions,measure
+sha11_hc_1_3_nec_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on Outpatient curative care n.e.c.,sha11.HC.1.3.nec_gghe-d,Millions,measure
+sha11_hc_2_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on Rehabilitative care,sha11.HC.2_gghe-d,Millions,measure
+sha11_hc_3_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on Long-term care (health),sha11.HC.3_gghe-d,Millions,measure
+sha11_hc_3_1_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on Inpatient long-term care (health),sha11.HC.3.1_gghe-d,Millions,measure
+sha11_hc_3_2_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on Day long-term care (health),sha11.HC.3.2_gghe-d,Millions,measure
+sha11_hc_3_3_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on Outpatient long-term care (health),sha11.HC.3.3_gghe-d,Millions,measure
+sha11_hc_3_4_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on Home-based long-term care (health),sha11.HC.3.4_gghe-d,Millions,measure
+sha11_hc_3_nec_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on Other Long-Term Care,sha11.HC.3.nec_gghe-d,Millions,measure
+sha11_hc_4_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on Ancillary services (non-specified by function),sha11.HC.4_gghe-d,Millions,measure
+sha11_hc_5_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on Medical goods (non-specified by function),sha11.HC.5_gghe-d,Millions,measure
+sha11_hc_6_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on Preventive care,sha11.HC.6_gghe-d,Millions,measure
+sha11_hc_7_gghe_d_million_constant_2010_us,"Domestic General Government Expenditure on Governance, health system & financing administration",sha11.HC.7_gghe-d,Millions,measure
+sha11_hc_9_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on Other health care services (n.e.c.),sha11.HC.9_gghe-d,Millions,measure
+heading_hc_million_constant_2010_us,HEALTH CARE FUNCTIONS (preliminary data),Heading_HC,Ones,measure
+heading_dis_million_constant_2010_us,DISEASES AND CONDITIONS,Heading_DIS,Ones,measure
+sha11_dis_gghe_d_million_constant_2010_us,Domestic general government health expenditure by disease and condition ,sha11.DIS_gghe-d,Ones,measure
+sha11_dis_ext_million_constant_2010_us,External sources of funding by disease and condition,sha11.DIS_ext,Ones,measure
+sha11_dis_1_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on infectious and parasitic diseases,sha11.DIS.1_gghe-d,Millions,measure
+sha11_dis_2_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on reproductive health,sha11.DIS.2_gghe-d,Millions,measure
+sha11_dis_3_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on nutritional deficiencies,sha11.DIS.3_gghe-d,Millions,measure
+sha11_dis_4_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on noncommunicable diseases,sha11.DIS.4_gghe-d,Millions,measure
+sha11_dis_5_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on injuries,sha11.DIS.5_gghe-d,Millions,measure
+sha11_hc_6_2_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on immunization programmes,sha11.HC.6.2_gghe-d,Millions,measure
+sha11_dis_1_ext_million_constant_2010_us,External sources of funding on infectious and parasitic diseases,sha11.DIS.1_ext,Millions,measure
+sha11_dis_2_ext_million_constant_2010_us,External sources of funding on reproductive health,sha11.DIS.2_ext,Millions,measure
+sha11_dis_3_ext_million_constant_2010_us,External sources of funding on nutritional deficiencies,sha11.DIS.3_ext,Millions,measure
+sha11_dis_4_ext_million_constant_2010_us,External sources of funding on noncommunicable diseases,sha11.DIS.4_ext,Millions,measure
+sha11_dis_5_ext_million_constant_2010_us,External sources of funding on injuries,sha11.DIS.5_ext,Millions,measure
+sha11_hc_6_2_ext_million_constant_2010_us,External sources of funding on immunization programmes ,sha11.HC.6.2_ext,Millions,measure
+sha11_dis_1_1_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_gghe-d,Millions,measure
+sha11_dis_1_2_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on tuberculosis,sha11.DIS.1.2_gghe-d,Millions,measure
+sha11_dis_1_3_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on malaria,sha11.DIS.1.3_gghe-d,Millions,measure
+sha11_dis_2_3_gghe_d_million_constant_2010_us,Domestic General Government Expenditure on contraceptive management (family planning),sha11.DIS.2.3_gghe-d,Millions,measure
+sha11_dis_1_1_ext_million_constant_2010_us,External sources of funding on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_ext,Millions,measure
+sha11_dis_1_2_ext_million_constant_2010_us,External sources of funding on tuberculosis,sha11.DIS.1.2_ext,Millions,measure
+sha11_dis_1_3_ext_million_constant_2010_us,External sources of funding on malaria,sha11.DIS.1.3_ext,Millions,measure
+sha11_dis_2_3_ext_million_constant_2010_us,External sources of funding on contraceptive management (family planning),sha11.DIS.2.3_ext,Millions,measure
+heading_age_million_constant_2010_us,AGE,Heading_AGE,Ones,measure
+sha11_age_1_gghe_d_million_constant_2010_us,Domestic General Government Health Expenditure in the < 5 year-old population,sha11.AGE.1_gghe-d,Millions,measure
+sha11_age_1_ext_million_constant_2010_us,External sources of funding in the < 5 year-old population,sha11.AGE.1_ext,Millions,measure
+sha11_hf_million_constant_2010_ppp,Current health expenditure by financing schemes,sha11.HF,Millions,measure
+sha11_hf_nec_million_constant_2010_ppp,Unspecified financing schemes (n.e.c.),sha11.HF.nec,Millions,measure
+sha11_hf_4_million_constant_2010_ppp,Rest of the world financing schemes (non-resident),sha11.HF.4,Millions,measure
+sha11_hf_3_million_constant_2010_ppp,Household out-of-pocket payment,sha11.HF.3,Millions,measure
+sha11_hf_2_3_million_constant_2010_ppp,Enterprise financing schemes,sha11.HF.2.3,Millions,measure
+sha11_hf_2_2_million_constant_2010_ppp,NPISH financing schemes (including development agencies),sha11.HF.2.2,Millions,measure
+sha11_hf_2_1_million_constant_2010_ppp,Voluntary health insurance schemes,sha11.HF.2.1,Millions,measure
+sha11_hf_2_million_constant_2010_ppp,Voluntary health care payment schemes,sha11.HF.2,Millions,measure
+sha11_hf_1_3_million_constant_2010_ppp,Compulsory Medical Saving Accounts (CMSA),sha11.HF.1.3,Millions,measure
+sha11_hf_1_2_2_million_constant_2010_ppp,Compulsory private insurance schemes,sha11.HF.1.2.2,Millions,measure
+sha11_hf_1_2_1_million_constant_2010_ppp,Social health insurance schemes,sha11.HF.1.2.1,Millions,measure
+sha11_hf_1_2_million_constant_2010_ppp,Compulsory contributory health insurance schemes,sha11.HF.1.2,Millions,measure
+sha11_hf_1_1_million_constant_2010_ppp,Government schemes,sha11.HF.1.1,Millions,measure
+sha11_hf_1_million_constant_2010_ppp,Government schemes and compulsory contributory health care financing schemes,sha11.HF.1,Millions,measure
+sha11_fs_million_constant_2010_ppp,Current health expenditure by revenues of health care financing schemes,sha11.FS,Millions,measure
+sha11_hk_million_constant_2010_ppp,Capital health expenditure,sha11.HK,Millions,measure
+sha11_fs_1_million_constant_2010_ppp,Transfers from government domestic revenue (allocated to health purposes),sha11.FS.1,Millions,measure
+sha11_fs_1_1_million_constant_2010_ppp,Internal transfers and grants,sha11.FS.1.1,Millions,measure
+sha11_fs_1_2_million_constant_2010_ppp,Transfers by government on behalf of specific groups,sha11.FS.1.2,Millions,measure
+sha11_fs_1_3_million_constant_2010_ppp,Subsidies,sha11.FS.1.3,Millions,measure
+sha11_fs_1_4_million_constant_2010_ppp,Other transfers from government domestic revenue,sha11.FS.1.4,Millions,measure
+sha11_fs_2_million_constant_2010_ppp,Transfers distributed by government from foreign origin,sha11.FS.2,Millions,measure
+sha11_fs_3_million_constant_2010_ppp,Social insurance contributions,sha11.FS.3,Millions,measure
+sha11_fs_4_million_constant_2010_ppp,"Compulsory prepayment (Other, and unspecified, than FS.3)",sha11.FS.4,Millions,measure
+sha11_fs_5_million_constant_2010_ppp,Voluntary prepayment,sha11.FS.5,Millions,measure
+sha11_fs_6_million_constant_2010_ppp,Other domestic revenues n.e.c.,sha11.FS.6,Millions,measure
+sha11_fs_6_1_million_constant_2010_ppp,Other revenues from households n.e.c.,sha11.FS.6.1,Millions,measure
+sha11_fs_6_2_million_constant_2010_ppp,Other revenues from corporations n.e.c.,sha11.FS.6.2,Millions,measure
+sha11_fs_6_3_million_constant_2010_ppp,Other revenues from NPISH n.e.c.,sha11.FS.6.3,Millions,measure
+sha11_fs_6_nec_million_constant_2010_ppp,Unspecified other domestic revenues (n.e.c.),sha11.FS.6.nec,Millions,measure
+sha11_fs_7_million_constant_2010_ppp,Direct foreign transfers,sha11.FS.7,Millions,measure
+sha11_fs_nec_million_constant_2010_ppp,Unspecified revenues of health care financing schemes (n.e.c.),sha11.FS.nec,Millions,measure
+sha11_hc_million_constant_2010_ppp,Current health expenditure by health care functions (preliminary data),sha11.HC,Millions,measure
+sha11_hc_9_million_constant_2010_ppp,Other health care services not elsewhere classified (n.e.c.),sha11.HC.9,Millions,measure
+sha11_hc_7_million_constant_2010_ppp,"Governance, and health system and financing administration",sha11.HC.7,Millions,measure
+sha11_hc_6_million_constant_2010_ppp,Preventive care,sha11.HC.6,Millions,measure
+sha11_hc_5_million_constant_2010_ppp,Medical goods (specified by function),sha11.HC.5,Millions,measure
+sha11_hc_4_million_constant_2010_ppp,Ancillary services (specified by function),sha11.HC.4,Millions,measure
+sha11_hc_3_nec_million_constant_2010_ppp,Unspecified long-term care (n.e.c.),sha11.HC.3.nec,Millions,measure
+sha11_hc_3_4_million_constant_2010_ppp,Home-based long-term care (health),sha11.HC.3.4,Millions,measure
+sha11_hc_3_3_million_constant_2010_ppp,Outpatient long-term care (health),sha11.HC.3.3,Millions,measure
+sha11_hc_3_2_million_constant_2010_ppp,Day long-term care (health),sha11.HC.3.2,Millions,measure
+sha11_hc_3_1_million_constant_2010_ppp,Inpatient long-term care (health),sha11.HC.3.1,Millions,measure
+sha11_hc_3_million_constant_2010_ppp,Long-term care (health),sha11.HC.3,Millions,measure
+sha11_hc_2_million_constant_2010_ppp,Rehabilitative care,sha11.HC.2,Millions,measure
+sha11_hc_1_nec_million_constant_2010_ppp,Unspecified curative care (n.e.c.),sha11.HC.1.nec,Millions,measure
+sha11_hc_1_4_million_constant_2010_ppp,Home-based curative care,sha11.HC.1.4,Millions,measure
+sha11_hc_1_3_nec_million_constant_2010_ppp,Unspecified outpatient curative care (n.e.c.),sha11.HC.1.3.nec,Millions,measure
+sha11_hc_1_3_3_million_constant_2010_ppp,Specialised outpatient curative care,sha11.HC.1.3.3,Millions,measure
+sha11_hc_1_3_2_million_constant_2010_ppp,Dental outpatient curative care,sha11.HC.1.3.2,Millions,measure
+sha11_hc_1_3_1_million_constant_2010_ppp,General outpatient curative care,sha11.HC.1.3.1,Millions,measure
+sha11_hc_1_3_million_constant_2010_ppp,Outpatient curative care,sha11.HC.1.3,Millions,measure
+sha11_hc_1_2_million_constant_2010_ppp,Day curative care,sha11.HC.1.2,Millions,measure
+sha11_hc_1_1_million_constant_2010_ppp,Inpatient curative care,sha11.HC.1.1,Millions,measure
+sha11_hc_1_million_constant_2010_ppp,Curative care,sha11.HC.1,Millions,measure
+sha11_hc_gghe_d_million_constant_2010_ppp,Domestic general government health expenditure by health care functions (preliminary data),sha11.HC_gghe-d,Millions,measure
+sha11_hc_1_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on Curative care,sha11.HC.1_gghe-d,Millions,measure
+sha11_hc_1_3_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on Outpatient curative care,sha11.HC.1.3_gghe-d,Millions,measure
+sha11_hc_1_1_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on Inpatient curative care,sha11.HC.1.1_gghe-d,Millions,measure
+sha11_hc_1_2_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on Day curative care,sha11.HC.1.2_gghe-d,Millions,measure
+sha11_hc_1_4_gghe_d_million_constant_2010_ppp,Domestic General Government on Home-based curative care,sha11.HC.1.4_gghe-d,Millions,measure
+sha11_hc_1_nec_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on Other curative care,sha11.HC.1.nec_gghe-d,Millions,measure
+sha11_hc_1_3_1_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on General outpatient curative care,sha11.HC.1.3.1_gghe-d,Millions,measure
+sha11_hc_1_3_2_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on Dental outpatient curative care,sha11.HC.1.3.2_gghe-d,Millions,measure
+sha11_hc_1_3_3_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on Specialised outpatient curative care,sha11.HC.1.3.3_gghe-d,Millions,measure
+sha11_hc_1_3_nec_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on Outpatient curative care n.e.c.,sha11.HC.1.3.nec_gghe-d,Millions,measure
+sha11_hc_2_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on Rehabilitative care,sha11.HC.2_gghe-d,Millions,measure
+sha11_hc_3_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on Long-term care (health),sha11.HC.3_gghe-d,Millions,measure
+sha11_hc_3_1_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on Inpatient long-term care (health),sha11.HC.3.1_gghe-d,Millions,measure
+sha11_hc_3_2_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on Day long-term care (health),sha11.HC.3.2_gghe-d,Millions,measure
+sha11_hc_3_3_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on Outpatient long-term care (health),sha11.HC.3.3_gghe-d,Millions,measure
+sha11_hc_3_4_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on Home-based long-term care (health),sha11.HC.3.4_gghe-d,Millions,measure
+sha11_hc_3_nec_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on Other Long-Term Care,sha11.HC.3.nec_gghe-d,Millions,measure
+sha11_hc_4_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on Ancillary services (non-specified by function),sha11.HC.4_gghe-d,Millions,measure
+sha11_hc_5_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on Medical goods (non-specified by function),sha11.HC.5_gghe-d,Millions,measure
+sha11_hc_6_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on Preventive care,sha11.HC.6_gghe-d,Millions,measure
+sha11_hc_7_gghe_d_million_constant_2010_ppp,"Domestic General Government Expenditure on Governance, health system & financing administration",sha11.HC.7_gghe-d,Millions,measure
+sha11_hc_9_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on Other health care services (n.e.c.),sha11.HC.9_gghe-d,Millions,measure
+heading_hc_million_constant_2010_ppp,HEALTH CARE FUNCTIONS (preliminary data),Heading_HC,Ones,measure
+heading_dis_million_constant_2010_ppp,DISEASES AND CONDITIONS,Heading_DIS,Ones,measure
+sha11_dis_gghe_d_million_constant_2010_ppp,Domestic general government health expenditure by disease and condition ,sha11.DIS_gghe-d,Ones,measure
+sha11_dis_ext_million_constant_2010_ppp,External sources of funding by disease and condition,sha11.DIS_ext,Ones,measure
+sha11_dis_1_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on infectious and parasitic diseases,sha11.DIS.1_gghe-d,Millions,measure
+sha11_dis_2_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on reproductive health,sha11.DIS.2_gghe-d,Millions,measure
+sha11_dis_3_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on nutritional deficiencies,sha11.DIS.3_gghe-d,Millions,measure
+sha11_dis_4_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on noncommunicable diseases,sha11.DIS.4_gghe-d,Millions,measure
+sha11_dis_5_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on injuries,sha11.DIS.5_gghe-d,Millions,measure
+sha11_hc_6_2_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on immunization programmes,sha11.HC.6.2_gghe-d,Millions,measure
+sha11_dis_1_ext_million_constant_2010_ppp,External sources of funding on infectious and parasitic diseases,sha11.DIS.1_ext,Millions,measure
+sha11_dis_2_ext_million_constant_2010_ppp,External sources of funding on reproductive health,sha11.DIS.2_ext,Millions,measure
+sha11_dis_3_ext_million_constant_2010_ppp,External sources of funding on nutritional deficiencies,sha11.DIS.3_ext,Millions,measure
+sha11_dis_4_ext_million_constant_2010_ppp,External sources of funding on noncommunicable diseases,sha11.DIS.4_ext,Millions,measure
+sha11_dis_5_ext_million_constant_2010_ppp,External sources of funding on injuries,sha11.DIS.5_ext,Millions,measure
+sha11_hc_6_2_ext_million_constant_2010_ppp,External sources of funding on immunization programmes ,sha11.HC.6.2_ext,Millions,measure
+sha11_dis_1_1_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_gghe-d,Millions,measure
+sha11_dis_1_2_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on tuberculosis,sha11.DIS.1.2_gghe-d,Millions,measure
+sha11_dis_1_3_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on malaria,sha11.DIS.1.3_gghe-d,Millions,measure
+sha11_dis_2_3_gghe_d_million_constant_2010_ppp,Domestic General Government Expenditure on contraceptive management (family planning),sha11.DIS.2.3_gghe-d,Millions,measure
+sha11_dis_1_1_ext_million_constant_2010_ppp,External sources of funding on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_ext,Millions,measure
+sha11_dis_1_2_ext_million_constant_2010_ppp,External sources of funding on tuberculosis,sha11.DIS.1.2_ext,Millions,measure
+sha11_dis_1_3_ext_million_constant_2010_ppp,External sources of funding on malaria,sha11.DIS.1.3_ext,Millions,measure
+sha11_dis_2_3_ext_million_constant_2010_ppp,External sources of funding on contraceptive management (family planning),sha11.DIS.2.3_ext,Millions,measure
+heading_age_million_constant_2010_ppp,AGE,Heading_AGE,Ones,measure
+sha11_age_1_gghe_d_million_constant_2010_ppp,Domestic General Government Health Expenditure in the < 5 year-old population,sha11.AGE.1_gghe-d,Millions,measure
+sha11_age_1_ext_million_constant_2010_ppp,External sources of funding in the < 5 year-old population,sha11.AGE.1_ext,Millions,measure
+sha11_hf_constant_2010_ncu_per_capita,Current health expenditure by financing schemes,sha11.HF,Millions,measure
+sha11_hf_nec_constant_2010_ncu_per_capita,Unspecified financing schemes (n.e.c.),sha11.HF.nec,Millions,measure
+sha11_hf_4_constant_2010_ncu_per_capita,Rest of the world financing schemes (non-resident),sha11.HF.4,Millions,measure
+sha11_hf_3_constant_2010_ncu_per_capita,Household out-of-pocket payment,sha11.HF.3,Millions,measure
+sha11_hf_2_3_constant_2010_ncu_per_capita,Enterprise financing schemes,sha11.HF.2.3,Millions,measure
+sha11_hf_2_2_constant_2010_ncu_per_capita,NPISH financing schemes (including development agencies),sha11.HF.2.2,Millions,measure
+sha11_hf_2_1_constant_2010_ncu_per_capita,Voluntary health insurance schemes,sha11.HF.2.1,Millions,measure
+sha11_hf_2_constant_2010_ncu_per_capita,Voluntary health care payment schemes,sha11.HF.2,Millions,measure
+sha11_hf_1_3_constant_2010_ncu_per_capita,Compulsory Medical Saving Accounts (CMSA),sha11.HF.1.3,Millions,measure
+sha11_hf_1_2_2_constant_2010_ncu_per_capita,Compulsory private insurance schemes,sha11.HF.1.2.2,Millions,measure
+sha11_hf_1_2_1_constant_2010_ncu_per_capita,Social health insurance schemes,sha11.HF.1.2.1,Millions,measure
+sha11_hf_1_2_constant_2010_ncu_per_capita,Compulsory contributory health insurance schemes,sha11.HF.1.2,Millions,measure
+sha11_hf_1_1_constant_2010_ncu_per_capita,Government schemes,sha11.HF.1.1,Millions,measure
+sha11_hf_1_constant_2010_ncu_per_capita,Government schemes and compulsory contributory health care financing schemes,sha11.HF.1,Millions,measure
+sha11_fs_constant_2010_ncu_per_capita,Current health expenditure by revenues of health care financing schemes,sha11.FS,Millions,measure
+sha11_hk_constant_2010_ncu_per_capita,Capital health expenditure,sha11.HK,Millions,measure
+sha11_fs_1_constant_2010_ncu_per_capita,Transfers from government domestic revenue (allocated to health purposes),sha11.FS.1,Millions,measure
+sha11_fs_1_1_constant_2010_ncu_per_capita,Internal transfers and grants,sha11.FS.1.1,Millions,measure
+sha11_fs_1_2_constant_2010_ncu_per_capita,Transfers by government on behalf of specific groups,sha11.FS.1.2,Millions,measure
+sha11_fs_1_3_constant_2010_ncu_per_capita,Subsidies,sha11.FS.1.3,Millions,measure
+sha11_fs_1_4_constant_2010_ncu_per_capita,Other transfers from government domestic revenue,sha11.FS.1.4,Millions,measure
+sha11_fs_2_constant_2010_ncu_per_capita,Transfers distributed by government from foreign origin,sha11.FS.2,Millions,measure
+sha11_fs_3_constant_2010_ncu_per_capita,Social insurance contributions,sha11.FS.3,Millions,measure
+sha11_fs_4_constant_2010_ncu_per_capita,"Compulsory prepayment (Other, and unspecified, than FS.3)",sha11.FS.4,Millions,measure
+sha11_fs_5_constant_2010_ncu_per_capita,Voluntary prepayment,sha11.FS.5,Millions,measure
+sha11_fs_6_constant_2010_ncu_per_capita,Other domestic revenues n.e.c.,sha11.FS.6,Millions,measure
+sha11_fs_6_1_constant_2010_ncu_per_capita,Other revenues from households n.e.c.,sha11.FS.6.1,Millions,measure
+sha11_fs_6_2_constant_2010_ncu_per_capita,Other revenues from corporations n.e.c.,sha11.FS.6.2,Millions,measure
+sha11_fs_6_3_constant_2010_ncu_per_capita,Other revenues from NPISH n.e.c.,sha11.FS.6.3,Millions,measure
+sha11_fs_6_nec_constant_2010_ncu_per_capita,Unspecified other domestic revenues (n.e.c.),sha11.FS.6.nec,Millions,measure
+sha11_fs_7_constant_2010_ncu_per_capita,Direct foreign transfers,sha11.FS.7,Millions,measure
+sha11_fs_nec_constant_2010_ncu_per_capita,Unspecified revenues of health care financing schemes (n.e.c.),sha11.FS.nec,Millions,measure
+sha11_hc_constant_2010_ncu_per_capita,Current health expenditure by health care functions (preliminary data),sha11.HC,Millions,measure
+sha11_hc_9_constant_2010_ncu_per_capita,Other health care services not elsewhere classified (n.e.c.),sha11.HC.9,Millions,measure
+sha11_hc_7_constant_2010_ncu_per_capita,"Governance, and health system and financing administration",sha11.HC.7,Millions,measure
+sha11_hc_6_constant_2010_ncu_per_capita,Preventive care,sha11.HC.6,Millions,measure
+sha11_hc_5_constant_2010_ncu_per_capita,Medical goods (specified by function),sha11.HC.5,Millions,measure
+sha11_hc_4_constant_2010_ncu_per_capita,Ancillary services (specified by function),sha11.HC.4,Millions,measure
+sha11_hc_3_nec_constant_2010_ncu_per_capita,Unspecified long-term care (n.e.c.),sha11.HC.3.nec,Millions,measure
+sha11_hc_3_4_constant_2010_ncu_per_capita,Home-based long-term care (health),sha11.HC.3.4,Millions,measure
+sha11_hc_3_3_constant_2010_ncu_per_capita,Outpatient long-term care (health),sha11.HC.3.3,Millions,measure
+sha11_hc_3_2_constant_2010_ncu_per_capita,Day long-term care (health),sha11.HC.3.2,Millions,measure
+sha11_hc_3_1_constant_2010_ncu_per_capita,Inpatient long-term care (health),sha11.HC.3.1,Millions,measure
+sha11_hc_3_constant_2010_ncu_per_capita,Long-term care (health),sha11.HC.3,Millions,measure
+sha11_hc_2_constant_2010_ncu_per_capita,Rehabilitative care,sha11.HC.2,Millions,measure
+sha11_hc_1_nec_constant_2010_ncu_per_capita,Unspecified curative care (n.e.c.),sha11.HC.1.nec,Millions,measure
+sha11_hc_1_4_constant_2010_ncu_per_capita,Home-based curative care,sha11.HC.1.4,Millions,measure
+sha11_hc_1_3_nec_constant_2010_ncu_per_capita,Unspecified outpatient curative care (n.e.c.),sha11.HC.1.3.nec,Millions,measure
+sha11_hc_1_3_3_constant_2010_ncu_per_capita,Specialised outpatient curative care,sha11.HC.1.3.3,Millions,measure
+sha11_hc_1_3_2_constant_2010_ncu_per_capita,Dental outpatient curative care,sha11.HC.1.3.2,Millions,measure
+sha11_hc_1_3_1_constant_2010_ncu_per_capita,General outpatient curative care,sha11.HC.1.3.1,Millions,measure
+sha11_hc_1_3_constant_2010_ncu_per_capita,Outpatient curative care,sha11.HC.1.3,Millions,measure
+sha11_hc_1_2_constant_2010_ncu_per_capita,Day curative care,sha11.HC.1.2,Millions,measure
+sha11_hc_1_1_constant_2010_ncu_per_capita,Inpatient curative care,sha11.HC.1.1,Millions,measure
+sha11_hc_1_constant_2010_ncu_per_capita,Curative care,sha11.HC.1,Millions,measure
+sha11_hc_gghe_d_constant_2010_ncu_per_capita,Domestic general government health expenditure by health care functions (preliminary data),sha11.HC_gghe-d,Millions,measure
+sha11_hc_1_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on Curative care,sha11.HC.1_gghe-d,Millions,measure
+sha11_hc_1_3_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on Outpatient curative care,sha11.HC.1.3_gghe-d,Millions,measure
+sha11_hc_1_1_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on Inpatient curative care,sha11.HC.1.1_gghe-d,Millions,measure
+sha11_hc_1_2_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on Day curative care,sha11.HC.1.2_gghe-d,Millions,measure
+sha11_hc_1_4_gghe_d_constant_2010_ncu_per_capita,Domestic General Government on Home-based curative care,sha11.HC.1.4_gghe-d,Millions,measure
+sha11_hc_1_nec_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on Other curative care,sha11.HC.1.nec_gghe-d,Millions,measure
+sha11_hc_1_3_1_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on General outpatient curative care,sha11.HC.1.3.1_gghe-d,Millions,measure
+sha11_hc_1_3_2_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on Dental outpatient curative care,sha11.HC.1.3.2_gghe-d,Millions,measure
+sha11_hc_1_3_3_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on Specialised outpatient curative care,sha11.HC.1.3.3_gghe-d,Millions,measure
+sha11_hc_1_3_nec_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on Outpatient curative care n.e.c.,sha11.HC.1.3.nec_gghe-d,Millions,measure
+sha11_hc_2_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on Rehabilitative care,sha11.HC.2_gghe-d,Millions,measure
+sha11_hc_3_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on Long-term care (health),sha11.HC.3_gghe-d,Millions,measure
+sha11_hc_3_1_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on Inpatient long-term care (health),sha11.HC.3.1_gghe-d,Millions,measure
+sha11_hc_3_2_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on Day long-term care (health),sha11.HC.3.2_gghe-d,Millions,measure
+sha11_hc_3_3_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on Outpatient long-term care (health),sha11.HC.3.3_gghe-d,Millions,measure
+sha11_hc_3_4_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on Home-based long-term care (health),sha11.HC.3.4_gghe-d,Millions,measure
+sha11_hc_3_nec_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on Other Long-Term Care,sha11.HC.3.nec_gghe-d,Millions,measure
+sha11_hc_4_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on Ancillary services (non-specified by function),sha11.HC.4_gghe-d,Millions,measure
+sha11_hc_5_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on Medical goods (non-specified by function),sha11.HC.5_gghe-d,Millions,measure
+sha11_hc_6_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on Preventive care,sha11.HC.6_gghe-d,Millions,measure
+sha11_hc_7_gghe_d_constant_2010_ncu_per_capita,"Domestic General Government Expenditure on Governance, health system & financing administration",sha11.HC.7_gghe-d,Millions,measure
+sha11_hc_9_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on Other health care services (n.e.c.),sha11.HC.9_gghe-d,Millions,measure
+heading_hc_constant_2010_ncu_per_capita,HEALTH CARE FUNCTIONS (preliminary data),Heading_HC,Ones,measure
+heading_dis_constant_2010_ncu_per_capita,DISEASES AND CONDITIONS,Heading_DIS,Ones,measure
+sha11_dis_gghe_d_constant_2010_ncu_per_capita,Domestic general government health expenditure by disease and condition ,sha11.DIS_gghe-d,Ones,measure
+sha11_dis_ext_constant_2010_ncu_per_capita,External sources of funding by disease and condition,sha11.DIS_ext,Ones,measure
+sha11_dis_1_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on infectious and parasitic diseases,sha11.DIS.1_gghe-d,Millions,measure
+sha11_dis_2_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on reproductive health,sha11.DIS.2_gghe-d,Millions,measure
+sha11_dis_3_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on nutritional deficiencies,sha11.DIS.3_gghe-d,Millions,measure
+sha11_dis_4_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on noncommunicable diseases,sha11.DIS.4_gghe-d,Millions,measure
+sha11_dis_5_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on injuries,sha11.DIS.5_gghe-d,Millions,measure
+sha11_hc_6_2_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on immunization programmes,sha11.HC.6.2_gghe-d,Millions,measure
+sha11_dis_1_ext_constant_2010_ncu_per_capita,External sources of funding on infectious and parasitic diseases,sha11.DIS.1_ext,Millions,measure
+sha11_dis_2_ext_constant_2010_ncu_per_capita,External sources of funding on reproductive health,sha11.DIS.2_ext,Millions,measure
+sha11_dis_3_ext_constant_2010_ncu_per_capita,External sources of funding on nutritional deficiencies,sha11.DIS.3_ext,Millions,measure
+sha11_dis_4_ext_constant_2010_ncu_per_capita,External sources of funding on noncommunicable diseases,sha11.DIS.4_ext,Millions,measure
+sha11_dis_5_ext_constant_2010_ncu_per_capita,External sources of funding on injuries,sha11.DIS.5_ext,Millions,measure
+sha11_hc_6_2_ext_constant_2010_ncu_per_capita,External sources of funding on immunization programmes ,sha11.HC.6.2_ext,Millions,measure
+sha11_dis_1_1_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_gghe-d,Millions,measure
+sha11_dis_1_2_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on tuberculosis,sha11.DIS.1.2_gghe-d,Millions,measure
+sha11_dis_1_3_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on malaria,sha11.DIS.1.3_gghe-d,Millions,measure
+sha11_dis_2_3_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Expenditure on contraceptive management (family planning),sha11.DIS.2.3_gghe-d,Millions,measure
+sha11_dis_1_1_ext_constant_2010_ncu_per_capita,External sources of funding on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_ext,Millions,measure
+sha11_dis_1_2_ext_constant_2010_ncu_per_capita,External sources of funding on tuberculosis,sha11.DIS.1.2_ext,Millions,measure
+sha11_dis_1_3_ext_constant_2010_ncu_per_capita,External sources of funding on malaria,sha11.DIS.1.3_ext,Millions,measure
+sha11_dis_2_3_ext_constant_2010_ncu_per_capita,External sources of funding on contraceptive management (family planning),sha11.DIS.2.3_ext,Millions,measure
+heading_age_constant_2010_ncu_per_capita,AGE,Heading_AGE,Ones,measure
+sha11_age_1_gghe_d_constant_2010_ncu_per_capita,Domestic General Government Health Expenditure in the < 5 year-old population,sha11.AGE.1_gghe-d,Millions,measure
+sha11_age_1_ext_constant_2010_ncu_per_capita,External sources of funding in the < 5 year-old population,sha11.AGE.1_ext,Millions,measure
+sha11_hf_constant_2010_us_per_capita,Current health expenditure by financing schemes,sha11.HF,Millions,measure
+sha11_hf_nec_constant_2010_us_per_capita,Unspecified financing schemes (n.e.c.),sha11.HF.nec,Millions,measure
+sha11_hf_4_constant_2010_us_per_capita,Rest of the world financing schemes (non-resident),sha11.HF.4,Millions,measure
+sha11_hf_3_constant_2010_us_per_capita,Household out-of-pocket payment,sha11.HF.3,Millions,measure
+sha11_hf_2_3_constant_2010_us_per_capita,Enterprise financing schemes,sha11.HF.2.3,Millions,measure
+sha11_hf_2_2_constant_2010_us_per_capita,NPISH financing schemes (including development agencies),sha11.HF.2.2,Millions,measure
+sha11_hf_2_1_constant_2010_us_per_capita,Voluntary health insurance schemes,sha11.HF.2.1,Millions,measure
+sha11_hf_2_constant_2010_us_per_capita,Voluntary health care payment schemes,sha11.HF.2,Millions,measure
+sha11_hf_1_3_constant_2010_us_per_capita,Compulsory Medical Saving Accounts (CMSA),sha11.HF.1.3,Millions,measure
+sha11_hf_1_2_2_constant_2010_us_per_capita,Compulsory private insurance schemes,sha11.HF.1.2.2,Millions,measure
+sha11_hf_1_2_1_constant_2010_us_per_capita,Social health insurance schemes,sha11.HF.1.2.1,Millions,measure
+sha11_hf_1_2_constant_2010_us_per_capita,Compulsory contributory health insurance schemes,sha11.HF.1.2,Millions,measure
+sha11_hf_1_1_constant_2010_us_per_capita,Government schemes,sha11.HF.1.1,Millions,measure
+sha11_hf_1_constant_2010_us_per_capita,Government schemes and compulsory contributory health care financing schemes,sha11.HF.1,Millions,measure
+sha11_fs_constant_2010_us_per_capita,Current health expenditure by revenues of health care financing schemes,sha11.FS,Millions,measure
+sha11_hk_constant_2010_us_per_capita,Capital health expenditure,sha11.HK,Millions,measure
+sha11_fs_1_constant_2010_us_per_capita,Transfers from government domestic revenue (allocated to health purposes),sha11.FS.1,Millions,measure
+sha11_fs_1_1_constant_2010_us_per_capita,Internal transfers and grants,sha11.FS.1.1,Millions,measure
+sha11_fs_1_2_constant_2010_us_per_capita,Transfers by government on behalf of specific groups,sha11.FS.1.2,Millions,measure
+sha11_fs_1_3_constant_2010_us_per_capita,Subsidies,sha11.FS.1.3,Millions,measure
+sha11_fs_1_4_constant_2010_us_per_capita,Other transfers from government domestic revenue,sha11.FS.1.4,Millions,measure
+sha11_fs_2_constant_2010_us_per_capita,Transfers distributed by government from foreign origin,sha11.FS.2,Millions,measure
+sha11_fs_3_constant_2010_us_per_capita,Social insurance contributions,sha11.FS.3,Millions,measure
+sha11_fs_4_constant_2010_us_per_capita,"Compulsory prepayment (Other, and unspecified, than FS.3)",sha11.FS.4,Millions,measure
+sha11_fs_5_constant_2010_us_per_capita,Voluntary prepayment,sha11.FS.5,Millions,measure
+sha11_fs_6_constant_2010_us_per_capita,Other domestic revenues n.e.c.,sha11.FS.6,Millions,measure
+sha11_fs_6_1_constant_2010_us_per_capita,Other revenues from households n.e.c.,sha11.FS.6.1,Millions,measure
+sha11_fs_6_2_constant_2010_us_per_capita,Other revenues from corporations n.e.c.,sha11.FS.6.2,Millions,measure
+sha11_fs_6_3_constant_2010_us_per_capita,Other revenues from NPISH n.e.c.,sha11.FS.6.3,Millions,measure
+sha11_fs_6_nec_constant_2010_us_per_capita,Unspecified other domestic revenues (n.e.c.),sha11.FS.6.nec,Millions,measure
+sha11_fs_7_constant_2010_us_per_capita,Direct foreign transfers,sha11.FS.7,Millions,measure
+sha11_fs_nec_constant_2010_us_per_capita,Unspecified revenues of health care financing schemes (n.e.c.),sha11.FS.nec,Millions,measure
+sha11_hc_constant_2010_us_per_capita,Current health expenditure by health care functions (preliminary data),sha11.HC,Millions,measure
+sha11_hc_9_constant_2010_us_per_capita,Other health care services not elsewhere classified (n.e.c.),sha11.HC.9,Millions,measure
+sha11_hc_7_constant_2010_us_per_capita,"Governance, and health system and financing administration",sha11.HC.7,Millions,measure
+sha11_hc_6_constant_2010_us_per_capita,Preventive care,sha11.HC.6,Millions,measure
+sha11_hc_5_constant_2010_us_per_capita,Medical goods (specified by function),sha11.HC.5,Millions,measure
+sha11_hc_4_constant_2010_us_per_capita,Ancillary services (specified by function),sha11.HC.4,Millions,measure
+sha11_hc_3_nec_constant_2010_us_per_capita,Unspecified long-term care (n.e.c.),sha11.HC.3.nec,Millions,measure
+sha11_hc_3_4_constant_2010_us_per_capita,Home-based long-term care (health),sha11.HC.3.4,Millions,measure
+sha11_hc_3_3_constant_2010_us_per_capita,Outpatient long-term care (health),sha11.HC.3.3,Millions,measure
+sha11_hc_3_2_constant_2010_us_per_capita,Day long-term care (health),sha11.HC.3.2,Millions,measure
+sha11_hc_3_1_constant_2010_us_per_capita,Inpatient long-term care (health),sha11.HC.3.1,Millions,measure
+sha11_hc_3_constant_2010_us_per_capita,Long-term care (health),sha11.HC.3,Millions,measure
+sha11_hc_2_constant_2010_us_per_capita,Rehabilitative care,sha11.HC.2,Millions,measure
+sha11_hc_1_nec_constant_2010_us_per_capita,Unspecified curative care (n.e.c.),sha11.HC.1.nec,Millions,measure
+sha11_hc_1_4_constant_2010_us_per_capita,Home-based curative care,sha11.HC.1.4,Millions,measure
+sha11_hc_1_3_nec_constant_2010_us_per_capita,Unspecified outpatient curative care (n.e.c.),sha11.HC.1.3.nec,Millions,measure
+sha11_hc_1_3_3_constant_2010_us_per_capita,Specialised outpatient curative care,sha11.HC.1.3.3,Millions,measure
+sha11_hc_1_3_2_constant_2010_us_per_capita,Dental outpatient curative care,sha11.HC.1.3.2,Millions,measure
+sha11_hc_1_3_1_constant_2010_us_per_capita,General outpatient curative care,sha11.HC.1.3.1,Millions,measure
+sha11_hc_1_3_constant_2010_us_per_capita,Outpatient curative care,sha11.HC.1.3,Millions,measure
+sha11_hc_1_2_constant_2010_us_per_capita,Day curative care,sha11.HC.1.2,Millions,measure
+sha11_hc_1_1_constant_2010_us_per_capita,Inpatient curative care,sha11.HC.1.1,Millions,measure
+sha11_hc_1_constant_2010_us_per_capita,Curative care,sha11.HC.1,Millions,measure
+sha11_hc_gghe_d_constant_2010_us_per_capita,Domestic general government health expenditure by health care functions (preliminary data),sha11.HC_gghe-d,Millions,measure
+sha11_hc_1_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on Curative care,sha11.HC.1_gghe-d,Millions,measure
+sha11_hc_1_3_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on Outpatient curative care,sha11.HC.1.3_gghe-d,Millions,measure
+sha11_hc_1_1_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on Inpatient curative care,sha11.HC.1.1_gghe-d,Millions,measure
+sha11_hc_1_2_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on Day curative care,sha11.HC.1.2_gghe-d,Millions,measure
+sha11_hc_1_4_gghe_d_constant_2010_us_per_capita,Domestic General Government on Home-based curative care,sha11.HC.1.4_gghe-d,Millions,measure
+sha11_hc_1_nec_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on Other curative care,sha11.HC.1.nec_gghe-d,Millions,measure
+sha11_hc_1_3_1_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on General outpatient curative care,sha11.HC.1.3.1_gghe-d,Millions,measure
+sha11_hc_1_3_2_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on Dental outpatient curative care,sha11.HC.1.3.2_gghe-d,Millions,measure
+sha11_hc_1_3_3_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on Specialised outpatient curative care,sha11.HC.1.3.3_gghe-d,Millions,measure
+sha11_hc_1_3_nec_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on Outpatient curative care n.e.c.,sha11.HC.1.3.nec_gghe-d,Millions,measure
+sha11_hc_2_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on Rehabilitative care,sha11.HC.2_gghe-d,Millions,measure
+sha11_hc_3_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on Long-term care (health),sha11.HC.3_gghe-d,Millions,measure
+sha11_hc_3_1_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on Inpatient long-term care (health),sha11.HC.3.1_gghe-d,Millions,measure
+sha11_hc_3_2_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on Day long-term care (health),sha11.HC.3.2_gghe-d,Millions,measure
+sha11_hc_3_3_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on Outpatient long-term care (health),sha11.HC.3.3_gghe-d,Millions,measure
+sha11_hc_3_4_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on Home-based long-term care (health),sha11.HC.3.4_gghe-d,Millions,measure
+sha11_hc_3_nec_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on Other Long-Term Care,sha11.HC.3.nec_gghe-d,Millions,measure
+sha11_hc_4_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on Ancillary services (non-specified by function),sha11.HC.4_gghe-d,Millions,measure
+sha11_hc_5_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on Medical goods (non-specified by function),sha11.HC.5_gghe-d,Millions,measure
+sha11_hc_6_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on Preventive care,sha11.HC.6_gghe-d,Millions,measure
+sha11_hc_7_gghe_d_constant_2010_us_per_capita,"Domestic General Government Expenditure on Governance, health system & financing administration",sha11.HC.7_gghe-d,Millions,measure
+sha11_hc_9_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on Other health care services (n.e.c.),sha11.HC.9_gghe-d,Millions,measure
+heading_hc_constant_2010_us_per_capita,HEALTH CARE FUNCTIONS (preliminary data),Heading_HC,Ones,measure
+heading_dis_constant_2010_us_per_capita,DISEASES AND CONDITIONS,Heading_DIS,Ones,measure
+sha11_dis_gghe_d_constant_2010_us_per_capita,Domestic general government health expenditure by disease and condition ,sha11.DIS_gghe-d,Ones,measure
+sha11_dis_ext_constant_2010_us_per_capita,External sources of funding by disease and condition,sha11.DIS_ext,Ones,measure
+sha11_dis_1_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on infectious and parasitic diseases,sha11.DIS.1_gghe-d,Millions,measure
+sha11_dis_2_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on reproductive health,sha11.DIS.2_gghe-d,Millions,measure
+sha11_dis_3_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on nutritional deficiencies,sha11.DIS.3_gghe-d,Millions,measure
+sha11_dis_4_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on noncommunicable diseases,sha11.DIS.4_gghe-d,Millions,measure
+sha11_dis_5_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on injuries,sha11.DIS.5_gghe-d,Millions,measure
+sha11_hc_6_2_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on immunization programmes,sha11.HC.6.2_gghe-d,Millions,measure
+sha11_dis_1_ext_constant_2010_us_per_capita,External sources of funding on infectious and parasitic diseases,sha11.DIS.1_ext,Millions,measure
+sha11_dis_2_ext_constant_2010_us_per_capita,External sources of funding on reproductive health,sha11.DIS.2_ext,Millions,measure
+sha11_dis_3_ext_constant_2010_us_per_capita,External sources of funding on nutritional deficiencies,sha11.DIS.3_ext,Millions,measure
+sha11_dis_4_ext_constant_2010_us_per_capita,External sources of funding on noncommunicable diseases,sha11.DIS.4_ext,Millions,measure
+sha11_dis_5_ext_constant_2010_us_per_capita,External sources of funding on injuries,sha11.DIS.5_ext,Millions,measure
+sha11_hc_6_2_ext_constant_2010_us_per_capita,External sources of funding on immunization programmes ,sha11.HC.6.2_ext,Millions,measure
+sha11_dis_1_1_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_gghe-d,Millions,measure
+sha11_dis_1_2_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on tuberculosis,sha11.DIS.1.2_gghe-d,Millions,measure
+sha11_dis_1_3_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on malaria,sha11.DIS.1.3_gghe-d,Millions,measure
+sha11_dis_2_3_gghe_d_constant_2010_us_per_capita,Domestic General Government Expenditure on contraceptive management (family planning),sha11.DIS.2.3_gghe-d,Millions,measure
+sha11_dis_1_1_ext_constant_2010_us_per_capita,External sources of funding on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_ext,Millions,measure
+sha11_dis_1_2_ext_constant_2010_us_per_capita,External sources of funding on tuberculosis,sha11.DIS.1.2_ext,Millions,measure
+sha11_dis_1_3_ext_constant_2010_us_per_capita,External sources of funding on malaria,sha11.DIS.1.3_ext,Millions,measure
+sha11_dis_2_3_ext_constant_2010_us_per_capita,External sources of funding on contraceptive management (family planning),sha11.DIS.2.3_ext,Millions,measure
+heading_age_constant_2010_us_per_capita,AGE,Heading_AGE,Ones,measure
+sha11_age_1_gghe_d_constant_2010_us_per_capita,Domestic General Government Health Expenditure in the < 5 year-old population,sha11.AGE.1_gghe-d,Millions,measure
+sha11_age_1_ext_constant_2010_us_per_capita,External sources of funding in the < 5 year-old population,sha11.AGE.1_ext,Millions,measure
+sha11_hf_constant_2010_ppp_per_capita,Current health expenditure by financing schemes,sha11.HF,Millions,measure
+sha11_hf_nec_constant_2010_ppp_per_capita,Unspecified financing schemes (n.e.c.),sha11.HF.nec,Millions,measure
+sha11_hf_4_constant_2010_ppp_per_capita,Rest of the world financing schemes (non-resident),sha11.HF.4,Millions,measure
+sha11_hf_3_constant_2010_ppp_per_capita,Household out-of-pocket payment,sha11.HF.3,Millions,measure
+sha11_hf_2_3_constant_2010_ppp_per_capita,Enterprise financing schemes,sha11.HF.2.3,Millions,measure
+sha11_hf_2_2_constant_2010_ppp_per_capita,NPISH financing schemes (including development agencies),sha11.HF.2.2,Millions,measure
+sha11_hf_2_1_constant_2010_ppp_per_capita,Voluntary health insurance schemes,sha11.HF.2.1,Millions,measure
+sha11_hf_2_constant_2010_ppp_per_capita,Voluntary health care payment schemes,sha11.HF.2,Millions,measure
+sha11_hf_1_3_constant_2010_ppp_per_capita,Compulsory Medical Saving Accounts (CMSA),sha11.HF.1.3,Millions,measure
+sha11_hf_1_2_2_constant_2010_ppp_per_capita,Compulsory private insurance schemes,sha11.HF.1.2.2,Millions,measure
+sha11_hf_1_2_1_constant_2010_ppp_per_capita,Social health insurance schemes,sha11.HF.1.2.1,Millions,measure
+sha11_hf_1_2_constant_2010_ppp_per_capita,Compulsory contributory health insurance schemes,sha11.HF.1.2,Millions,measure
+sha11_hf_1_1_constant_2010_ppp_per_capita,Government schemes,sha11.HF.1.1,Millions,measure
+sha11_hf_1_constant_2010_ppp_per_capita,Government schemes and compulsory contributory health care financing schemes,sha11.HF.1,Millions,measure
+sha11_fs_constant_2010_ppp_per_capita,Current health expenditure by revenues of health care financing schemes,sha11.FS,Millions,measure
+sha11_hk_constant_2010_ppp_per_capita,Capital health expenditure,sha11.HK,Millions,measure
+sha11_fs_1_constant_2010_ppp_per_capita,Transfers from government domestic revenue (allocated to health purposes),sha11.FS.1,Millions,measure
+sha11_fs_1_1_constant_2010_ppp_per_capita,Internal transfers and grants,sha11.FS.1.1,Millions,measure
+sha11_fs_1_2_constant_2010_ppp_per_capita,Transfers by government on behalf of specific groups,sha11.FS.1.2,Millions,measure
+sha11_fs_1_3_constant_2010_ppp_per_capita,Subsidies,sha11.FS.1.3,Millions,measure
+sha11_fs_1_4_constant_2010_ppp_per_capita,Other transfers from government domestic revenue,sha11.FS.1.4,Millions,measure
+sha11_fs_2_constant_2010_ppp_per_capita,Transfers distributed by government from foreign origin,sha11.FS.2,Millions,measure
+sha11_fs_3_constant_2010_ppp_per_capita,Social insurance contributions,sha11.FS.3,Millions,measure
+sha11_fs_4_constant_2010_ppp_per_capita,"Compulsory prepayment (Other, and unspecified, than FS.3)",sha11.FS.4,Millions,measure
+sha11_fs_5_constant_2010_ppp_per_capita,Voluntary prepayment,sha11.FS.5,Millions,measure
+sha11_fs_6_constant_2010_ppp_per_capita,Other domestic revenues n.e.c.,sha11.FS.6,Millions,measure
+sha11_fs_6_1_constant_2010_ppp_per_capita,Other revenues from households n.e.c.,sha11.FS.6.1,Millions,measure
+sha11_fs_6_2_constant_2010_ppp_per_capita,Other revenues from corporations n.e.c.,sha11.FS.6.2,Millions,measure
+sha11_fs_6_3_constant_2010_ppp_per_capita,Other revenues from NPISH n.e.c.,sha11.FS.6.3,Millions,measure
+sha11_fs_6_nec_constant_2010_ppp_per_capita,Unspecified other domestic revenues (n.e.c.),sha11.FS.6.nec,Millions,measure
+sha11_fs_7_constant_2010_ppp_per_capita,Direct foreign transfers,sha11.FS.7,Millions,measure
+sha11_fs_nec_constant_2010_ppp_per_capita,Unspecified revenues of health care financing schemes (n.e.c.),sha11.FS.nec,Millions,measure
+sha11_hc_constant_2010_ppp_per_capita,Current health expenditure by health care functions (preliminary data),sha11.HC,Millions,measure
+sha11_hc_9_constant_2010_ppp_per_capita,Other health care services not elsewhere classified (n.e.c.),sha11.HC.9,Millions,measure
+sha11_hc_7_constant_2010_ppp_per_capita,"Governance, and health system and financing administration",sha11.HC.7,Millions,measure
+sha11_hc_6_constant_2010_ppp_per_capita,Preventive care,sha11.HC.6,Millions,measure
+sha11_hc_5_constant_2010_ppp_per_capita,Medical goods (specified by function),sha11.HC.5,Millions,measure
+sha11_hc_4_constant_2010_ppp_per_capita,Ancillary services (specified by function),sha11.HC.4,Millions,measure
+sha11_hc_3_nec_constant_2010_ppp_per_capita,Unspecified long-term care (n.e.c.),sha11.HC.3.nec,Millions,measure
+sha11_hc_3_4_constant_2010_ppp_per_capita,Home-based long-term care (health),sha11.HC.3.4,Millions,measure
+sha11_hc_3_3_constant_2010_ppp_per_capita,Outpatient long-term care (health),sha11.HC.3.3,Millions,measure
+sha11_hc_3_2_constant_2010_ppp_per_capita,Day long-term care (health),sha11.HC.3.2,Millions,measure
+sha11_hc_3_1_constant_2010_ppp_per_capita,Inpatient long-term care (health),sha11.HC.3.1,Millions,measure
+sha11_hc_3_constant_2010_ppp_per_capita,Long-term care (health),sha11.HC.3,Millions,measure
+sha11_hc_2_constant_2010_ppp_per_capita,Rehabilitative care,sha11.HC.2,Millions,measure
+sha11_hc_1_nec_constant_2010_ppp_per_capita,Unspecified curative care (n.e.c.),sha11.HC.1.nec,Millions,measure
+sha11_hc_1_4_constant_2010_ppp_per_capita,Home-based curative care,sha11.HC.1.4,Millions,measure
+sha11_hc_1_3_nec_constant_2010_ppp_per_capita,Unspecified outpatient curative care (n.e.c.),sha11.HC.1.3.nec,Millions,measure
+sha11_hc_1_3_3_constant_2010_ppp_per_capita,Specialised outpatient curative care,sha11.HC.1.3.3,Millions,measure
+sha11_hc_1_3_2_constant_2010_ppp_per_capita,Dental outpatient curative care,sha11.HC.1.3.2,Millions,measure
+sha11_hc_1_3_1_constant_2010_ppp_per_capita,General outpatient curative care,sha11.HC.1.3.1,Millions,measure
+sha11_hc_1_3_constant_2010_ppp_per_capita,Outpatient curative care,sha11.HC.1.3,Millions,measure
+sha11_hc_1_2_constant_2010_ppp_per_capita,Day curative care,sha11.HC.1.2,Millions,measure
+sha11_hc_1_1_constant_2010_ppp_per_capita,Inpatient curative care,sha11.HC.1.1,Millions,measure
+sha11_hc_1_constant_2010_ppp_per_capita,Curative care,sha11.HC.1,Millions,measure
+sha11_hc_gghe_d_constant_2010_ppp_per_capita,Domestic general government health expenditure by health care functions (preliminary data),sha11.HC_gghe-d,Millions,measure
+sha11_hc_1_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on Curative care,sha11.HC.1_gghe-d,Millions,measure
+sha11_hc_1_3_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on Outpatient curative care,sha11.HC.1.3_gghe-d,Millions,measure
+sha11_hc_1_1_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on Inpatient curative care,sha11.HC.1.1_gghe-d,Millions,measure
+sha11_hc_1_2_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on Day curative care,sha11.HC.1.2_gghe-d,Millions,measure
+sha11_hc_1_4_gghe_d_constant_2010_ppp_per_capita,Domestic General Government on Home-based curative care,sha11.HC.1.4_gghe-d,Millions,measure
+sha11_hc_1_nec_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on Other curative care,sha11.HC.1.nec_gghe-d,Millions,measure
+sha11_hc_1_3_1_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on General outpatient curative care,sha11.HC.1.3.1_gghe-d,Millions,measure
+sha11_hc_1_3_2_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on Dental outpatient curative care,sha11.HC.1.3.2_gghe-d,Millions,measure
+sha11_hc_1_3_3_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on Specialised outpatient curative care,sha11.HC.1.3.3_gghe-d,Millions,measure
+sha11_hc_1_3_nec_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on Outpatient curative care n.e.c.,sha11.HC.1.3.nec_gghe-d,Millions,measure
+sha11_hc_2_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on Rehabilitative care,sha11.HC.2_gghe-d,Millions,measure
+sha11_hc_3_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on Long-term care (health),sha11.HC.3_gghe-d,Millions,measure
+sha11_hc_3_1_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on Inpatient long-term care (health),sha11.HC.3.1_gghe-d,Millions,measure
+sha11_hc_3_2_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on Day long-term care (health),sha11.HC.3.2_gghe-d,Millions,measure
+sha11_hc_3_3_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on Outpatient long-term care (health),sha11.HC.3.3_gghe-d,Millions,measure
+sha11_hc_3_4_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on Home-based long-term care (health),sha11.HC.3.4_gghe-d,Millions,measure
+sha11_hc_3_nec_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on Other Long-Term Care,sha11.HC.3.nec_gghe-d,Millions,measure
+sha11_hc_4_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on Ancillary services (non-specified by function),sha11.HC.4_gghe-d,Millions,measure
+sha11_hc_5_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on Medical goods (non-specified by function),sha11.HC.5_gghe-d,Millions,measure
+sha11_hc_6_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on Preventive care,sha11.HC.6_gghe-d,Millions,measure
+sha11_hc_7_gghe_d_constant_2010_ppp_per_capita,"Domestic General Government Expenditure on Governance, health system & financing administration",sha11.HC.7_gghe-d,Millions,measure
+sha11_hc_9_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on Other health care services (n.e.c.),sha11.HC.9_gghe-d,Millions,measure
+heading_hc_constant_2010_ppp_per_capita,HEALTH CARE FUNCTIONS (preliminary data),Heading_HC,Ones,measure
+heading_dis_constant_2010_ppp_per_capita,DISEASES AND CONDITIONS,Heading_DIS,Ones,measure
+sha11_dis_gghe_d_constant_2010_ppp_per_capita,Domestic general government health expenditure by disease and condition ,sha11.DIS_gghe-d,Ones,measure
+sha11_dis_ext_constant_2010_ppp_per_capita,External sources of funding by disease and condition,sha11.DIS_ext,Ones,measure
+sha11_dis_1_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on infectious and parasitic diseases,sha11.DIS.1_gghe-d,Millions,measure
+sha11_dis_2_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on reproductive health,sha11.DIS.2_gghe-d,Millions,measure
+sha11_dis_3_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on nutritional deficiencies,sha11.DIS.3_gghe-d,Millions,measure
+sha11_dis_4_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on noncommunicable diseases,sha11.DIS.4_gghe-d,Millions,measure
+sha11_dis_5_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on injuries,sha11.DIS.5_gghe-d,Millions,measure
+sha11_hc_6_2_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on immunization programmes,sha11.HC.6.2_gghe-d,Millions,measure
+sha11_dis_1_ext_constant_2010_ppp_per_capita,External sources of funding on infectious and parasitic diseases,sha11.DIS.1_ext,Millions,measure
+sha11_dis_2_ext_constant_2010_ppp_per_capita,External sources of funding on reproductive health,sha11.DIS.2_ext,Millions,measure
+sha11_dis_3_ext_constant_2010_ppp_per_capita,External sources of funding on nutritional deficiencies,sha11.DIS.3_ext,Millions,measure
+sha11_dis_4_ext_constant_2010_ppp_per_capita,External sources of funding on noncommunicable diseases,sha11.DIS.4_ext,Millions,measure
+sha11_dis_5_ext_constant_2010_ppp_per_capita,External sources of funding on injuries,sha11.DIS.5_ext,Millions,measure
+sha11_hc_6_2_ext_constant_2010_ppp_per_capita,External sources of funding on immunization programmes ,sha11.HC.6.2_ext,Millions,measure
+sha11_dis_1_1_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_gghe-d,Millions,measure
+sha11_dis_1_2_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on tuberculosis,sha11.DIS.1.2_gghe-d,Millions,measure
+sha11_dis_1_3_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on malaria,sha11.DIS.1.3_gghe-d,Millions,measure
+sha11_dis_2_3_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Expenditure on contraceptive management (family planning),sha11.DIS.2.3_gghe-d,Millions,measure
+sha11_dis_1_1_ext_constant_2010_ppp_per_capita,External sources of funding on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_ext,Millions,measure
+sha11_dis_1_2_ext_constant_2010_ppp_per_capita,External sources of funding on tuberculosis,sha11.DIS.1.2_ext,Millions,measure
+sha11_dis_1_3_ext_constant_2010_ppp_per_capita,External sources of funding on malaria,sha11.DIS.1.3_ext,Millions,measure
+sha11_dis_2_3_ext_constant_2010_ppp_per_capita,External sources of funding on contraceptive management (family planning),sha11.DIS.2.3_ext,Millions,measure
+heading_age_constant_2010_ppp_per_capita,AGE,Heading_AGE,Ones,measure
+sha11_age_1_gghe_d_constant_2010_ppp_per_capita,Domestic General Government Health Expenditure in the < 5 year-old population,sha11.AGE.1_gghe-d,Millions,measure
+sha11_age_1_ext_constant_2010_ppp_per_capita,External sources of funding in the < 5 year-old population,sha11.AGE.1_ext,Millions,measure
+sha11_hf_percentage_of_gdp,Current health expenditure by financing schemes,sha11.HF,Millions,measure
+sha11_hf_nec_percentage_of_gdp,Unspecified financing schemes (n.e.c.),sha11.HF.nec,Millions,measure
+sha11_hf_4_percentage_of_gdp,Rest of the world financing schemes (non-resident),sha11.HF.4,Millions,measure
+sha11_hf_3_percentage_of_gdp,Household out-of-pocket payment,sha11.HF.3,Millions,measure
+sha11_hf_2_3_percentage_of_gdp,Enterprise financing schemes,sha11.HF.2.3,Millions,measure
+sha11_hf_2_2_percentage_of_gdp,NPISH financing schemes (including development agencies),sha11.HF.2.2,Millions,measure
+sha11_hf_2_1_percentage_of_gdp,Voluntary health insurance schemes,sha11.HF.2.1,Millions,measure
+sha11_hf_2_percentage_of_gdp,Voluntary health care payment schemes,sha11.HF.2,Millions,measure
+sha11_hf_1_3_percentage_of_gdp,Compulsory Medical Saving Accounts (CMSA),sha11.HF.1.3,Millions,measure
+sha11_hf_1_2_2_percentage_of_gdp,Compulsory private insurance schemes,sha11.HF.1.2.2,Millions,measure
+sha11_hf_1_2_1_percentage_of_gdp,Social health insurance schemes,sha11.HF.1.2.1,Millions,measure
+sha11_hf_1_2_percentage_of_gdp,Compulsory contributory health insurance schemes,sha11.HF.1.2,Millions,measure
+sha11_hf_1_1_percentage_of_gdp,Government schemes,sha11.HF.1.1,Millions,measure
+sha11_hf_1_percentage_of_gdp,Government schemes and compulsory contributory health care financing schemes,sha11.HF.1,Millions,measure
+sha11_fs_percentage_of_gdp,Current health expenditure by revenues of health care financing schemes,sha11.FS,Millions,measure
+sha11_hk_percentage_of_gdp,Capital health expenditure,sha11.HK,Millions,measure
+sha11_fs_1_percentage_of_gdp,Transfers from government domestic revenue (allocated to health purposes),sha11.FS.1,Millions,measure
+sha11_fs_1_1_percentage_of_gdp,Internal transfers and grants,sha11.FS.1.1,Millions,measure
+sha11_fs_1_2_percentage_of_gdp,Transfers by government on behalf of specific groups,sha11.FS.1.2,Millions,measure
+sha11_fs_1_3_percentage_of_gdp,Subsidies,sha11.FS.1.3,Millions,measure
+sha11_fs_1_4_percentage_of_gdp,Other transfers from government domestic revenue,sha11.FS.1.4,Millions,measure
+sha11_fs_2_percentage_of_gdp,Transfers distributed by government from foreign origin,sha11.FS.2,Millions,measure
+sha11_fs_3_percentage_of_gdp,Social insurance contributions,sha11.FS.3,Millions,measure
+sha11_fs_4_percentage_of_gdp,"Compulsory prepayment (Other, and unspecified, than FS.3)",sha11.FS.4,Millions,measure
+sha11_fs_5_percentage_of_gdp,Voluntary prepayment,sha11.FS.5,Millions,measure
+sha11_fs_6_percentage_of_gdp,Other domestic revenues n.e.c.,sha11.FS.6,Millions,measure
+sha11_fs_6_1_percentage_of_gdp,Other revenues from households n.e.c.,sha11.FS.6.1,Millions,measure
+sha11_fs_6_2_percentage_of_gdp,Other revenues from corporations n.e.c.,sha11.FS.6.2,Millions,measure
+sha11_fs_6_3_percentage_of_gdp,Other revenues from NPISH n.e.c.,sha11.FS.6.3,Millions,measure
+sha11_fs_6_nec_percentage_of_gdp,Unspecified other domestic revenues (n.e.c.),sha11.FS.6.nec,Millions,measure
+sha11_fs_7_percentage_of_gdp,Direct foreign transfers,sha11.FS.7,Millions,measure
+sha11_fs_nec_percentage_of_gdp,Unspecified revenues of health care financing schemes (n.e.c.),sha11.FS.nec,Millions,measure
+sha11_hc_percentage_of_gdp,Current health expenditure by health care functions (preliminary data),sha11.HC,Millions,measure
+sha11_hc_9_percentage_of_gdp,Other health care services not elsewhere classified (n.e.c.),sha11.HC.9,Millions,measure
+sha11_hc_7_percentage_of_gdp,"Governance, and health system and financing administration",sha11.HC.7,Millions,measure
+sha11_hc_6_percentage_of_gdp,Preventive care,sha11.HC.6,Millions,measure
+sha11_hc_5_percentage_of_gdp,Medical goods (specified by function),sha11.HC.5,Millions,measure
+sha11_hc_4_percentage_of_gdp,Ancillary services (specified by function),sha11.HC.4,Millions,measure
+sha11_hc_3_nec_percentage_of_gdp,Unspecified long-term care (n.e.c.),sha11.HC.3.nec,Millions,measure
+sha11_hc_3_4_percentage_of_gdp,Home-based long-term care (health),sha11.HC.3.4,Millions,measure
+sha11_hc_3_3_percentage_of_gdp,Outpatient long-term care (health),sha11.HC.3.3,Millions,measure
+sha11_hc_3_2_percentage_of_gdp,Day long-term care (health),sha11.HC.3.2,Millions,measure
+sha11_hc_3_1_percentage_of_gdp,Inpatient long-term care (health),sha11.HC.3.1,Millions,measure
+sha11_hc_3_percentage_of_gdp,Long-term care (health),sha11.HC.3,Millions,measure
+sha11_hc_2_percentage_of_gdp,Rehabilitative care,sha11.HC.2,Millions,measure
+sha11_hc_1_nec_percentage_of_gdp,Unspecified curative care (n.e.c.),sha11.HC.1.nec,Millions,measure
+sha11_hc_1_4_percentage_of_gdp,Home-based curative care,sha11.HC.1.4,Millions,measure
+sha11_hc_1_3_nec_percentage_of_gdp,Unspecified outpatient curative care (n.e.c.),sha11.HC.1.3.nec,Millions,measure
+sha11_hc_1_3_3_percentage_of_gdp,Specialised outpatient curative care,sha11.HC.1.3.3,Millions,measure
+sha11_hc_1_3_2_percentage_of_gdp,Dental outpatient curative care,sha11.HC.1.3.2,Millions,measure
+sha11_hc_1_3_1_percentage_of_gdp,General outpatient curative care,sha11.HC.1.3.1,Millions,measure
+sha11_hc_1_3_percentage_of_gdp,Outpatient curative care,sha11.HC.1.3,Millions,measure
+sha11_hc_1_2_percentage_of_gdp,Day curative care,sha11.HC.1.2,Millions,measure
+sha11_hc_1_1_percentage_of_gdp,Inpatient curative care,sha11.HC.1.1,Millions,measure
+sha11_hc_1_percentage_of_gdp,Curative care,sha11.HC.1,Millions,measure
+sha11_hc_gghe_d_percentage_of_gdp,Domestic general government health expenditure by health care functions (preliminary data),sha11.HC_gghe-d,Millions,measure
+sha11_hc_1_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on Curative care,sha11.HC.1_gghe-d,Millions,measure
+sha11_hc_1_3_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on Outpatient curative care,sha11.HC.1.3_gghe-d,Millions,measure
+sha11_hc_1_1_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on Inpatient curative care,sha11.HC.1.1_gghe-d,Millions,measure
+sha11_hc_1_2_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on Day curative care,sha11.HC.1.2_gghe-d,Millions,measure
+sha11_hc_1_4_gghe_d_percentage_of_gdp,Domestic General Government on Home-based curative care,sha11.HC.1.4_gghe-d,Millions,measure
+sha11_hc_1_nec_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on Other curative care,sha11.HC.1.nec_gghe-d,Millions,measure
+sha11_hc_1_3_1_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on General outpatient curative care,sha11.HC.1.3.1_gghe-d,Millions,measure
+sha11_hc_1_3_2_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on Dental outpatient curative care,sha11.HC.1.3.2_gghe-d,Millions,measure
+sha11_hc_1_3_3_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on Specialised outpatient curative care,sha11.HC.1.3.3_gghe-d,Millions,measure
+sha11_hc_1_3_nec_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on Outpatient curative care n.e.c.,sha11.HC.1.3.nec_gghe-d,Millions,measure
+sha11_hc_2_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on Rehabilitative care,sha11.HC.2_gghe-d,Millions,measure
+sha11_hc_3_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on Long-term care (health),sha11.HC.3_gghe-d,Millions,measure
+sha11_hc_3_1_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on Inpatient long-term care (health),sha11.HC.3.1_gghe-d,Millions,measure
+sha11_hc_3_2_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on Day long-term care (health),sha11.HC.3.2_gghe-d,Millions,measure
+sha11_hc_3_3_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on Outpatient long-term care (health),sha11.HC.3.3_gghe-d,Millions,measure
+sha11_hc_3_4_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on Home-based long-term care (health),sha11.HC.3.4_gghe-d,Millions,measure
+sha11_hc_3_nec_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on Other Long-Term Care,sha11.HC.3.nec_gghe-d,Millions,measure
+sha11_hc_4_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on Ancillary services (non-specified by function),sha11.HC.4_gghe-d,Millions,measure
+sha11_hc_5_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on Medical goods (non-specified by function),sha11.HC.5_gghe-d,Millions,measure
+sha11_hc_6_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on Preventive care,sha11.HC.6_gghe-d,Millions,measure
+sha11_hc_7_gghe_d_percentage_of_gdp,"Domestic General Government Expenditure on Governance, health system & financing administration",sha11.HC.7_gghe-d,Millions,measure
+sha11_hc_9_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on Other health care services (n.e.c.),sha11.HC.9_gghe-d,Millions,measure
+heading_hc_percentage_of_gdp,HEALTH CARE FUNCTIONS (preliminary data),Heading_HC,Ones,measure
+heading_dis_percentage_of_gdp,DISEASES AND CONDITIONS,Heading_DIS,Ones,measure
+sha11_dis_gghe_d_percentage_of_gdp,Domestic general government health expenditure by disease and condition ,sha11.DIS_gghe-d,Ones,measure
+sha11_dis_ext_percentage_of_gdp,External sources of funding by disease and condition,sha11.DIS_ext,Ones,measure
+sha11_dis_1_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on infectious and parasitic diseases,sha11.DIS.1_gghe-d,Millions,measure
+sha11_dis_2_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on reproductive health,sha11.DIS.2_gghe-d,Millions,measure
+sha11_dis_3_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on nutritional deficiencies,sha11.DIS.3_gghe-d,Millions,measure
+sha11_dis_4_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on noncommunicable diseases,sha11.DIS.4_gghe-d,Millions,measure
+sha11_dis_5_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on injuries,sha11.DIS.5_gghe-d,Millions,measure
+sha11_hc_6_2_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on immunization programmes,sha11.HC.6.2_gghe-d,Millions,measure
+sha11_dis_1_ext_percentage_of_gdp,External sources of funding on infectious and parasitic diseases,sha11.DIS.1_ext,Millions,measure
+sha11_dis_2_ext_percentage_of_gdp,External sources of funding on reproductive health,sha11.DIS.2_ext,Millions,measure
+sha11_dis_3_ext_percentage_of_gdp,External sources of funding on nutritional deficiencies,sha11.DIS.3_ext,Millions,measure
+sha11_dis_4_ext_percentage_of_gdp,External sources of funding on noncommunicable diseases,sha11.DIS.4_ext,Millions,measure
+sha11_dis_5_ext_percentage_of_gdp,External sources of funding on injuries,sha11.DIS.5_ext,Millions,measure
+sha11_hc_6_2_ext_percentage_of_gdp,External sources of funding on immunization programmes ,sha11.HC.6.2_ext,Millions,measure
+sha11_dis_1_1_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_gghe-d,Millions,measure
+sha11_dis_1_2_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on tuberculosis,sha11.DIS.1.2_gghe-d,Millions,measure
+sha11_dis_1_3_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on malaria,sha11.DIS.1.3_gghe-d,Millions,measure
+sha11_dis_2_3_gghe_d_percentage_of_gdp,Domestic General Government Expenditure on contraceptive management (family planning),sha11.DIS.2.3_gghe-d,Millions,measure
+sha11_dis_1_1_ext_percentage_of_gdp,External sources of funding on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_ext,Millions,measure
+sha11_dis_1_2_ext_percentage_of_gdp,External sources of funding on tuberculosis,sha11.DIS.1.2_ext,Millions,measure
+sha11_dis_1_3_ext_percentage_of_gdp,External sources of funding on malaria,sha11.DIS.1.3_ext,Millions,measure
+sha11_dis_2_3_ext_percentage_of_gdp,External sources of funding on contraceptive management (family planning),sha11.DIS.2.3_ext,Millions,measure
+heading_age_percentage_of_gdp,AGE,Heading_AGE,Ones,measure
+sha11_age_1_gghe_d_percentage_of_gdp,Domestic General Government Health Expenditure in the < 5 year-old population,sha11.AGE.1_gghe-d,Millions,measure
+sha11_age_1_ext_percentage_of_gdp,External sources of funding in the < 5 year-old population,sha11.AGE.1_ext,Millions,measure
+sha11_hf_percentage_of_gge,Current health expenditure by financing schemes,sha11.HF,Millions,measure
+sha11_hf_nec_percentage_of_gge,Unspecified financing schemes (n.e.c.),sha11.HF.nec,Millions,measure
+sha11_hf_4_percentage_of_gge,Rest of the world financing schemes (non-resident),sha11.HF.4,Millions,measure
+sha11_hf_3_percentage_of_gge,Household out-of-pocket payment,sha11.HF.3,Millions,measure
+sha11_hf_2_3_percentage_of_gge,Enterprise financing schemes,sha11.HF.2.3,Millions,measure
+sha11_hf_2_2_percentage_of_gge,NPISH financing schemes (including development agencies),sha11.HF.2.2,Millions,measure
+sha11_hf_2_1_percentage_of_gge,Voluntary health insurance schemes,sha11.HF.2.1,Millions,measure
+sha11_hf_2_percentage_of_gge,Voluntary health care payment schemes,sha11.HF.2,Millions,measure
+sha11_hf_1_3_percentage_of_gge,Compulsory Medical Saving Accounts (CMSA),sha11.HF.1.3,Millions,measure
+sha11_hf_1_2_2_percentage_of_gge,Compulsory private insurance schemes,sha11.HF.1.2.2,Millions,measure
+sha11_hf_1_2_1_percentage_of_gge,Social health insurance schemes,sha11.HF.1.2.1,Millions,measure
+sha11_hf_1_2_percentage_of_gge,Compulsory contributory health insurance schemes,sha11.HF.1.2,Millions,measure
+sha11_hf_1_1_percentage_of_gge,Government schemes,sha11.HF.1.1,Millions,measure
+sha11_hf_1_percentage_of_gge,Government schemes and compulsory contributory health care financing schemes,sha11.HF.1,Millions,measure
+sha11_fs_percentage_of_gge,Current health expenditure by revenues of health care financing schemes,sha11.FS,Millions,measure
+sha11_hk_percentage_of_gge,Capital health expenditure,sha11.HK,Millions,measure
+sha11_fs_1_percentage_of_gge,Transfers from government domestic revenue (allocated to health purposes),sha11.FS.1,Millions,measure
+sha11_fs_1_1_percentage_of_gge,Internal transfers and grants,sha11.FS.1.1,Millions,measure
+sha11_fs_1_2_percentage_of_gge,Transfers by government on behalf of specific groups,sha11.FS.1.2,Millions,measure
+sha11_fs_1_3_percentage_of_gge,Subsidies,sha11.FS.1.3,Millions,measure
+sha11_fs_1_4_percentage_of_gge,Other transfers from government domestic revenue,sha11.FS.1.4,Millions,measure
+sha11_fs_2_percentage_of_gge,Transfers distributed by government from foreign origin,sha11.FS.2,Millions,measure
+sha11_fs_3_percentage_of_gge,Social insurance contributions,sha11.FS.3,Millions,measure
+sha11_fs_4_percentage_of_gge,"Compulsory prepayment (Other, and unspecified, than FS.3)",sha11.FS.4,Millions,measure
+sha11_fs_5_percentage_of_gge,Voluntary prepayment,sha11.FS.5,Millions,measure
+sha11_fs_6_percentage_of_gge,Other domestic revenues n.e.c.,sha11.FS.6,Millions,measure
+sha11_fs_6_1_percentage_of_gge,Other revenues from households n.e.c.,sha11.FS.6.1,Millions,measure
+sha11_fs_6_2_percentage_of_gge,Other revenues from corporations n.e.c.,sha11.FS.6.2,Millions,measure
+sha11_fs_6_3_percentage_of_gge,Other revenues from NPISH n.e.c.,sha11.FS.6.3,Millions,measure
+sha11_fs_6_nec_percentage_of_gge,Unspecified other domestic revenues (n.e.c.),sha11.FS.6.nec,Millions,measure
+sha11_fs_7_percentage_of_gge,Direct foreign transfers,sha11.FS.7,Millions,measure
+sha11_fs_nec_percentage_of_gge,Unspecified revenues of health care financing schemes (n.e.c.),sha11.FS.nec,Millions,measure
+sha11_hc_percentage_of_gge,Current health expenditure by health care functions (preliminary data),sha11.HC,Millions,measure
+sha11_hc_9_percentage_of_gge,Other health care services not elsewhere classified (n.e.c.),sha11.HC.9,Millions,measure
+sha11_hc_7_percentage_of_gge,"Governance, and health system and financing administration",sha11.HC.7,Millions,measure
+sha11_hc_6_percentage_of_gge,Preventive care,sha11.HC.6,Millions,measure
+sha11_hc_5_percentage_of_gge,Medical goods (specified by function),sha11.HC.5,Millions,measure
+sha11_hc_4_percentage_of_gge,Ancillary services (specified by function),sha11.HC.4,Millions,measure
+sha11_hc_3_nec_percentage_of_gge,Unspecified long-term care (n.e.c.),sha11.HC.3.nec,Millions,measure
+sha11_hc_3_4_percentage_of_gge,Home-based long-term care (health),sha11.HC.3.4,Millions,measure
+sha11_hc_3_3_percentage_of_gge,Outpatient long-term care (health),sha11.HC.3.3,Millions,measure
+sha11_hc_3_2_percentage_of_gge,Day long-term care (health),sha11.HC.3.2,Millions,measure
+sha11_hc_3_1_percentage_of_gge,Inpatient long-term care (health),sha11.HC.3.1,Millions,measure
+sha11_hc_3_percentage_of_gge,Long-term care (health),sha11.HC.3,Millions,measure
+sha11_hc_2_percentage_of_gge,Rehabilitative care,sha11.HC.2,Millions,measure
+sha11_hc_1_nec_percentage_of_gge,Unspecified curative care (n.e.c.),sha11.HC.1.nec,Millions,measure
+sha11_hc_1_4_percentage_of_gge,Home-based curative care,sha11.HC.1.4,Millions,measure
+sha11_hc_1_3_nec_percentage_of_gge,Unspecified outpatient curative care (n.e.c.),sha11.HC.1.3.nec,Millions,measure
+sha11_hc_1_3_3_percentage_of_gge,Specialised outpatient curative care,sha11.HC.1.3.3,Millions,measure
+sha11_hc_1_3_2_percentage_of_gge,Dental outpatient curative care,sha11.HC.1.3.2,Millions,measure
+sha11_hc_1_3_1_percentage_of_gge,General outpatient curative care,sha11.HC.1.3.1,Millions,measure
+sha11_hc_1_3_percentage_of_gge,Outpatient curative care,sha11.HC.1.3,Millions,measure
+sha11_hc_1_2_percentage_of_gge,Day curative care,sha11.HC.1.2,Millions,measure
+sha11_hc_1_1_percentage_of_gge,Inpatient curative care,sha11.HC.1.1,Millions,measure
+sha11_hc_1_percentage_of_gge,Curative care,sha11.HC.1,Millions,measure
+sha11_hc_gghe_d_percentage_of_gge,Domestic general government health expenditure by health care functions (preliminary data),sha11.HC_gghe-d,Millions,measure
+sha11_hc_1_gghe_d_percentage_of_gge,Domestic General Government Expenditure on Curative care,sha11.HC.1_gghe-d,Millions,measure
+sha11_hc_1_3_gghe_d_percentage_of_gge,Domestic General Government Expenditure on Outpatient curative care,sha11.HC.1.3_gghe-d,Millions,measure
+sha11_hc_1_1_gghe_d_percentage_of_gge,Domestic General Government Expenditure on Inpatient curative care,sha11.HC.1.1_gghe-d,Millions,measure
+sha11_hc_1_2_gghe_d_percentage_of_gge,Domestic General Government Expenditure on Day curative care,sha11.HC.1.2_gghe-d,Millions,measure
+sha11_hc_1_4_gghe_d_percentage_of_gge,Domestic General Government on Home-based curative care,sha11.HC.1.4_gghe-d,Millions,measure
+sha11_hc_1_nec_gghe_d_percentage_of_gge,Domestic General Government Expenditure on Other curative care,sha11.HC.1.nec_gghe-d,Millions,measure
+sha11_hc_1_3_1_gghe_d_percentage_of_gge,Domestic General Government Expenditure on General outpatient curative care,sha11.HC.1.3.1_gghe-d,Millions,measure
+sha11_hc_1_3_2_gghe_d_percentage_of_gge,Domestic General Government Expenditure on Dental outpatient curative care,sha11.HC.1.3.2_gghe-d,Millions,measure
+sha11_hc_1_3_3_gghe_d_percentage_of_gge,Domestic General Government Expenditure on Specialised outpatient curative care,sha11.HC.1.3.3_gghe-d,Millions,measure
+sha11_hc_1_3_nec_gghe_d_percentage_of_gge,Domestic General Government Expenditure on Outpatient curative care n.e.c.,sha11.HC.1.3.nec_gghe-d,Millions,measure
+sha11_hc_2_gghe_d_percentage_of_gge,Domestic General Government Expenditure on Rehabilitative care,sha11.HC.2_gghe-d,Millions,measure
+sha11_hc_3_gghe_d_percentage_of_gge,Domestic General Government Expenditure on Long-term care (health),sha11.HC.3_gghe-d,Millions,measure
+sha11_hc_3_1_gghe_d_percentage_of_gge,Domestic General Government Expenditure on Inpatient long-term care (health),sha11.HC.3.1_gghe-d,Millions,measure
+sha11_hc_3_2_gghe_d_percentage_of_gge,Domestic General Government Expenditure on Day long-term care (health),sha11.HC.3.2_gghe-d,Millions,measure
+sha11_hc_3_3_gghe_d_percentage_of_gge,Domestic General Government Expenditure on Outpatient long-term care (health),sha11.HC.3.3_gghe-d,Millions,measure
+sha11_hc_3_4_gghe_d_percentage_of_gge,Domestic General Government Expenditure on Home-based long-term care (health),sha11.HC.3.4_gghe-d,Millions,measure
+sha11_hc_3_nec_gghe_d_percentage_of_gge,Domestic General Government Expenditure on Other Long-Term Care,sha11.HC.3.nec_gghe-d,Millions,measure
+sha11_hc_4_gghe_d_percentage_of_gge,Domestic General Government Expenditure on Ancillary services (non-specified by function),sha11.HC.4_gghe-d,Millions,measure
+sha11_hc_5_gghe_d_percentage_of_gge,Domestic General Government Expenditure on Medical goods (non-specified by function),sha11.HC.5_gghe-d,Millions,measure
+sha11_hc_6_gghe_d_percentage_of_gge,Domestic General Government Expenditure on Preventive care,sha11.HC.6_gghe-d,Millions,measure
+sha11_hc_7_gghe_d_percentage_of_gge,"Domestic General Government Expenditure on Governance, health system & financing administration",sha11.HC.7_gghe-d,Millions,measure
+sha11_hc_9_gghe_d_percentage_of_gge,Domestic General Government Expenditure on Other health care services (n.e.c.),sha11.HC.9_gghe-d,Millions,measure
+heading_hc_percentage_of_gge,HEALTH CARE FUNCTIONS (preliminary data),Heading_HC,Ones,measure
+heading_dis_percentage_of_gge,DISEASES AND CONDITIONS,Heading_DIS,Ones,measure
+sha11_dis_gghe_d_percentage_of_gge,Domestic general government health expenditure by disease and condition ,sha11.DIS_gghe-d,Ones,measure
+sha11_dis_ext_percentage_of_gge,External sources of funding by disease and condition,sha11.DIS_ext,Ones,measure
+sha11_dis_1_gghe_d_percentage_of_gge,Domestic General Government Expenditure on infectious and parasitic diseases,sha11.DIS.1_gghe-d,Millions,measure
+sha11_dis_2_gghe_d_percentage_of_gge,Domestic General Government Expenditure on reproductive health,sha11.DIS.2_gghe-d,Millions,measure
+sha11_dis_3_gghe_d_percentage_of_gge,Domestic General Government Expenditure on nutritional deficiencies,sha11.DIS.3_gghe-d,Millions,measure
+sha11_dis_4_gghe_d_percentage_of_gge,Domestic General Government Expenditure on noncommunicable diseases,sha11.DIS.4_gghe-d,Millions,measure
+sha11_dis_5_gghe_d_percentage_of_gge,Domestic General Government Expenditure on injuries,sha11.DIS.5_gghe-d,Millions,measure
+sha11_hc_6_2_gghe_d_percentage_of_gge,Domestic General Government Expenditure on immunization programmes,sha11.HC.6.2_gghe-d,Millions,measure
+sha11_dis_1_ext_percentage_of_gge,External sources of funding on infectious and parasitic diseases,sha11.DIS.1_ext,Millions,measure
+sha11_dis_2_ext_percentage_of_gge,External sources of funding on reproductive health,sha11.DIS.2_ext,Millions,measure
+sha11_dis_3_ext_percentage_of_gge,External sources of funding on nutritional deficiencies,sha11.DIS.3_ext,Millions,measure
+sha11_dis_4_ext_percentage_of_gge,External sources of funding on noncommunicable diseases,sha11.DIS.4_ext,Millions,measure
+sha11_dis_5_ext_percentage_of_gge,External sources of funding on injuries,sha11.DIS.5_ext,Millions,measure
+sha11_hc_6_2_ext_percentage_of_gge,External sources of funding on immunization programmes ,sha11.HC.6.2_ext,Millions,measure
+sha11_dis_1_1_gghe_d_percentage_of_gge,Domestic General Government Expenditure on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_gghe-d,Millions,measure
+sha11_dis_1_2_gghe_d_percentage_of_gge,Domestic General Government Expenditure on tuberculosis,sha11.DIS.1.2_gghe-d,Millions,measure
+sha11_dis_1_3_gghe_d_percentage_of_gge,Domestic General Government Expenditure on malaria,sha11.DIS.1.3_gghe-d,Millions,measure
+sha11_dis_2_3_gghe_d_percentage_of_gge,Domestic General Government Expenditure on contraceptive management (family planning),sha11.DIS.2.3_gghe-d,Millions,measure
+sha11_dis_1_1_ext_percentage_of_gge,External sources of funding on HIV/AIDS and sexually transmitted diseases,sha11.DIS.1.1_ext,Millions,measure
+sha11_dis_1_2_ext_percentage_of_gge,External sources of funding on tuberculosis,sha11.DIS.1.2_ext,Millions,measure
+sha11_dis_1_3_ext_percentage_of_gge,External sources of funding on malaria,sha11.DIS.1.3_ext,Millions,measure
+sha11_dis_2_3_ext_percentage_of_gge,External sources of funding on contraceptive management (family planning),sha11.DIS.2.3_ext,Millions,measure
+heading_age_percentage_of_gge,AGE,Heading_AGE,Ones,measure
+sha11_age_1_gghe_d_percentage_of_gge,Domestic General Government Health Expenditure in the < 5 year-old population,sha11.AGE.1_gghe-d,Millions,measure
+sha11_age_1_ext_percentage_of_gge,External sources of funding in the < 5 year-old population,sha11.AGE.1_ext,Millions,measure

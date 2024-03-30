@@ -1,0 +1,9 @@
+concept,name,concept_type
+name,Name,string
+year,Year,time
+country,Country,entity_domain
+indicator_code,Indicator Code,string
+indicator_unit,Indicator Unit,string
+country_income_group,Country Income Group,string
+country_who_region,Country WHO Region,string
+country_code,Country Code,string

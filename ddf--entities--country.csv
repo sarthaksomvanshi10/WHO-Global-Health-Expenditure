@@ -1,0 +1,194 @@
+country,name,country_code,country_who_region,country_income_group
+atg,Antigua and Barbuda,ATG,AMR,Hi
+arg,Argentina,ARG,AMR,Hi
+brb,Barbados,BRB,AMR,Hi
+bhs,Bahamas,BHS,AMR,Hi
+blz,Belize,BLZ,AMR,Up-Mid
+bol,Bolivia Plurinational States of ,BOL,AMR,Low-Mid
+bra,Brazil,BRA,AMR,Up-Mid
+can,Canada,CAN,AMR,Hi
+chl,Chile,CHL,AMR,Hi
+cod,Democratic Republic of the Congo,COD,AFR,Low
+cri,Costa Rica,CRI,AMR,Up-Mid
+col,Colombia,COL,AMR,Up-Mid
+dma,Dominica,DMA,AMR,Up-Mid
+dom,Dominican Republic,DOM,AMR,Up-Mid
+ecu,Ecuador,ECU,AMR,Up-Mid
+slv,El Salvador,SLV,AMR,Low-Mid
+gtm,Guatemala,GTM,AMR,Low-Mid
+grd,Grenada,GRD,AMR,Up-Mid
+guy,Guyana,GUY,AMR,Up-Mid
+hti,Haiti,HTI,AMR,Low
+hnd,Honduras,HND,AMR,Low-Mid
+jam,Jamaica,JAM,AMR,Up-Mid
+kor,Republic of Korea,KOR,WPR,Hi
+mkd,The former Yugoslav Republic of Macedonia,MKD,EUR,Up-Mid
+mda,Republic of Moldova,MDA,EUR,Low-Mid
+mex,Mexico,MEX,AMR,Up-Mid
+nic,Nicaragua,NIC,AMR,Low-Mid
+nzl,New Zealand,NZL,WPR,Hi
+pan,Panama,PAN,AMR,Up-Mid
+pry,Paraguay,PRY,AMR,Up-Mid
+per,Peru,PER,AMR,Up-Mid
+kna,Saint Kitts and Nevis,KNA,AMR,Hi
+png,Papua New Guinea,PNG,WPR,Low-Mid
+lca,Saint Lucia,LCA,AMR,Up-Mid
+sur,Suriname,SUR,AMR,Up-Mid
+tza,United Republic of Tanzania,TZA,AFR,Low
+tto,Trinidad and Tobago,TTO,AMR,Hi
+vct,Saint Vincent and the Grenadines,VCT,AMR,Up-Mid
+are,United Arab Emirates,ARE,EMR,Hi
+gbr,United Kingdom,GBR,EUR,Hi
+usa,United States of America,USA,AMR,Hi
+ury,Uruguay,URY,AMR,Hi
+ven,Venezuela (Bolivarian Republic of),VEN,AMR,Up-Mid
+eth,Ethiopia,ETH,AFR,Low
+egy,Egypt,EGY,EMR,Low-Mid
+sau,Saudi Arabia,SAU,EMR,Hi
+vnm,Viet Nam,VNM,WPR,Low-Mid
+dza,Algeria,DZA,AFR,Up-Mid
+ben,Benin,BEN,AFR,Low
+ago,Angola,AGO,AFR,Low-Mid
+bwa,Botswana,BWA,AFR,Up-Mid
+bfa,Burkina Faso,BFA,AFR,Low
+bdi,Burundi,BDI,AFR,Low
+cpv,Cabo Verde Republic of,CPV,AFR,Low-Mid
+cmr,Cameroon,CMR,AFR,Low-Mid
+caf,Central African Republic,CAF,AFR,Low
+tcd,Chad,TCD,AFR,Low
+com,Comoros,COM,AFR,Low
+cog,Congo,COG,AFR,Low-Mid
+civ,Côte d'Ivoire,CIV,AFR,Low-Mid
+gnq,Equatorial Guinea,GNQ,AFR,Up-Mid
+est,Estonia,EST,EUR,Hi
+gab,Gabon,GAB,AFR,Up-Mid
+fra,France,FRA,EUR,Hi
+deu,Germany,DEU,EUR,Hi
+gin,Guinea,GIN,AFR,Low
+kaz,Kazakhstan,KAZ,EUR,Up-Mid
+grc,Greece,GRC,EUR,Hi
+lbn,Lebanon,LBN,EMR,Up-Mid
+lso,Lesotho,LSO,AFR,Low-Mid
+lux,Luxembourg,LUX,EUR,Hi
+mdg,Madagascar,MDG,AFR,Low
+mdv,Maldives,MDV,SEAR,Up-Mid
+mrt,Mauritania,MRT,AFR,Low-Mid
+mhl,Marshall Islands,MHL,WPR,Up-Mid
+mar,Morocco,MAR,EMR,Low-Mid
+ner,Niger,NER,AFR,Low
+rus,Russian Federation,RUS,EUR,Up-Mid
+mmr,Myanmar,MMR,SEAR,Low-Mid
+smr,San Marino,SMR,EUR,Hi
+syc,Seychelles,SYC,AFR,Hi
+srb,Serbia,SRB,EUR,Up-Mid
+prk,Democratic People's Republic of Korea,PRK,SEAR,Low
+som,Somalia,SOM,EMR,Low
+tls,Timor-Leste,TLS,SEAR,Low-Mid
+sdn,Sudan,SDN,EMR,Low-Mid
+tuv,Tuvalu,TUV,WPR,Up-Mid
+zmb,Zambia,ZMB,AFR,Low-Mid
+afg,Afghanistan,AFG,EMR,Low
+yem,Yemen,YEM,EMR,Low-Mid
+bhr,Bahrain,BHR,EMR,Hi
+dji,Djibouti,DJI,EMR,Low-Mid
+dnk,Denmark,DNK,EUR,Hi
+idn,Indonesia,IDN,SEAR,Low-Mid
+irn,Iran,IRN,EMR,Up-Mid
+jpn,Japan,JPN,WPR,Hi
+kir,Kiribati,KIR,WPR,Low-Mid
+lbr,Liberia,LBR,AFR,Low
+mne,Montenegro,MNE,EUR,Up-Mid
+lva,Latvia,LVA,EUR,Hi
+nor,Norway,NOR,EUR,Hi
+omn,Oman,OMN,EMR,Hi
+prt,Portugal,PRT,EUR,Hi
+stp,Sao Tome and Principe,STP,AFR,Low-Mid
+slb,Solomon Islands,SLB,WPR,Low-Mid
+lka,Sri Lanka,LKA,SEAR,Low-Mid
+ton,Tonga,TON,WPR,Up-Mid
+ukr,Ukraine,UKR,EUR,Low-Mid
+che,Switzerland,CHE,EUR,Hi
+alb,Albania,ALB,EUR,Up-Mid
+arm,Armenia,ARM,EUR,Low-Mid
+and,Andorra,AND,EUR,Hi
+aut,Austria,AUT,EUR,Hi
+aze,Azerbaijan,AZE,EUR,Up-Mid
+blr,Belarus,BLR,EUR,Up-Mid
+bih,Bosnia and Herzegovina,BIH,EUR,Up-Mid
+bel,Belgium,BEL,EUR,Hi
+bgr,Bulgaria,BGR,EUR,Up-Mid
+hrv,Croatia,HRV,EUR,Up-Mid
+cub,Cuba,CUB,AMR,Up-Mid
+cyp,Cyprus,CYP,EUR,Hi
+eri,Eritrea,ERI,AFR,Low
+fji,Fiji,FJI,WPR,Up-Mid
+gmb,Gambia,GMB,AFR,Low
+geo,Georgia,GEO,EUR,Low-Mid
+gha,Ghana,GHA,AFR,Low-Mid
+gnb,Guinea-Bissau,GNB,AFR,Low
+hun,Hungary,HUN,EUR,Hi
+fin,Finland,FIN,EUR,Hi
+irq,Iraq,IRQ,EMR,Up-Mid
+irl,Ireland,IRL,EUR,Hi
+isr,Israel,ISR,EUR,Hi
+jor,Jordan,JOR,EMR,Low-Mid
+kwt,Kuwait,KWT,EMR,Hi
+lao,Lao People's Democratic Republic,LAO,WPR,Low-Mid
+lby,Libya,LBY,EMR,Up-Mid
+ltu,Lithuania,LTU,EUR,Hi
+mli,Mali,MLI,AFR,Low
+mng,Mongolia,MNG,WPR,Low-Mid
+npl,Nepal,NPL,SEAR,Low
+fsm,Micronesia (Federated States of),FSM,WPR,Low-Mid
+niu,Niue,NIU,WPR,Up-Mid
+phl,Philippines,PHL,WPR,Low-Mid
+pol,Poland,POL,EUR,Hi
+rou,Romania,ROU,EUR,Up-Mid
+wsm,Samoa,WSM,WPR,Up-Mid
+sen,Senegal,SEN,AFR,Low
+sgp,Singapore,SGP,WPR,Hi
+svk,Slovakia,SVK,EUR,Hi
+zaf,South Africa,ZAF,AFR,Up-Mid
+swz,Swaziland,SWZ,AFR,Low-Mid
+swe,Sweden,SWE,EUR,Hi
+syr,Syria,SYR,EMR,Low-Mid
+tha,Thailand,THA,SEAR,Up-Mid
+tun,Tunisia,TUN,EMR,Low-Mid
+uga,Uganda,UGA,AFR,Low
+tur,Turkey,TUR,EUR,Up-Mid
+bgd,Bangladesh,BGD,SEAR,Low-Mid
+btn,Bhutan,BTN,SEAR,Low-Mid
+cze,Czech Republic,CZE,EUR,Hi
+isl,Iceland,ISL,EUR,Hi
+ind,India,IND,SEAR,Low-Mid
+mys,Malaysia,MYS,WPR,Up-Mid
+moz,Mozambique,MOZ,AFR,Low
+nru,Nauru,NRU,WPR,Up-Mid
+esp,Spain,ESP,EUR,Hi
+tjk,Tajikistan,TJK,EUR,Low-Mid
+aus,Australia,AUS,WPR,Hi
+brn,Brunei Darussalam,BRN,WPR,Hi
+khm,Cambodia,KHM,WPR,Low-Mid
+chn,China,CHN,WPR,Up-Mid
+cok,Cook Islands,COK,WPR,Up-Mid
+ken,Kenya,KEN,AFR,Low-Mid
+kgz,Kyrgyzstan,KGZ,EUR,Low-Mid
+mwi,Malawi,MWI,AFR,Low
+ita,Italy,ITA,EUR,Hi
+mlt,Malta,MLT,EUR,Hi
+mus,Mauritius,MUS,AFR,Up-Mid
+nam,Namibia,NAM,AFR,Up-Mid
+mco,Monaco,MCO,EUR,Hi
+nld,Netherlands,NLD,EUR,Hi
+nga,Nigeria,NGA,AFR,Low-Mid
+pak,Pakistan,PAK,EMR,Low-Mid
+plw,Palau,PLW,WPR,Hi
+qat,Qatar,QAT,EMR,Hi
+rwa,Rwanda,RWA,AFR,Low
+sle,Sierra Leone,SLE,AFR,Low
+tgo,Togo,TGO,AFR,Low
+svn,Slovenia,SVN,EUR,Hi
+tkm,Turkmenistan,TKM,EUR,Up-Mid
+uzb,Uzbekistan,UZB,EUR,Low-Mid
+vut,Vanuatu,VUT,WPR,Low-Mid
+zwe,Zimbabwe,ZWE,AFR,Low
